@@ -1,0 +1,42 @@
+name: Will not start, or Windows or antivirus blocks it
+description: Installing and starting the program
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "**Issues are public.** Please leave out anything private about your organisation's computers."
+  - type: input
+    id: version
+    attributes:
+      label: CLIMo version
+      description: From the name of the zip you downloaded.
+      placeholder: "1.1.0b1"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      description: Press the Windows key, type `winver` and press Enter.
+      placeholder: "Windows 11 24H2"
+    validations:
+      required: true
+  - type: dropdown
+    id: computer
+    attributes:
+      label: Whose computer is it?
+      options: ["My own", "Managed by my organisation", "Not sure"]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happens?
+      description: The exact words of any message, and a screenshot if you can. Which antivirus, if it was that?
+    validations:
+      required: true
+  - type: dropdown
+    id: unpacked
+    attributes:
+      label: Did you unpack the zip with Extract All first?
+      options: ["Yes", "No", "Not sure"]

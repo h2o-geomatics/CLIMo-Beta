@@ -1,0 +1,20 @@
+name: Request a feature
+description: Something you wish CLIMo did, or did differently
+labels: [enhancement]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What would you like CLIMo to do?
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: What would it help you do?
+      description: Your study, or the step where you run into this. Issues here are public, so leave out anything private.
+  - type: input
+    id: version
+    attributes:
+      label: CLIMo version
+      description: Shown in the title of the window.

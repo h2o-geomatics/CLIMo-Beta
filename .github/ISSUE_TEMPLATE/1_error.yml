@@ -1,0 +1,41 @@
+name: Something fails
+description: An error message, a crash, or a button that does nothing
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "**Issues are public.** Never paste your CDS key. Look through anything you attach: logs show lake and folder names."
+  - type: textarea
+    id: report
+    attributes:
+      label: Report information
+      description: In CLIMo, choose Help > Copy report information and paste it here. From the command line, give the output of `climo --version` and your Windows version.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+      description: Please include the whole error message.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen
+      description: The lake or coordinates, dates and settings, in order. From the command line, the exact command.
+      placeholder: "Prosperous Lake, 2015-01-01 to 2016-12-31, Source auto, then Build forcing"
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: The log
+      description: Help > Open log folder, then drag `climo-gui.log` here, or paste the last part of it.
+      render: text
+  - type: textarea
+    id: metadata
+    attributes:
+      label: Forcing settings
+      description: If it concerns forcing, drag in the `*_metadata.json` file from your results folder.

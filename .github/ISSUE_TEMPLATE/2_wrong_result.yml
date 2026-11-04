@@ -1,0 +1,48 @@
+name: A result looks wrong
+description: Dates, ice thickness, snow or forcing that do not look right
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "**Issues are public.** Never paste your CDS key, and only attach data you may share."
+  - type: textarea
+    id: report
+    attributes:
+      label: Report information
+      description: In CLIMo, choose Help > Copy report information and paste it here. From the command line, give the output of `climo --version`.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What looks wrong, and why?
+      description: What you expected, and how you know (observations, another model, physics).
+    validations:
+      required: true
+  - type: textarea
+    id: lake
+    attributes:
+      label: Lake and period
+      description: Name or coordinates, start and end years.
+    validations:
+      required: true
+  - type: textarea
+    id: settings
+    attributes:
+      label: Model settings
+      description: Mixing depth, snow percentage, densities, spin-up years, and every model option that is not at its default.
+    validations:
+      required: true
+  - type: dropdown
+    id: defaults
+    attributes:
+      label: Does it also happen with every model option at its default?
+      options: ["Yes", "No", "Not tried"]
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Files
+      description: Please drag in the `*_metadata.json` file, which says where each variable came from, and if you can, `*_forcing.csv` and `*_daily.csv` (zip them if GitHub refuses).

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Quick start and documentation
+    url: https://github.com/h2o-geomatics/CLIMo-Beta/blob/main/QUICKSTART.md
+    about: Getting started, the ERA5 key and common problems
+  - name: Private study sites, security problems, commercial licences
+    url: https://github.com/h2o-geomatics/CLIMo-Beta#licence
+    about: Issues here are public. For anything private, write to info@h2ogeomatics.com
