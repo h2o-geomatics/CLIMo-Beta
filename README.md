@@ -17,7 +17,7 @@ and a place to report problems and request features. You do not need Python.
 | **The program** | Under [Releases](https://github.com/h2o-geomatics/CLIMo-Beta/releases), as a zip for 64-bit Windows 11. It should also work on Windows 10, which has not been tested yet |
 | **Documentation** | [docs/](docs/overview.md), with the science and the validation behind each option |
 | **Validation data and results** | [validation/](validation/), which the documentation links to |
-| **Source code** | Not published yet. It is developed in a separate repository and is planned for this one later |
+| **Source code** | Not published yet. It is developed in a separate repository|
 
 ## This is a beta
 
