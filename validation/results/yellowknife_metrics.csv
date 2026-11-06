@@ -1,0 +1,113 @@
+site,model,snow_percentage,quantity,n,mae,bias
+yellowknife,CLIMo station,0.0,ice thickness (m),756,0.431,0.424
+yellowknife,CLIMo station,0.0,maximum ice thickness (m),30,0.553,0.553
+yellowknife,CLIMo station,0.0,freeze-up (days),11,5.0,2.273
+yellowknife,CLIMo station,0.0,break-up (days),12,7.333,7.333
+yellowknife,CLIMo station,0.0,"effective break-up, ice < 0.1 m (days)",12,6.333,6.333
+yellowknife,CLIMo station,0.0,snow depth on the ice (m),756,0.164,-0.164
+yellowknife,CLIMo station,50.0,ice thickness (m),756,0.14,0.094
+yellowknife,CLIMo station,50.0,maximum ice thickness (m),30,0.163,0.114
+yellowknife,CLIMo station,50.0,freeze-up (days),11,5.091,2.182
+yellowknife,CLIMo station,50.0,break-up (days),12,3.75,3.583
+yellowknife,CLIMo station,50.0,"effective break-up, ice < 0.1 m (days)",12,2.833,2.0
+yellowknife,CLIMo station,50.0,snow depth on the ice (m),756,0.067,0.045
+yellowknife,CLIMo station,100.0,ice thickness (m),756,0.196,0.169
+yellowknife,CLIMo station,100.0,maximum ice thickness (m),30,0.252,0.241
+yellowknife,CLIMo station,100.0,freeze-up (days),11,5.091,2.182
+yellowknife,CLIMo station,100.0,break-up (days),12,6.417,6.417
+yellowknife,CLIMo station,100.0,"effective break-up, ice < 0.1 m (days)",12,5.167,5.167
+yellowknife,CLIMo station,100.0,snow depth on the ice (m),756,0.084,0.071
+yellowknife,"CLIMo station, mixing depth 5 m",0.0,ice thickness (m),756,0.457,0.454
+yellowknife,"CLIMo station, mixing depth 5 m",0.0,maximum ice thickness (m),30,0.573,0.573
+yellowknife,"CLIMo station, mixing depth 5 m",0.0,freeze-up (days),11,6.818,-6.636
+yellowknife,"CLIMo station, mixing depth 5 m",0.0,break-up (days),12,8.0,8.0
+yellowknife,"CLIMo station, mixing depth 5 m",0.0,"effective break-up, ice < 0.1 m (days)",12,6.583,6.583
+yellowknife,"CLIMo station, mixing depth 5 m",0.0,snow depth on the ice (m),756,0.164,-0.164
+yellowknife,"CLIMo station, mixing depth 5 m",50.0,ice thickness (m),756,0.144,0.106
+yellowknife,"CLIMo station, mixing depth 5 m",50.0,maximum ice thickness (m),30,0.166,0.12
+yellowknife,"CLIMo station, mixing depth 5 m",50.0,freeze-up (days),11,6.818,-6.636
+yellowknife,"CLIMo station, mixing depth 5 m",50.0,break-up (days),12,3.917,3.75
+yellowknife,"CLIMo station, mixing depth 5 m",50.0,"effective break-up, ice < 0.1 m (days)",12,3.0,2.333
+yellowknife,"CLIMo station, mixing depth 5 m",50.0,snow depth on the ice (m),756,0.069,0.052
+yellowknife,"CLIMo station, mixing depth 5 m",100.0,ice thickness (m),756,0.214,0.195
+yellowknife,"CLIMo station, mixing depth 5 m",100.0,maximum ice thickness (m),30,0.27,0.26
+yellowknife,"CLIMo station, mixing depth 5 m",100.0,freeze-up (days),11,6.818,-6.636
+yellowknife,"CLIMo station, mixing depth 5 m",100.0,break-up (days),12,6.833,6.833
+yellowknife,"CLIMo station, mixing depth 5 m",100.0,"effective break-up, ice < 0.1 m (days)",12,5.75,5.75
+yellowknife,"CLIMo station, mixing depth 5 m",100.0,snow depth on the ice (m),756,0.088,0.078
+yellowknife,"CLIMo station, mixing depth 20 m",0.0,ice thickness (m),756,0.37,0.329
+yellowknife,"CLIMo station, mixing depth 20 m",0.0,maximum ice thickness (m),30,0.49,0.49
+yellowknife,"CLIMo station, mixing depth 20 m",0.0,freeze-up (days),11,15.545,15.545
+yellowknife,"CLIMo station, mixing depth 20 m",0.0,break-up (days),12,6.25,6.25
+yellowknife,"CLIMo station, mixing depth 20 m",0.0,"effective break-up, ice < 0.1 m (days)",12,5.0,5.0
+yellowknife,"CLIMo station, mixing depth 20 m",0.0,snow depth on the ice (m),756,0.164,-0.164
+yellowknife,"CLIMo station, mixing depth 20 m",50.0,ice thickness (m),756,0.137,0.043
+yellowknife,"CLIMo station, mixing depth 20 m",50.0,maximum ice thickness (m),30,0.15,0.094
+yellowknife,"CLIMo station, mixing depth 20 m",50.0,freeze-up (days),11,15.636,15.636
+yellowknife,"CLIMo station, mixing depth 20 m",50.0,break-up (days),12,3.417,2.917
+yellowknife,"CLIMo station, mixing depth 20 m",50.0,"effective break-up, ice < 0.1 m (days)",12,2.667,1.667
+yellowknife,"CLIMo station, mixing depth 20 m",50.0,snow depth on the ice (m),756,0.064,0.025
+yellowknife,"CLIMo station, mixing depth 20 m",100.0,ice thickness (m),756,0.167,0.091
+yellowknife,"CLIMo station, mixing depth 20 m",100.0,maximum ice thickness (m),30,0.213,0.189
+yellowknife,"CLIMo station, mixing depth 20 m",100.0,freeze-up (days),11,15.636,15.636
+yellowknife,"CLIMo station, mixing depth 20 m",100.0,break-up (days),12,5.5,5.5
+yellowknife,"CLIMo station, mixing depth 20 m",100.0,"effective break-up, ice < 0.1 m (days)",12,4.25,4.25
+yellowknife,"CLIMo station, mixing depth 20 m",100.0,snow depth on the ice (m),756,0.078,0.05
+yellowknife,CLIMo ERA5,0.0,ice thickness (m),756,0.415,0.402
+yellowknife,CLIMo ERA5,0.0,maximum ice thickness (m),30,0.537,0.537
+yellowknife,CLIMo ERA5,0.0,freeze-up (days),11,6.364,4.909
+yellowknife,CLIMo ERA5,0.0,break-up (days),12,6.25,6.25
+yellowknife,CLIMo ERA5,0.0,"effective break-up, ice < 0.1 m (days)",12,4.917,4.75
+yellowknife,CLIMo ERA5,0.0,snow depth on the ice (m),756,0.164,-0.164
+yellowknife,CLIMo ERA5,50.0,ice thickness (m),756,0.126,0.072
+yellowknife,CLIMo ERA5,50.0,maximum ice thickness (m),30,0.149,0.086
+yellowknife,CLIMo ERA5,50.0,freeze-up (days),11,6.364,4.909
+yellowknife,CLIMo ERA5,50.0,break-up (days),12,2.5,1.833
+yellowknife,CLIMo ERA5,50.0,"effective break-up, ice < 0.1 m (days)",12,2.333,0.667
+yellowknife,CLIMo ERA5,50.0,snow depth on the ice (m),756,0.06,0.029
+yellowknife,CLIMo ERA5,100.0,ice thickness (m),756,0.145,0.101
+yellowknife,CLIMo ERA5,100.0,maximum ice thickness (m),30,0.184,0.154
+yellowknife,CLIMo ERA5,100.0,freeze-up (days),11,6.364,4.909
+yellowknife,CLIMo ERA5,100.0,break-up (days),12,3.833,3.667
+yellowknife,CLIMo ERA5,100.0,"effective break-up, ice < 0.1 m (days)",12,3.0,2.5
+yellowknife,CLIMo ERA5,100.0,snow depth on the ice (m),756,0.074,0.055
+yellowknife,"CLIMo ERA5, mixing depth 5 m",0.0,ice thickness (m),756,0.439,0.433
+yellowknife,"CLIMo ERA5, mixing depth 5 m",0.0,maximum ice thickness (m),30,0.557,0.557
+yellowknife,"CLIMo ERA5, mixing depth 5 m",0.0,freeze-up (days),11,4.909,-4.364
+yellowknife,"CLIMo ERA5, mixing depth 5 m",0.0,break-up (days),12,6.667,6.667
+yellowknife,"CLIMo ERA5, mixing depth 5 m",0.0,"effective break-up, ice < 0.1 m (days)",12,5.5,5.5
+yellowknife,"CLIMo ERA5, mixing depth 5 m",0.0,snow depth on the ice (m),756,0.164,-0.164
+yellowknife,"CLIMo ERA5, mixing depth 5 m",50.0,ice thickness (m),756,0.127,0.074
+yellowknife,"CLIMo ERA5, mixing depth 5 m",50.0,maximum ice thickness (m),30,0.145,0.079
+yellowknife,"CLIMo ERA5, mixing depth 5 m",50.0,freeze-up (days),11,4.909,-4.364
+yellowknife,"CLIMo ERA5, mixing depth 5 m",50.0,break-up (days),12,2.583,1.917
+yellowknife,"CLIMo ERA5, mixing depth 5 m",50.0,"effective break-up, ice < 0.1 m (days)",12,2.0,0.5
+yellowknife,"CLIMo ERA5, mixing depth 5 m",50.0,snow depth on the ice (m),756,0.061,0.037
+yellowknife,"CLIMo ERA5, mixing depth 5 m",100.0,ice thickness (m),756,0.155,0.119
+yellowknife,"CLIMo ERA5, mixing depth 5 m",100.0,maximum ice thickness (m),30,0.19,0.166
+yellowknife,"CLIMo ERA5, mixing depth 5 m",100.0,freeze-up (days),11,4.909,-4.364
+yellowknife,"CLIMo ERA5, mixing depth 5 m",100.0,break-up (days),12,4.0,3.833
+yellowknife,"CLIMo ERA5, mixing depth 5 m",100.0,"effective break-up, ice < 0.1 m (days)",12,3.167,2.667
+yellowknife,"CLIMo ERA5, mixing depth 5 m",100.0,snow depth on the ice (m),756,0.076,0.061
+yellowknife,"CLIMo ERA5, mixing depth 20 m",0.0,ice thickness (m),756,0.358,0.305
+yellowknife,"CLIMo ERA5, mixing depth 20 m",0.0,maximum ice thickness (m),30,0.474,0.474
+yellowknife,"CLIMo ERA5, mixing depth 20 m",0.0,freeze-up (days),11,18.909,18.909
+yellowknife,"CLIMo ERA5, mixing depth 20 m",0.0,break-up (days),12,5.0,4.833
+yellowknife,"CLIMo ERA5, mixing depth 20 m",0.0,"effective break-up, ice < 0.1 m (days)",12,3.917,3.583
+yellowknife,"CLIMo ERA5, mixing depth 20 m",0.0,snow depth on the ice (m),756,0.164,-0.164
+yellowknife,"CLIMo ERA5, mixing depth 20 m",50.0,ice thickness (m),756,0.153,0.045
+yellowknife,"CLIMo ERA5, mixing depth 20 m",50.0,maximum ice thickness (m),30,0.163,0.102
+yellowknife,"CLIMo ERA5, mixing depth 20 m",50.0,freeze-up (days),11,19.0,19.0
+yellowknife,"CLIMo ERA5, mixing depth 20 m",50.0,break-up (days),12,2.417,1.917
+yellowknife,"CLIMo ERA5, mixing depth 20 m",50.0,"effective break-up, ice < 0.1 m (days)",12,2.417,0.583
+yellowknife,"CLIMo ERA5, mixing depth 20 m",50.0,snow depth on the ice (m),756,0.061,0.001
+yellowknife,"CLIMo ERA5, mixing depth 20 m",100.0,ice thickness (m),756,0.145,0.039
+yellowknife,"CLIMo ERA5, mixing depth 20 m",100.0,maximum ice thickness (m),30,0.163,0.12
+yellowknife,"CLIMo ERA5, mixing depth 20 m",100.0,freeze-up (days),11,19.0,19.0
+yellowknife,"CLIMo ERA5, mixing depth 20 m",100.0,break-up (days),12,3.25,3.083
+yellowknife,"CLIMo ERA5, mixing depth 20 m",100.0,"effective break-up, ice < 0.1 m (days)",12,2.5,1.667
+yellowknife,"CLIMo ERA5, mixing depth 20 m",100.0,snow depth on the ice (m),756,0.072,0.035
+yellowknife,ERA5 FLake,,ice thickness (m),756,0.362,0.352
+yellowknife,ERA5 FLake,,maximum ice thickness (m),30,0.371,0.371
+yellowknife,ERA5 FLake,,freeze-up (days),11,7.636,-7.636
+yellowknife,ERA5 FLake,,break-up (days),12,11.833,11.833

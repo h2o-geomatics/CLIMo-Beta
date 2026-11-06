@@ -1,0 +1,342 @@
+{
+  "note": "Forcing of the validation experiments (validation/compare.py). The files are in validation/data/frozen/, not committed; see docs/validation.md to rebuild them.",
+  "frozen": "2026-10-29T20:10:50Z",
+  "files": [
+    {
+      "site": "yellowknife",
+      "forcing": "station",
+      "path": "data/frozen/yellowknife/station/forcing.csv",
+      "sha256": "609e60572bb4414f6a1c50a18c56fdcd772c0f41ef9f5c3b715568a7e3ce87b8",
+      "metadata": "data/frozen/yellowknife/station/metadata.json",
+      "metadata_sha256": "9f1255b139a3a0de447e51384347ca53479fd0afc5d342cfc078626cad4732b3",
+      "first_day": "1980-01-01",
+      "last_day": "2016-12-31",
+      "built": "2026-10-28T01:57:12+00:00",
+      "sources": [
+        "AirTemp: station 719360-99999 YELLOWKNIFE (3.88 km), 365 days filled from ERA5",
+        "RelHum: station 719360-99999 YELLOWKNIFE (3.88 km), 368 days filled from ERA5",
+        "WindSpd: station 719360-99999 YELLOWKNIFE (3.88 km), 365 days filled from ERA5",
+        "Cloud: station 719360-99999 YELLOWKNIFE (3.88 km), 406 days filled from ERA5",
+        "Snow: station CAN02204100 YELLOWKNIFE A (3.88 km), 1619 days filled from ERA5"
+      ],
+      "request": {
+        "latitude": 62.45,
+        "longitude": -114.37,
+        "start": "1980-01-01",
+        "end": "2016-12-31",
+        "source": "auto",
+        "min_coverage": 0.8,
+        "snow_density": 100.0
+      },
+      "station_for": "AirTemp=719360-99999; RelHum=719360-99999; WindSpd=719360-99999; Cloud=719360-99999; Snow=CAN02204100"
+    },
+    {
+      "site": "yellowknife",
+      "forcing": "era5",
+      "path": "data/frozen/yellowknife/era5/forcing.csv",
+      "sha256": "cbbffc3aab2b5d9dd0114a17508f51b99d1d4ea9b278c27190d0baec6a096eed",
+      "metadata": "data/frozen/yellowknife/era5/metadata.json",
+      "metadata_sha256": "86c78ca8255c4b8ef1e1dad3d8955070b4e7bc6f0c0979db50664b6a0c5efa15",
+      "first_day": "1980-01-01",
+      "last_day": "2016-12-31",
+      "built": "2026-10-28T01:58:07+00:00",
+      "sources": [
+        "AirTemp: ERA5",
+        "RelHum: ERA5",
+        "WindSpd: ERA5",
+        "Cloud: ERA5",
+        "Snow: ERA5-Land"
+      ],
+      "request": {
+        "latitude": 62.45,
+        "longitude": -114.37,
+        "start": "1980-01-01",
+        "end": "2016-12-31",
+        "source": "era5",
+        "min_coverage": 0.9,
+        "snow_density": 100.0
+      },
+      "station_for": ""
+    },
+    {
+      "site": "baker_lake",
+      "forcing": "station",
+      "path": "data/frozen/baker_lake/station/forcing.csv",
+      "sha256": "4fdc8a7b0403b13504def9a3086a35641eaf2c024684fd8adc21f8e851abccfb",
+      "metadata": "data/frozen/baker_lake/station/metadata.json",
+      "metadata_sha256": "ff25330051a584cac30ad3a195826ba56423c2333908b833d14c45c603ab7724",
+      "first_day": "1980-01-01",
+      "last_day": "2020-12-31",
+      "built": "2026-10-28T02:00:40+00:00",
+      "sources": [
+        "AirTemp: station 719260-99999 BAKER LAKE (0.15 km), 693 days filled from ERA5",
+        "RelHum: station 719260-99999 BAKER LAKE (0.15 km), 719 days filled from ERA5",
+        "WindSpd: station 719260-99999 BAKER LAKE (0.15 km), 687 days filled from ERA5",
+        "Cloud: station 719260-99999 BAKER LAKE (0.15 km), 1180 days filled from ERA5",
+        "Snow: station CAN02300500 BAKER LAKE A (0.16 km), 2859 days filled from ERA5"
+      ],
+      "request": {
+        "latitude": 64.3,
+        "longitude": -96.08,
+        "start": "1980-01-01",
+        "end": "2020-12-31",
+        "source": "auto",
+        "min_coverage": 0.8,
+        "snow_density": 100.0
+      },
+      "station_for": "AirTemp=719260-99999; RelHum=719260-99999; WindSpd=719260-99999; Cloud=719260-99999; Snow=CAN02300500"
+    },
+    {
+      "site": "baker_lake",
+      "forcing": "era5",
+      "path": "data/frozen/baker_lake/era5/forcing.csv",
+      "sha256": "c77ad47a5a795e84332aca147bc30c3fbf1c55c439479e7cec6ffd2cc1d1e50a",
+      "metadata": "data/frozen/baker_lake/era5/metadata.json",
+      "metadata_sha256": "8c0354723efb3a24506ff33501ce876019de1d61fbc74514b2b19454852f20c0",
+      "first_day": "1980-01-01",
+      "last_day": "2020-12-31",
+      "built": "2026-10-28T02:01:49+00:00",
+      "sources": [
+        "AirTemp: ERA5",
+        "RelHum: ERA5",
+        "WindSpd: ERA5",
+        "Cloud: ERA5",
+        "Snow: ERA5-Land"
+      ],
+      "request": {
+        "latitude": 64.3,
+        "longitude": -96.08,
+        "start": "1980-01-01",
+        "end": "2020-12-31",
+        "source": "era5",
+        "min_coverage": 0.9,
+        "snow_density": 100.0
+      },
+      "station_for": ""
+    },
+    {
+      "site": "island_lake",
+      "forcing": "station",
+      "path": "data/frozen/island_lake/station/forcing.csv",
+      "sha256": "ed13f5f15efe50865f80256a23e15308449b936a9eeaed4f1e8c456a4038bb55",
+      "metadata": "data/frozen/island_lake/station/metadata.json",
+      "metadata_sha256": "06b8c97ad7ee988d6d39eab26d764c74214ead1f98abebacfa7774edbd7aec71",
+      "first_day": "1973-01-01",
+      "last_day": "1998-12-31",
+      "built": "2026-10-28T02:05:52+00:00",
+      "sources": [
+        "AirTemp: station 5061376 ISLAND LAKE A (0.0 km), 3 days filled from ERA5",
+        "RelHum: station 5061376 ISLAND LAKE A (0.0 km), 4 days filled from ERA5",
+        "WindSpd: station 5061376 ISLAND LAKE A (0.0 km), 0 days filled from ERA5",
+        "Cloud: ERA5",
+        "Snow: station CAN05061376 ISLAND LAKE A (0.0 km), 133 days filled from ERA5"
+      ],
+      "request": {
+        "latitude": 53.85,
+        "longitude": -94.65,
+        "start": "1973-01-01",
+        "end": "1998-12-31",
+        "source": "auto",
+        "min_coverage": 0.8,
+        "snow_density": 100.0
+      },
+      "station_for": "AirTemp=5061376; RelHum=5061376; WindSpd=5061376; Snow=CAN05061376"
+    },
+    {
+      "site": "island_lake",
+      "forcing": "era5",
+      "path": "data/frozen/island_lake/era5/forcing.csv",
+      "sha256": "4e87730c9b9d7de7a4398fdf11bc560c8a1d72f1db4c4e6f9117d50fc4a3503e",
+      "metadata": "data/frozen/island_lake/era5/metadata.json",
+      "metadata_sha256": "e808dcb5143e8147103bb6d2a1f5ca6f5fadc25cdd3bdd60d89a01260be6317e",
+      "first_day": "1973-01-01",
+      "last_day": "1998-12-31",
+      "built": "2026-10-28T02:06:32+00:00",
+      "sources": [
+        "AirTemp: ERA5",
+        "RelHum: ERA5",
+        "WindSpd: ERA5",
+        "Cloud: ERA5",
+        "Snow: ERA5-Land"
+      ],
+      "request": {
+        "latitude": 53.85,
+        "longitude": -94.65,
+        "start": "1973-01-01",
+        "end": "1998-12-31",
+        "source": "era5",
+        "min_coverage": 0.9,
+        "snow_density": 100.0
+      },
+      "station_for": ""
+    },
+    {
+      "site": "big_trout_lake",
+      "forcing": "station",
+      "path": "data/frozen/big_trout_lake/station/forcing.csv",
+      "sha256": "d56742d6737c6db47c8d55fdf46d4ec02694f1679b08d86d1784568c5a6c9551",
+      "metadata": "data/frozen/big_trout_lake/station/metadata.json",
+      "metadata_sha256": "90e6c646ffe97aa48f60b816d4dbbbde591314e992d995aebf745139cc0ce15a",
+      "first_day": "1973-01-01",
+      "last_day": "1992-12-31",
+      "built": "2026-10-28T02:33:48+00:00",
+      "sources": [
+        "AirTemp: station 6010738 BIG TROUT LAKE (0.43 km), 119 days filled from ERA5",
+        "RelHum: station 6010738 BIG TROUT LAKE (0.43 km), 124 days filled from ERA5",
+        "WindSpd: station 6010738 BIG TROUT LAKE (0.43 km), 111 days filled from ERA5",
+        "Cloud: ERA5",
+        "Snow: station CAN06010738 BIG TROUT LAKE (0.43 km), 98 days filled from ERA5"
+      ],
+      "request": {
+        "latitude": 53.83,
+        "longitude": -89.87,
+        "start": "1973-01-01",
+        "end": "1992-12-31",
+        "source": "auto",
+        "min_coverage": 0.8,
+        "snow_density": 100.0
+      },
+      "station_for": "AirTemp=6010738; RelHum=6010738; WindSpd=6010738; Snow=CAN06010738"
+    },
+    {
+      "site": "big_trout_lake",
+      "forcing": "era5",
+      "path": "data/frozen/big_trout_lake/era5/forcing.csv",
+      "sha256": "ad02d982698039cb805cddd54cd7b84385b18d17c0a55792257f10742fb9c667",
+      "metadata": "data/frozen/big_trout_lake/era5/metadata.json",
+      "metadata_sha256": "87dc040cb25cb153b4104a024dd4fabce2b8d680daf8c23f53f3c9e913301690",
+      "first_day": "1973-01-01",
+      "last_day": "1992-12-31",
+      "built": "2026-10-28T02:34:23+00:00",
+      "sources": [
+        "AirTemp: ERA5",
+        "RelHum: ERA5",
+        "WindSpd: ERA5",
+        "Cloud: ERA5",
+        "Snow: ERA5-Land"
+      ],
+      "request": {
+        "latitude": 53.83,
+        "longitude": -89.87,
+        "start": "1973-01-01",
+        "end": "1992-12-31",
+        "source": "era5",
+        "min_coverage": 0.9,
+        "snow_density": 100.0
+      },
+      "station_for": ""
+    },
+    {
+      "site": "gimli",
+      "forcing": "station",
+      "path": "data/frozen/gimli/station/forcing.csv",
+      "sha256": "8d92037a26f431df8b21d21fa4b1fd1f359a9ab2a71384dc56872d35b598610d",
+      "metadata": "data/frozen/gimli/station/metadata.json",
+      "metadata_sha256": "24085e38ba8d11f05e8734e25431eb77b074e2f9a07475ba952b17fd9d336eab",
+      "first_day": "1973-01-01",
+      "last_day": "1991-12-31",
+      "built": "2026-10-28T03:03:47+00:00",
+      "sources": [
+        "AirTemp: station 5031038 GIMLI (2.98 km), 61 days filled from ERA5",
+        "RelHum: station 5031038 GIMLI (2.98 km), 61 days filled from ERA5",
+        "WindSpd: station 5031038 GIMLI (2.98 km), 61 days filled from ERA5",
+        "Cloud: ERA5",
+        "Snow: station CAN05031038 GIMLI (2.98 km), 66 days filled from ERA5"
+      ],
+      "request": {
+        "latitude": 50.62,
+        "longitude": -96.98,
+        "start": "1973-01-01",
+        "end": "1991-12-31",
+        "source": "auto",
+        "min_coverage": 0.8,
+        "snow_density": 100.0
+      },
+      "station_for": "AirTemp=5031038; RelHum=5031038; WindSpd=5031038; Snow=CAN05031038"
+    },
+    {
+      "site": "gimli",
+      "forcing": "era5",
+      "path": "data/frozen/gimli/era5/forcing.csv",
+      "sha256": "49a21c89bd542d67f369fdde0046e8c4e9babf3001ea276b7ea593ae1bd1cb41",
+      "metadata": "data/frozen/gimli/era5/metadata.json",
+      "metadata_sha256": "18a742d6c8b7cc2364dcc850cd14f2dcfb8d9b8ddef01719add636b46605d920",
+      "first_day": "1973-01-01",
+      "last_day": "1991-12-31",
+      "built": "2026-10-28T03:04:15+00:00",
+      "sources": [
+        "AirTemp: ERA5",
+        "RelHum: ERA5",
+        "WindSpd: ERA5",
+        "Cloud: ERA5",
+        "Snow: ERA5-Land"
+      ],
+      "request": {
+        "latitude": 50.62,
+        "longitude": -96.98,
+        "start": "1973-01-01",
+        "end": "1991-12-31",
+        "source": "era5",
+        "min_coverage": 0.9,
+        "snow_density": 100.0
+      },
+      "station_for": ""
+    },
+    {
+      "site": "lac_des_sables",
+      "forcing": "station",
+      "path": "data/frozen/lac_des_sables/station/forcing.csv",
+      "sha256": "43d68bc65f863c2a869f56d7e6255396090afcedfd500a510f551c76634cd146",
+      "metadata": "data/frozen/lac_des_sables/station/metadata.json",
+      "metadata_sha256": "e42904db22845b3785f2dc17b22e2a64ce9b0213cb2a8611402c6453d2736ee5",
+      "first_day": "1976-01-01",
+      "last_day": "1992-12-31",
+      "built": "2026-10-28T03:33:55+00:00",
+      "sources": [
+        "AirTemp: station 7036762 STE AGATHE DES MONTS (0.26 km), 174 days filled from ERA5",
+        "RelHum: station 7036762 STE AGATHE DES MONTS (0.26 km), 174 days filled from ERA5",
+        "WindSpd: station 7036762 STE AGATHE DES MONTS (0.26 km), 174 days filled from ERA5",
+        "Cloud: ERA5",
+        "Snow: station CAN07036762 STE AGATHE DES MONTS (0.25 km), 205 days filled from ERA5"
+      ],
+      "request": {
+        "latitude": 46.05,
+        "longitude": -74.28,
+        "start": "1976-01-01",
+        "end": "1992-12-31",
+        "source": "auto",
+        "min_coverage": 0.8,
+        "snow_density": 100.0
+      },
+      "station_for": "AirTemp=7036762; RelHum=7036762; WindSpd=7036762; Snow=CAN07036762"
+    },
+    {
+      "site": "lac_des_sables",
+      "forcing": "era5",
+      "path": "data/frozen/lac_des_sables/era5/forcing.csv",
+      "sha256": "e5f473ae75b60654ad694814fa0bed8dbb57c8b37126b70ac96f6359b41ae1ba",
+      "metadata": "data/frozen/lac_des_sables/era5/metadata.json",
+      "metadata_sha256": "b513ead07c22aa7d34dadbea87a875e6fb660aa3bd710684cb74a1a7a84dc770",
+      "first_day": "1976-01-01",
+      "last_day": "1992-12-31",
+      "built": "2026-10-28T03:34:21+00:00",
+      "sources": [
+        "AirTemp: ERA5",
+        "RelHum: ERA5",
+        "WindSpd: ERA5",
+        "Cloud: ERA5",
+        "Snow: ERA5-Land"
+      ],
+      "request": {
+        "latitude": 46.05,
+        "longitude": -74.28,
+        "start": "1976-01-01",
+        "end": "1992-12-31",
+        "source": "era5",
+        "min_coverage": 0.9,
+        "snow_density": 100.0
+      },
+      "station_for": ""
+    }
+  ]
+}

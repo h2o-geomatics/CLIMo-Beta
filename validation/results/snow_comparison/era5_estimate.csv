@@ -1,0 +1,8 @@
+station,era5_estimate_per_era5_land,daily_correlation
+lloydminster,1.014,0.98
+la_ronge,0.965,0.97
+yellowknife_a,0.975,0.968
+hay_river_a,1.001,0.961
+hay_river_climate,1.001,0.961
+inuvik_climate,1.001,0.965
+great_slave_lake,0.933,0.961

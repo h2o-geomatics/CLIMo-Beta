@@ -1,0 +1,113 @@
+site,model,snow_percentage,quantity,n,mae,bias
+gimli,CLIMo station,0.0,ice thickness (m),275,0.142,0.111
+gimli,CLIMo station,0.0,maximum ice thickness (m),7,0.199,0.175
+gimli,CLIMo station,0.0,freeze-up (days),18,3.667,-1.889
+gimli,CLIMo station,0.0,break-up (days),17,11.941,-11.941
+gimli,CLIMo station,0.0,"effective break-up, ice < 0.1 m (days)",17,13.706,-13.706
+gimli,CLIMo station,0.0,snow depth on the ice (m),275,0.12,-0.12
+gimli,CLIMo station,50.0,ice thickness (m),275,0.138,-0.061
+gimli,CLIMo station,50.0,maximum ice thickness (m),7,0.152,0.038
+gimli,CLIMo station,50.0,freeze-up (days),18,3.667,-1.889
+gimli,CLIMo station,50.0,break-up (days),17,10.294,-10.294
+gimli,CLIMo station,50.0,"effective break-up, ice < 0.1 m (days)",17,11.706,-11.706
+gimli,CLIMo station,50.0,snow depth on the ice (m),275,0.077,0.049
+gimli,CLIMo station,100.0,ice thickness (m),275,0.138,-0.005
+gimli,CLIMo station,100.0,maximum ice thickness (m),7,0.194,0.188
+gimli,CLIMo station,100.0,freeze-up (days),18,3.667,-1.889
+gimli,CLIMo station,100.0,break-up (days),17,7.118,-6.882
+gimli,CLIMo station,100.0,"effective break-up, ice < 0.1 m (days)",17,8.412,-8.412
+gimli,CLIMo station,100.0,snow depth on the ice (m),275,0.091,0.073
+gimli,"CLIMo station, mixing depth 5 m",0.0,ice thickness (m),275,0.159,0.15
+gimli,"CLIMo station, mixing depth 5 m",0.0,maximum ice thickness (m),7,0.209,0.206
+gimli,"CLIMo station, mixing depth 5 m",0.0,freeze-up (days),18,12.333,-12.333
+gimli,"CLIMo station, mixing depth 5 m",0.0,break-up (days),17,11.176,-11.176
+gimli,"CLIMo station, mixing depth 5 m",0.0,"effective break-up, ice < 0.1 m (days)",17,12.882,-12.882
+gimli,"CLIMo station, mixing depth 5 m",0.0,snow depth on the ice (m),275,0.12,-0.12
+gimli,"CLIMo station, mixing depth 5 m",50.0,ice thickness (m),275,0.131,-0.04
+gimli,"CLIMo station, mixing depth 5 m",50.0,maximum ice thickness (m),7,0.157,0.057
+gimli,"CLIMo station, mixing depth 5 m",50.0,freeze-up (days),18,12.333,-12.333
+gimli,"CLIMo station, mixing depth 5 m",50.0,break-up (days),17,9.824,-9.824
+gimli,"CLIMo station, mixing depth 5 m",50.0,"effective break-up, ice < 0.1 m (days)",17,11.353,-11.353
+gimli,"CLIMo station, mixing depth 5 m",50.0,snow depth on the ice (m),275,0.082,0.059
+gimli,"CLIMo station, mixing depth 5 m",100.0,ice thickness (m),275,0.137,0.031
+gimli,"CLIMo station, mixing depth 5 m",100.0,maximum ice thickness (m),7,0.225,0.224
+gimli,"CLIMo station, mixing depth 5 m",100.0,freeze-up (days),18,12.333,-12.333
+gimli,"CLIMo station, mixing depth 5 m",100.0,break-up (days),17,6.647,-6.294
+gimli,"CLIMo station, mixing depth 5 m",100.0,"effective break-up, ice < 0.1 m (days)",17,7.765,-7.647
+gimli,"CLIMo station, mixing depth 5 m",100.0,snow depth on the ice (m),275,0.096,0.083
+gimli,"CLIMo station, mixing depth 20 m",0.0,ice thickness (m),275,0.17,-0.024
+gimli,"CLIMo station, mixing depth 20 m",0.0,maximum ice thickness (m),7,0.19,0.077
+gimli,"CLIMo station, mixing depth 20 m",0.0,freeze-up (days),18,15.278,15.278
+gimli,"CLIMo station, mixing depth 20 m",0.0,break-up (days),17,14.353,-14.353
+gimli,"CLIMo station, mixing depth 20 m",0.0,"effective break-up, ice < 0.1 m (days)",17,16.118,-16.118
+gimli,"CLIMo station, mixing depth 20 m",0.0,snow depth on the ice (m),275,0.12,-0.12
+gimli,"CLIMo station, mixing depth 20 m",50.0,ice thickness (m),275,0.197,-0.149
+gimli,"CLIMo station, mixing depth 20 m",50.0,maximum ice thickness (m),7,0.177,-0.016
+gimli,"CLIMo station, mixing depth 20 m",50.0,freeze-up (days),18,15.278,15.278
+gimli,"CLIMo station, mixing depth 20 m",50.0,break-up (days),17,11.765,-11.765
+gimli,"CLIMo station, mixing depth 20 m",50.0,"effective break-up, ice < 0.1 m (days)",17,13.235,-13.235
+gimli,"CLIMo station, mixing depth 20 m",50.0,snow depth on the ice (m),275,0.07,0.019
+gimli,"CLIMo station, mixing depth 20 m",100.0,ice thickness (m),275,0.19,-0.113
+gimli,"CLIMo station, mixing depth 20 m",100.0,maximum ice thickness (m),7,0.186,0.109
+gimli,"CLIMo station, mixing depth 20 m",100.0,freeze-up (days),18,15.278,15.278
+gimli,"CLIMo station, mixing depth 20 m",100.0,break-up (days),17,8.941,-8.941
+gimli,"CLIMo station, mixing depth 20 m",100.0,"effective break-up, ice < 0.1 m (days)",17,10.412,-10.412
+gimli,"CLIMo station, mixing depth 20 m",100.0,snow depth on the ice (m),275,0.078,0.04
+gimli,CLIMo ERA5,0.0,ice thickness (m),275,0.151,0.132
+gimli,CLIMo ERA5,0.0,maximum ice thickness (m),7,0.205,0.201
+gimli,CLIMo ERA5,0.0,freeze-up (days),18,4.5,-4.278
+gimli,CLIMo ERA5,0.0,break-up (days),17,12.647,-12.647
+gimli,CLIMo ERA5,0.0,"effective break-up, ice < 0.1 m (days)",17,14.235,-14.235
+gimli,CLIMo ERA5,0.0,snow depth on the ice (m),275,0.12,-0.12
+gimli,CLIMo ERA5,50.0,ice thickness (m),275,0.136,-0.067
+gimli,CLIMo ERA5,50.0,maximum ice thickness (m),7,0.152,0.005
+gimli,CLIMo ERA5,50.0,freeze-up (days),18,4.5,-4.278
+gimli,CLIMo ERA5,50.0,break-up (days),17,12.294,-12.294
+gimli,CLIMo ERA5,50.0,"effective break-up, ice < 0.1 m (days)",17,13.941,-13.941
+gimli,CLIMo ERA5,50.0,snow depth on the ice (m),275,0.077,0.048
+gimli,CLIMo ERA5,100.0,ice thickness (m),275,0.136,-0.025
+gimli,CLIMo ERA5,100.0,maximum ice thickness (m),7,0.178,0.135
+gimli,CLIMo ERA5,100.0,freeze-up (days),18,4.5,-4.278
+gimli,CLIMo ERA5,100.0,break-up (days),17,10.0,-10.0
+gimli,CLIMo ERA5,100.0,"effective break-up, ice < 0.1 m (days)",17,11.353,-11.353
+gimli,CLIMo ERA5,100.0,snow depth on the ice (m),275,0.088,0.069
+gimli,"CLIMo ERA5, mixing depth 5 m",0.0,ice thickness (m),275,0.169,0.162
+gimli,"CLIMo ERA5, mixing depth 5 m",0.0,maximum ice thickness (m),7,0.225,0.225
+gimli,"CLIMo ERA5, mixing depth 5 m",0.0,freeze-up (days),18,13.333,-13.333
+gimli,"CLIMo ERA5, mixing depth 5 m",0.0,break-up (days),17,12.294,-12.294
+gimli,"CLIMo ERA5, mixing depth 5 m",0.0,"effective break-up, ice < 0.1 m (days)",17,13.765,-13.765
+gimli,"CLIMo ERA5, mixing depth 5 m",0.0,snow depth on the ice (m),275,0.12,-0.12
+gimli,"CLIMo ERA5, mixing depth 5 m",50.0,ice thickness (m),275,0.134,-0.051
+gimli,"CLIMo ERA5, mixing depth 5 m",50.0,maximum ice thickness (m),7,0.154,0.023
+gimli,"CLIMo ERA5, mixing depth 5 m",50.0,freeze-up (days),18,13.333,-13.333
+gimli,"CLIMo ERA5, mixing depth 5 m",50.0,break-up (days),17,12.176,-12.176
+gimli,"CLIMo ERA5, mixing depth 5 m",50.0,"effective break-up, ice < 0.1 m (days)",17,13.588,-13.588
+gimli,"CLIMo ERA5, mixing depth 5 m",50.0,snow depth on the ice (m),275,0.081,0.056
+gimli,"CLIMo ERA5, mixing depth 5 m",100.0,ice thickness (m),275,0.134,0.002
+gimli,"CLIMo ERA5, mixing depth 5 m",100.0,maximum ice thickness (m),7,0.187,0.163
+gimli,"CLIMo ERA5, mixing depth 5 m",100.0,freeze-up (days),18,13.333,-13.333
+gimli,"CLIMo ERA5, mixing depth 5 m",100.0,break-up (days),17,9.471,-9.471
+gimli,"CLIMo ERA5, mixing depth 5 m",100.0,"effective break-up, ice < 0.1 m (days)",17,10.765,-10.765
+gimli,"CLIMo ERA5, mixing depth 5 m",100.0,snow depth on the ice (m),275,0.092,0.077
+gimli,"CLIMo ERA5, mixing depth 20 m",0.0,ice thickness (m),275,0.155,0.031
+gimli,"CLIMo ERA5, mixing depth 20 m",0.0,maximum ice thickness (m),7,0.181,0.129
+gimli,"CLIMo ERA5, mixing depth 20 m",0.0,freeze-up (days),18,11.056,11.056
+gimli,"CLIMo ERA5, mixing depth 20 m",0.0,break-up (days),17,14.529,-14.529
+gimli,"CLIMo ERA5, mixing depth 20 m",0.0,"effective break-up, ice < 0.1 m (days)",17,16.059,-16.059
+gimli,"CLIMo ERA5, mixing depth 20 m",0.0,snow depth on the ice (m),275,0.12,-0.12
+gimli,"CLIMo ERA5, mixing depth 20 m",50.0,ice thickness (m),275,0.179,-0.121
+gimli,"CLIMo ERA5, mixing depth 20 m",50.0,maximum ice thickness (m),7,0.166,-0.017
+gimli,"CLIMo ERA5, mixing depth 20 m",50.0,freeze-up (days),18,11.056,11.056
+gimli,"CLIMo ERA5, mixing depth 20 m",50.0,break-up (days),17,13.176,-13.176
+gimli,"CLIMo ERA5, mixing depth 20 m",50.0,"effective break-up, ice < 0.1 m (days)",17,14.647,-14.647
+gimli,"CLIMo ERA5, mixing depth 20 m",50.0,snow depth on the ice (m),275,0.069,0.022
+gimli,"CLIMo ERA5, mixing depth 20 m",100.0,ice thickness (m),275,0.177,-0.103
+gimli,"CLIMo ERA5, mixing depth 20 m",100.0,maximum ice thickness (m),7,0.167,0.074
+gimli,"CLIMo ERA5, mixing depth 20 m",100.0,freeze-up (days),18,11.056,11.056
+gimli,"CLIMo ERA5, mixing depth 20 m",100.0,break-up (days),17,11.176,-11.176
+gimli,"CLIMo ERA5, mixing depth 20 m",100.0,"effective break-up, ice < 0.1 m (days)",17,12.647,-12.647
+gimli,"CLIMo ERA5, mixing depth 20 m",100.0,snow depth on the ice (m),275,0.079,0.045
+gimli,ERA5 FLake,,ice thickness (m),275,0.205,0.203
+gimli,ERA5 FLake,,maximum ice thickness (m),7,0.261,0.261
+gimli,ERA5 FLake,,freeze-up (days),18,17.111,-17.111
+gimli,ERA5 FLake,,break-up (days),17,2.588,0.235

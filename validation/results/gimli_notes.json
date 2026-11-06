@@ -1,0 +1,80 @@
+{
+  "site": {
+    "name": "Gimli, Lake Winnipeg (Manitoba)",
+    "lat": 50.62,
+    "lon": -96.98,
+    "itp_id": "YGM",
+    "itp_sheet": null,
+    "nsidc_code": "WRS311",
+    "start": 1973,
+    "end": 1991
+  },
+  "settings": {
+    "snow_percentages": [
+      0,
+      50,
+      100
+    ],
+    "rho_snow_cold": 330.0,
+    "mixing_depth": 10.0,
+    "mixing_depth_sensitivity": [
+      5.0,
+      20.0
+    ],
+    "breakup_threshold_m": 0.1
+  },
+  "forcing": {
+    "station": [
+      "AirTemp: station 5031038 GIMLI (2.98 km), 61 days filled from ERA5",
+      "RelHum: station 5031038 GIMLI (2.98 km), 61 days filled from ERA5",
+      "WindSpd: station 5031038 GIMLI (2.98 km), 61 days filled from ERA5",
+      "Cloud: ERA5",
+      "Snow: station CAN05031038 GIMLI (2.98 km), 66 days filled from ERA5"
+    ],
+    "era5": [
+      "AirTemp: ERA5",
+      "RelHum: ERA5",
+      "WindSpd: ERA5",
+      "Cloud: ERA5",
+      "Snow: ERA5-Land"
+    ]
+  },
+  "era5_cell": {
+    "latitude": 50.5,
+    "longitude": -97.0,
+    "resolution_deg": 0.25,
+    "distance_km": 13.42
+  },
+  "flake_cell": {
+    "latitude": 50.5,
+    "longitude": -97.0,
+    "lake_cover": 0.275,
+    "box_lake_cover": {
+      "51, -97.5": 0.0,
+      "51, -97.25": 0.08,
+      "51, -97": 0.28,
+      "51, -96.75": 0.71,
+      "51, -96.5": 0.57,
+      "50.75, -97.5": 0.02,
+      "50.75, -97.25": 0.12,
+      "50.75, -97": 0.34,
+      "50.75, -96.75": 0.76,
+      "50.75, -96.5": 0.62,
+      "50.5, -97.5": 0.09,
+      "50.5, -97.25": 0.1,
+      "50.5, -97": 0.28,
+      "50.5, -96.75": 0.54,
+      "50.5, -96.5": 0.41,
+      "50.25, -97.5": 0.03,
+      "50.25, -97.25": 0.04,
+      "50.25, -97": 0.05,
+      "50.25, -96.75": 0.09,
+      "50.25, -96.5": 0.01,
+      "50, -97.5": 0.0,
+      "50, -97.25": 0.01,
+      "50, -97": 0.01,
+      "50, -96.75": 0.01,
+      "50, -96.5": 0.01
+    }
+  }
+}

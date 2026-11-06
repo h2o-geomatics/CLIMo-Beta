@@ -1,0 +1,757 @@
+site,forcing,snow_percentage,quantity,statistic,n,baseline,candidate,difference,verdict
+baker_lake,era5,0,"bottom energy residual, largest daily absolute (W m-2)",closure,43481,0.0,0.0,0.0,unchanged
+baker_lake,era5,0,break-up (days),bias,9,2.666667,2.666667,0.0,unchanged
+baker_lake,era5,0,break-up (days),mae,9,6.888889,6.888889,0.0,unchanged
+baker_lake,era5,0,"congelation ice, mean seasonal maximum (m)",mean,40,2.236731,2.236729,-2e-06,unchanged
+baker_lake,era5,0,"effective break-up, ice < 0.1 m (days)",bias,9,1.666667,1.666667,0.0,unchanged
+baker_lake,era5,0,"effective break-up, ice < 0.1 m (days)",mae,9,7.0,7.0,0.0,unchanged
+baker_lake,era5,0,freeze-up (days),bias,10,-8.3,-8.3,0.0,unchanged
+baker_lake,era5,0,freeze-up (days),mae,10,9.3,9.3,0.0,unchanged
+baker_lake,era5,0,"ice mass residual, largest daily absolute (kg m-2)",closure,43481,0.0,0.0,-0.0,unchanged
+baker_lake,era5,0,ice thickness (m),bias,1022,0.059618,0.059604,-1.4e-05,unchanged
+baker_lake,era5,0,ice thickness (m),mae,1022,0.093487,0.093483,-4e-06,unchanged
+baker_lake,era5,0,"ice thickness, mean seasonal maximum (m)",mean,40,2.227696,2.227696,0.0,unchanged
+baker_lake,era5,0,maximum ice thickness (m),bias,33,0.056122,0.056122,0.0,unchanged
+baker_lake,era5,0,maximum ice thickness (m),mae,33,0.101066,0.101066,0.0,unchanged
+baker_lake,era5,0,"short-wave residual, mean of daily absolute (W m-2)",closure,43481,4.1167,4.11684,0.00014,unchanged
+baker_lake,era5,0,snow depth on the ice (m),bias,1022,-0.038503,-0.038503,0.0,unchanged
+baker_lake,era5,0,snow depth on the ice (m),mae,1022,0.038503,0.038503,0.0,unchanged
+baker_lake,era5,0,"snow ice, mean seasonal maximum (m)",mean,40,0.0,0.0,0.0,unchanged
+baker_lake,era5,0,"snow mass residual, largest daily absolute (kg m-2)",closure,43481,0.0,0.0,0.0,unchanged
+baker_lake,era5,0,"surface energy residual, largest daily absolute (W m-2)",closure,43481,8.67903,8.67903,0.0,unchanged
+baker_lake,era5,0,"surface energy residual, mean of daily absolute (W m-2)",closure,43481,0.027651,0.027223,-0.000428,unchanged
+baker_lake,era5,50,"bottom energy residual, largest daily absolute (W m-2)",closure,42202,0.0,0.0,0.0,unchanged
+baker_lake,era5,50,break-up (days),bias,9,-5.444444,-5.444444,0.0,unchanged
+baker_lake,era5,50,break-up (days),mae,9,10.111111,10.111111,0.0,unchanged
+baker_lake,era5,50,"congelation ice, mean seasonal maximum (m)",mean,40,1.490957,1.490957,0.0,unchanged
+baker_lake,era5,50,"effective break-up, ice < 0.1 m (days)",bias,9,-6.555556,-6.555556,0.0,unchanged
+baker_lake,era5,50,"effective break-up, ice < 0.1 m (days)",mae,9,11.0,11.0,0.0,unchanged
+baker_lake,era5,50,freeze-up (days),bias,10,-8.3,-8.3,0.0,unchanged
+baker_lake,era5,50,freeze-up (days),mae,10,9.3,9.3,0.0,unchanged
+baker_lake,era5,50,"ice mass residual, largest daily absolute (kg m-2)",closure,42202,0.0,0.0,0.0,unchanged
+baker_lake,era5,50,ice thickness (m),bias,1022,-0.387822,-0.387822,0.0,unchanged
+baker_lake,era5,50,ice thickness (m),mae,1022,0.396552,0.396552,0.0,unchanged
+baker_lake,era5,50,"ice thickness, mean seasonal maximum (m)",mean,40,1.635097,1.635097,0.0,unchanged
+baker_lake,era5,50,maximum ice thickness (m),bias,33,-0.525449,-0.525449,0.0,unchanged
+baker_lake,era5,50,maximum ice thickness (m),mae,33,0.525449,0.525449,0.0,unchanged
+baker_lake,era5,50,"short-wave residual, mean of daily absolute (W m-2)",closure,42202,1.87688,1.87688,0.0,unchanged
+baker_lake,era5,50,snow depth on the ice (m),bias,1022,0.19476,0.19476,0.0,unchanged
+baker_lake,era5,50,snow depth on the ice (m),mae,1022,0.196216,0.196216,0.0,unchanged
+baker_lake,era5,50,"snow ice, mean seasonal maximum (m)",mean,40,0.148015,0.148015,0.0,unchanged
+baker_lake,era5,50,"snow mass residual, largest daily absolute (kg m-2)",closure,42202,0.0,0.0,0.0,unchanged
+baker_lake,era5,50,"surface energy residual, largest daily absolute (W m-2)",closure,42202,9.63976,9.63976,0.0,unchanged
+baker_lake,era5,50,"surface energy residual, mean of daily absolute (W m-2)",closure,42202,0.020155,0.020155,0.0,unchanged
+baker_lake,era5,100,"bottom energy residual, largest daily absolute (W m-2)",closure,42714,0.0,0.0,0.0,unchanged
+baker_lake,era5,100,break-up (days),bias,9,-1.666667,-1.666667,0.0,unchanged
+baker_lake,era5,100,break-up (days),mae,9,7.888889,7.888889,0.0,unchanged
+baker_lake,era5,100,"congelation ice, mean seasonal maximum (m)",mean,40,1.302124,1.302124,0.0,unchanged
+baker_lake,era5,100,"effective break-up, ice < 0.1 m (days)",bias,9,-2.888889,-2.888889,0.0,unchanged
+baker_lake,era5,100,"effective break-up, ice < 0.1 m (days)",mae,9,8.666667,8.666667,0.0,unchanged
+baker_lake,era5,100,freeze-up (days),bias,10,-8.3,-8.3,0.0,unchanged
+baker_lake,era5,100,freeze-up (days),mae,10,9.3,9.3,0.0,unchanged
+baker_lake,era5,100,"ice mass residual, largest daily absolute (kg m-2)",closure,42714,0.0,0.0,0.0,unchanged
+baker_lake,era5,100,ice thickness (m),bias,1022,-0.33495,-0.33495,0.0,unchanged
+baker_lake,era5,100,ice thickness (m),mae,1022,0.347765,0.347765,0.0,unchanged
+baker_lake,era5,100,"ice thickness, mean seasonal maximum (m)",mean,40,1.776355,1.776355,0.0,unchanged
+baker_lake,era5,100,maximum ice thickness (m),bias,33,-0.385405,-0.385405,0.0,unchanged
+baker_lake,era5,100,maximum ice thickness (m),mae,33,0.385405,0.385405,0.0,unchanged
+baker_lake,era5,100,"short-wave residual, mean of daily absolute (W m-2)",closure,42714,1.94213,1.94213,0.0,unchanged
+baker_lake,era5,100,snow depth on the ice (m),bias,1022,0.227491,0.227491,0.0,unchanged
+baker_lake,era5,100,snow depth on the ice (m),mae,1022,0.228438,0.228438,0.0,unchanged
+baker_lake,era5,100,"snow ice, mean seasonal maximum (m)",mean,40,0.529213,0.529213,0.0,unchanged
+baker_lake,era5,100,"snow mass residual, largest daily absolute (kg m-2)",closure,42714,0.0,0.0,0.0,unchanged
+baker_lake,era5,100,"surface energy residual, largest daily absolute (W m-2)",closure,42714,9.13467,9.13467,0.0,unchanged
+baker_lake,era5,100,"surface energy residual, mean of daily absolute (W m-2)",closure,42714,0.020521,0.020521,0.0,unchanged
+baker_lake,station,0,"bottom energy residual, largest daily absolute (W m-2)",closure,43647,0.0,0.0,0.0,unchanged
+baker_lake,station,0,break-up (days),bias,9,3.111111,3.111111,0.0,unchanged
+baker_lake,station,0,break-up (days),mae,9,5.333333,5.333333,0.0,unchanged
+baker_lake,station,0,"congelation ice, mean seasonal maximum (m)",mean,40,2.242328,2.242328,0.0,unchanged
+baker_lake,station,0,"effective break-up, ice < 0.1 m (days)",bias,9,1.777778,1.777778,0.0,unchanged
+baker_lake,station,0,"effective break-up, ice < 0.1 m (days)",mae,9,5.555556,5.555556,0.0,unchanged
+baker_lake,station,0,freeze-up (days),bias,10,-8.3,-8.3,0.0,unchanged
+baker_lake,station,0,freeze-up (days),mae,10,9.3,9.3,0.0,unchanged
+baker_lake,station,0,"ice mass residual, largest daily absolute (kg m-2)",closure,43647,0.0,0.0,0.0,unchanged
+baker_lake,station,0,ice thickness (m),bias,1022,0.067564,0.067564,0.0,unchanged
+baker_lake,station,0,ice thickness (m),mae,1022,0.101065,0.101065,0.0,unchanged
+baker_lake,station,0,"ice thickness, mean seasonal maximum (m)",mean,40,2.234489,2.234489,0.0,unchanged
+baker_lake,station,0,maximum ice thickness (m),bias,33,0.061098,0.061098,0.0,unchanged
+baker_lake,station,0,maximum ice thickness (m),mae,33,0.119924,0.119924,0.0,unchanged
+baker_lake,station,0,"short-wave residual, mean of daily absolute (W m-2)",closure,43647,4.5202,4.5202,0.0,unchanged
+baker_lake,station,0,snow depth on the ice (m),bias,1022,-0.038503,-0.038503,0.0,unchanged
+baker_lake,station,0,snow depth on the ice (m),mae,1022,0.038503,0.038503,0.0,unchanged
+baker_lake,station,0,"snow ice, mean seasonal maximum (m)",mean,40,0.0,0.0,0.0,unchanged
+baker_lake,station,0,"snow mass residual, largest daily absolute (kg m-2)",closure,43647,0.0,0.0,0.0,unchanged
+baker_lake,station,0,"surface energy residual, largest daily absolute (W m-2)",closure,43647,9.25711,9.25711,0.0,unchanged
+baker_lake,station,0,"surface energy residual, mean of daily absolute (W m-2)",closure,43647,0.029584,0.029584,0.0,unchanged
+baker_lake,station,50,"bottom energy residual, largest daily absolute (W m-2)",closure,42329,0.0,0.0,0.0,unchanged
+baker_lake,station,50,break-up (days),bias,9,-5.888889,-5.888889,0.0,unchanged
+baker_lake,station,50,break-up (days),mae,9,7.666667,7.666667,0.0,unchanged
+baker_lake,station,50,"congelation ice, mean seasonal maximum (m)",mean,40,1.593925,1.593925,0.0,unchanged
+baker_lake,station,50,"effective break-up, ice < 0.1 m (days)",bias,9,-7.111111,-7.111111,0.0,unchanged
+baker_lake,station,50,"effective break-up, ice < 0.1 m (days)",mae,9,8.444444,8.444444,0.0,unchanged
+baker_lake,station,50,freeze-up (days),bias,10,-8.3,-8.3,0.0,unchanged
+baker_lake,station,50,freeze-up (days),mae,10,9.3,9.3,0.0,unchanged
+baker_lake,station,50,"ice mass residual, largest daily absolute (kg m-2)",closure,42329,0.0,0.0,0.0,unchanged
+baker_lake,station,50,ice thickness (m),bias,1022,-0.353666,-0.353665,1e-06,unchanged
+baker_lake,station,50,ice thickness (m),mae,1022,0.364119,0.364118,-1e-06,unchanged
+baker_lake,station,50,"ice thickness, mean seasonal maximum (m)",mean,40,1.67249,1.67249,0.0,unchanged
+baker_lake,station,50,maximum ice thickness (m),bias,33,-0.489296,-0.489296,0.0,unchanged
+baker_lake,station,50,maximum ice thickness (m),mae,33,0.489296,0.489296,0.0,unchanged
+baker_lake,station,50,"short-wave residual, mean of daily absolute (W m-2)",closure,42329,2.02553,2.02552,-1e-05,unchanged
+baker_lake,station,50,snow depth on the ice (m),bias,1022,0.168049,0.168049,0.0,unchanged
+baker_lake,station,50,snow depth on the ice (m),mae,1022,0.169999,0.169999,0.0,unchanged
+baker_lake,station,50,"snow ice, mean seasonal maximum (m)",mean,40,0.078526,0.078526,0.0,unchanged
+baker_lake,station,50,"snow mass residual, largest daily absolute (kg m-2)",closure,42329,0.0,0.0,0.0,unchanged
+baker_lake,station,50,"surface energy residual, largest daily absolute (W m-2)",closure,42329,10.6169,10.6169,0.0,unchanged
+baker_lake,station,50,"surface energy residual, mean of daily absolute (W m-2)",closure,42329,0.022324,0.022008,-0.000317,unchanged
+baker_lake,station,100,"bottom energy residual, largest daily absolute (W m-2)",closure,42570,0.0,0.0,0.0,unchanged
+baker_lake,station,100,break-up (days),bias,9,-3.555556,-3.555556,0.0,unchanged
+baker_lake,station,100,break-up (days),mae,9,6.888889,6.888889,0.0,unchanged
+baker_lake,station,100,"congelation ice, mean seasonal maximum (m)",mean,40,1.397253,1.397253,0.0,unchanged
+baker_lake,station,100,"effective break-up, ice < 0.1 m (days)",bias,9,-5.0,-5.0,0.0,unchanged
+baker_lake,station,100,"effective break-up, ice < 0.1 m (days)",mae,9,7.666667,7.666667,0.0,unchanged
+baker_lake,station,100,freeze-up (days),bias,10,-8.3,-8.3,0.0,unchanged
+baker_lake,station,100,freeze-up (days),mae,10,9.3,9.3,0.0,unchanged
+baker_lake,station,100,"ice mass residual, largest daily absolute (kg m-2)",closure,42570,0.0,0.0,0.0,unchanged
+baker_lake,station,100,ice thickness (m),bias,1022,-0.346476,-0.346476,0.0,unchanged
+baker_lake,station,100,ice thickness (m),mae,1022,0.359881,0.359881,0.0,unchanged
+baker_lake,station,100,"ice thickness, mean seasonal maximum (m)",mean,40,1.720702,1.720702,0.0,unchanged
+baker_lake,station,100,maximum ice thickness (m),bias,33,-0.44194,-0.44194,0.0,unchanged
+baker_lake,station,100,maximum ice thickness (m),mae,33,0.44194,0.44194,0.0,unchanged
+baker_lake,station,100,"short-wave residual, mean of daily absolute (W m-2)",closure,42570,2.0166,2.0166,0.0,unchanged
+baker_lake,station,100,snow depth on the ice (m),bias,1022,0.214623,0.214623,0.0,unchanged
+baker_lake,station,100,snow depth on the ice (m),mae,1022,0.215902,0.215902,0.0,unchanged
+baker_lake,station,100,"snow ice, mean seasonal maximum (m)",mean,40,0.360009,0.360009,0.0,unchanged
+baker_lake,station,100,"snow mass residual, largest daily absolute (kg m-2)",closure,42570,0.0,0.0,0.0,unchanged
+baker_lake,station,100,"surface energy residual, largest daily absolute (W m-2)",closure,42570,17.5542,17.5542,0.0,unchanged
+baker_lake,station,100,"surface energy residual, mean of daily absolute (W m-2)",closure,42570,0.021655,0.021655,0.0,unchanged
+big_trout_lake,era5,0,"bottom energy residual, largest daily absolute (W m-2)",closure,15194,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,0,break-up (days),bias,18,-11.5,-11.5,0.0,unchanged
+big_trout_lake,era5,0,break-up (days),mae,18,11.5,11.5,0.0,unchanged
+big_trout_lake,era5,0,"congelation ice, mean seasonal maximum (m)",mean,19,1.466567,1.466537,-3e-05,unchanged
+big_trout_lake,era5,0,"effective break-up, ice < 0.1 m (days)",bias,18,-13.0,-13.0,0.0,unchanged
+big_trout_lake,era5,0,"effective break-up, ice < 0.1 m (days)",mae,18,13.0,13.0,0.0,unchanged
+big_trout_lake,era5,0,freeze-up (days),bias,18,0.277778,0.277778,0.0,unchanged
+big_trout_lake,era5,0,freeze-up (days),mae,18,2.944444,2.944444,0.0,unchanged
+big_trout_lake,era5,0,"ice mass residual, largest daily absolute (kg m-2)",closure,15194,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,0,ice thickness (m),bias,489,0.188025,0.187767,-0.000258,unchanged
+big_trout_lake,era5,0,ice thickness (m),mae,489,0.239695,0.239747,5.2e-05,unchanged
+big_trout_lake,era5,0,"ice thickness, mean seasonal maximum (m)",mean,19,1.461993,1.461993,0.0,unchanged
+big_trout_lake,era5,0,maximum ice thickness (m),bias,18,0.270094,0.270094,0.0,unchanged
+big_trout_lake,era5,0,maximum ice thickness (m),mae,18,0.270094,0.270094,0.0,unchanged
+big_trout_lake,era5,0,"short-wave residual, mean of daily absolute (W m-2)",closure,15194,4.77404,4.77457,0.00053,unchanged
+big_trout_lake,era5,0,snow depth on the ice (m),bias,488,-0.140635,-0.140635,0.0,unchanged
+big_trout_lake,era5,0,snow depth on the ice (m),mae,488,0.140635,0.140635,0.0,unchanged
+big_trout_lake,era5,0,"snow ice, mean seasonal maximum (m)",mean,19,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,0,"snow mass residual, largest daily absolute (kg m-2)",closure,15194,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,0,"surface energy residual, largest daily absolute (W m-2)",closure,15194,16.0141,12.6414,-3.3727,improved
+big_trout_lake,era5,0,"surface energy residual, mean of daily absolute (W m-2)",closure,15194,0.04511,0.0357,-0.009411,unchanged
+big_trout_lake,era5,50,"bottom energy residual, largest daily absolute (W m-2)",closure,15128,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,50,break-up (days),bias,18,-12.444444,-12.444444,0.0,unchanged
+big_trout_lake,era5,50,break-up (days),mae,18,12.555556,12.555556,0.0,unchanged
+big_trout_lake,era5,50,"congelation ice, mean seasonal maximum (m)",mean,19,1.002233,1.002233,0.0,unchanged
+big_trout_lake,era5,50,"effective break-up, ice < 0.1 m (days)",bias,18,-14.0,-14.0,0.0,unchanged
+big_trout_lake,era5,50,"effective break-up, ice < 0.1 m (days)",mae,18,14.0,14.0,0.0,unchanged
+big_trout_lake,era5,50,freeze-up (days),bias,18,0.277778,0.277778,0.0,unchanged
+big_trout_lake,era5,50,freeze-up (days),mae,18,2.944444,2.944444,0.0,unchanged
+big_trout_lake,era5,50,"ice mass residual, largest daily absolute (kg m-2)",closure,15128,0.0,0.0,-0.0,unchanged
+big_trout_lake,era5,50,ice thickness (m),bias,489,-0.035508,-0.035508,0.0,unchanged
+big_trout_lake,era5,50,ice thickness (m),mae,489,0.115787,0.115787,0.0,unchanged
+big_trout_lake,era5,50,"ice thickness, mean seasonal maximum (m)",mean,19,1.175359,1.175359,0.0,unchanged
+big_trout_lake,era5,50,maximum ice thickness (m),bias,18,-0.015215,-0.015215,0.0,unchanged
+big_trout_lake,era5,50,maximum ice thickness (m),mae,18,0.099682,0.099682,0.0,unchanged
+big_trout_lake,era5,50,"short-wave residual, mean of daily absolute (W m-2)",closure,15128,2.2678,2.26782,2e-05,unchanged
+big_trout_lake,era5,50,snow depth on the ice (m),bias,488,0.022121,0.022121,0.0,unchanged
+big_trout_lake,era5,50,snow depth on the ice (m),mae,488,0.055233,0.055233,0.0,unchanged
+big_trout_lake,era5,50,"snow ice, mean seasonal maximum (m)",mean,19,0.179739,0.179739,0.0,unchanged
+big_trout_lake,era5,50,"snow mass residual, largest daily absolute (kg m-2)",closure,15128,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,50,"surface energy residual, largest daily absolute (W m-2)",closure,15128,12.425,12.425,0.0,unchanged
+big_trout_lake,era5,50,"surface energy residual, mean of daily absolute (W m-2)",closure,15128,0.024372,0.023254,-0.001118,unchanged
+big_trout_lake,era5,100,"bottom energy residual, largest daily absolute (W m-2)",closure,15481,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,100,break-up (days),bias,18,-8.333333,-8.333333,0.0,unchanged
+big_trout_lake,era5,100,break-up (days),mae,18,9.0,9.0,0.0,unchanged
+big_trout_lake,era5,100,"congelation ice, mean seasonal maximum (m)",mean,19,0.867373,0.867373,0.0,unchanged
+big_trout_lake,era5,100,"effective break-up, ice < 0.1 m (days)",bias,18,-9.611111,-9.611111,0.0,unchanged
+big_trout_lake,era5,100,"effective break-up, ice < 0.1 m (days)",mae,18,9.944444,9.944444,0.0,unchanged
+big_trout_lake,era5,100,freeze-up (days),bias,18,0.277778,0.277778,0.0,unchanged
+big_trout_lake,era5,100,freeze-up (days),mae,18,2.944444,2.944444,0.0,unchanged
+big_trout_lake,era5,100,"ice mass residual, largest daily absolute (kg m-2)",closure,15481,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,100,ice thickness (m),bias,489,0.050068,0.050068,0.0,unchanged
+big_trout_lake,era5,100,ice thickness (m),mae,489,0.146845,0.146845,0.0,unchanged
+big_trout_lake,era5,100,"ice thickness, mean seasonal maximum (m)",mean,19,1.332086,1.332086,0.0,unchanged
+big_trout_lake,era5,100,maximum ice thickness (m),bias,18,0.139735,0.139735,0.0,unchanged
+big_trout_lake,era5,100,maximum ice thickness (m),mae,18,0.182957,0.182957,0.0,unchanged
+big_trout_lake,era5,100,"short-wave residual, mean of daily absolute (W m-2)",closure,15481,2.36946,2.36946,0.0,unchanged
+big_trout_lake,era5,100,snow depth on the ice (m),bias,488,0.045404,0.045404,0.0,unchanged
+big_trout_lake,era5,100,snow depth on the ice (m),mae,488,0.068364,0.068364,0.0,unchanged
+big_trout_lake,era5,100,"snow ice, mean seasonal maximum (m)",mean,19,0.522877,0.522877,0.0,unchanged
+big_trout_lake,era5,100,"snow mass residual, largest daily absolute (kg m-2)",closure,15481,0.0,0.0,0.0,unchanged
+big_trout_lake,era5,100,"surface energy residual, largest daily absolute (W m-2)",closure,15481,8.56831,8.56831,0.0,unchanged
+big_trout_lake,era5,100,"surface energy residual, mean of daily absolute (W m-2)",closure,15481,0.016138,0.016138,0.0,unchanged
+big_trout_lake,station,0,"bottom energy residual, largest daily absolute (W m-2)",closure,15566,0.0,0.0,0.0,unchanged
+big_trout_lake,station,0,break-up (days),bias,18,-10.555556,-10.555556,0.0,unchanged
+big_trout_lake,station,0,break-up (days),mae,18,10.777778,10.777778,0.0,unchanged
+big_trout_lake,station,0,"congelation ice, mean seasonal maximum (m)",mean,19,1.511032,1.511023,-9e-06,unchanged
+big_trout_lake,station,0,"effective break-up, ice < 0.1 m (days)",bias,18,-11.777778,-11.777778,0.0,unchanged
+big_trout_lake,station,0,"effective break-up, ice < 0.1 m (days)",mae,18,11.777778,11.777778,0.0,unchanged
+big_trout_lake,station,0,freeze-up (days),bias,18,-3.611111,-3.611111,0.0,unchanged
+big_trout_lake,station,0,freeze-up (days),mae,18,4.833333,4.833333,0.0,unchanged
+big_trout_lake,station,0,"ice mass residual, largest daily absolute (kg m-2)",closure,15566,0.0,0.0,0.0,unchanged
+big_trout_lake,station,0,ice thickness (m),bias,489,0.231776,0.231776,0.0,unchanged
+big_trout_lake,station,0,ice thickness (m),mae,489,0.263356,0.263356,0.0,unchanged
+big_trout_lake,station,0,"ice thickness, mean seasonal maximum (m)",mean,19,1.506235,1.506235,0.0,unchanged
+big_trout_lake,station,0,maximum ice thickness (m),bias,18,0.313762,0.313762,0.0,unchanged
+big_trout_lake,station,0,maximum ice thickness (m),mae,18,0.313762,0.313762,0.0,unchanged
+big_trout_lake,station,0,"short-wave residual, mean of daily absolute (W m-2)",closure,15566,4.71389,4.71495,0.00106,unchanged
+big_trout_lake,station,0,snow depth on the ice (m),bias,488,-0.140635,-0.140635,0.0,unchanged
+big_trout_lake,station,0,snow depth on the ice (m),mae,488,0.140635,0.140635,0.0,unchanged
+big_trout_lake,station,0,"snow ice, mean seasonal maximum (m)",mean,19,0.0,0.0,0.0,unchanged
+big_trout_lake,station,0,"snow mass residual, largest daily absolute (kg m-2)",closure,15566,0.0,0.0,0.0,unchanged
+big_trout_lake,station,0,"surface energy residual, largest daily absolute (W m-2)",closure,15566,13.0099,11.7307,-1.2792,improved
+big_trout_lake,station,0,"surface energy residual, mean of daily absolute (W m-2)",closure,15566,0.035524,0.032208,-0.003316,unchanged
+big_trout_lake,station,50,"bottom energy residual, largest daily absolute (W m-2)",closure,15477,0.0,0.0,0.0,unchanged
+big_trout_lake,station,50,break-up (days),bias,18,-12.0,-12.0,0.0,unchanged
+big_trout_lake,station,50,break-up (days),mae,18,12.333333,12.333333,0.0,unchanged
+big_trout_lake,station,50,"congelation ice, mean seasonal maximum (m)",mean,19,0.99833,0.99833,0.0,unchanged
+big_trout_lake,station,50,"effective break-up, ice < 0.1 m (days)",bias,18,-13.222222,-13.222222,0.0,unchanged
+big_trout_lake,station,50,"effective break-up, ice < 0.1 m (days)",mae,18,13.333333,13.333333,0.0,unchanged
+big_trout_lake,station,50,freeze-up (days),bias,18,-3.611111,-3.611111,0.0,unchanged
+big_trout_lake,station,50,freeze-up (days),mae,18,4.833333,4.833333,0.0,unchanged
+big_trout_lake,station,50,"ice mass residual, largest daily absolute (kg m-2)",closure,15477,0.0,0.0,0.0,unchanged
+big_trout_lake,station,50,ice thickness (m),bias,489,0.004964,0.004964,0.0,unchanged
+big_trout_lake,station,50,ice thickness (m),mae,489,0.114144,0.114145,1e-06,unchanged
+big_trout_lake,station,50,"ice thickness, mean seasonal maximum (m)",mean,19,1.214434,1.214434,0.0,unchanged
+big_trout_lake,station,50,maximum ice thickness (m),bias,18,0.025564,0.025564,0.0,unchanged
+big_trout_lake,station,50,maximum ice thickness (m),mae,18,0.106809,0.106809,0.0,unchanged
+big_trout_lake,station,50,"short-wave residual, mean of daily absolute (W m-2)",closure,15477,2.23165,2.23169,4e-05,unchanged
+big_trout_lake,station,50,snow depth on the ice (m),bias,488,0.029771,0.029771,0.0,unchanged
+big_trout_lake,station,50,snow depth on the ice (m),mae,488,0.056828,0.056828,0.0,unchanged
+big_trout_lake,station,50,"snow ice, mean seasonal maximum (m)",mean,19,0.235975,0.235975,0.0,unchanged
+big_trout_lake,station,50,"snow mass residual, largest daily absolute (kg m-2)",closure,15477,0.0,0.0,-0.0,unchanged
+big_trout_lake,station,50,"surface energy residual, largest daily absolute (W m-2)",closure,15477,11.5792,11.5792,0.0,unchanged
+big_trout_lake,station,50,"surface energy residual, mean of daily absolute (W m-2)",closure,15477,0.023439,0.02167,-0.00177,unchanged
+big_trout_lake,station,100,"bottom energy residual, largest daily absolute (W m-2)",closure,15834,0.0,0.0,0.0,unchanged
+big_trout_lake,station,100,break-up (days),bias,18,-7.666667,-7.666667,0.0,unchanged
+big_trout_lake,station,100,break-up (days),mae,18,8.888889,8.888889,0.0,unchanged
+big_trout_lake,station,100,"congelation ice, mean seasonal maximum (m)",mean,19,0.845089,0.845088,-1e-06,unchanged
+big_trout_lake,station,100,"effective break-up, ice < 0.1 m (days)",bias,18,-8.833333,-8.833333,0.0,unchanged
+big_trout_lake,station,100,"effective break-up, ice < 0.1 m (days)",mae,18,9.722222,9.722222,0.0,unchanged
+big_trout_lake,station,100,freeze-up (days),bias,18,-3.611111,-3.611111,0.0,unchanged
+big_trout_lake,station,100,freeze-up (days),mae,18,4.833333,4.833333,0.0,unchanged
+big_trout_lake,station,100,"ice mass residual, largest daily absolute (kg m-2)",closure,15834,0.0,0.0,0.0,unchanged
+big_trout_lake,station,100,ice thickness (m),bias,489,0.104956,0.104956,0.0,unchanged
+big_trout_lake,station,100,ice thickness (m),mae,489,0.165523,0.165523,0.0,unchanged
+big_trout_lake,station,100,"ice thickness, mean seasonal maximum (m)",mean,19,1.387472,1.387471,-1e-06,unchanged
+big_trout_lake,station,100,maximum ice thickness (m),bias,18,0.199352,0.19935,-2e-06,unchanged
+big_trout_lake,station,100,maximum ice thickness (m),mae,18,0.219219,0.219217,-2e-06,unchanged
+big_trout_lake,station,100,"short-wave residual, mean of daily absolute (W m-2)",closure,15834,2.35205,2.35205,0.0,unchanged
+big_trout_lake,station,100,snow depth on the ice (m),bias,488,0.056006,0.056006,0.0,unchanged
+big_trout_lake,station,100,snow depth on the ice (m),mae,488,0.072913,0.072913,0.0,unchanged
+big_trout_lake,station,100,"snow ice, mean seasonal maximum (m)",mean,19,0.643708,0.643708,0.0,unchanged
+big_trout_lake,station,100,"snow mass residual, largest daily absolute (kg m-2)",closure,15834,0.0,0.0,0.0,unchanged
+big_trout_lake,station,100,"surface energy residual, largest daily absolute (W m-2)",closure,15834,9.93938,9.93938,0.0,unchanged
+big_trout_lake,station,100,"surface energy residual, mean of daily absolute (W m-2)",closure,15834,0.017643,0.016986,-0.000657,unchanged
+gimli,era5,0,"bottom energy residual, largest daily absolute (W m-2)",closure,12079,0.0,0.0,0.0,unchanged
+gimli,era5,0,break-up (days),bias,17,-12.588235,-12.588235,0.0,unchanged
+gimli,era5,0,break-up (days),mae,17,12.588235,12.588235,0.0,unchanged
+gimli,era5,0,"congelation ice, mean seasonal maximum (m)",mean,18,1.180167,1.180153,-1.4e-05,unchanged
+gimli,era5,0,"effective break-up, ice < 0.1 m (days)",bias,17,-14.235294,-14.235294,0.0,unchanged
+gimli,era5,0,"effective break-up, ice < 0.1 m (days)",mae,17,14.235294,14.235294,0.0,unchanged
+gimli,era5,0,freeze-up (days),bias,18,-4.277778,-4.277778,0.0,unchanged
+gimli,era5,0,freeze-up (days),mae,18,4.5,4.5,0.0,unchanged
+gimli,era5,0,"ice mass residual, largest daily absolute (kg m-2)",closure,12079,0.0,0.0,0.0,unchanged
+gimli,era5,0,ice thickness (m),bias,275,0.13296,0.132938,-2.2e-05,unchanged
+gimli,era5,0,ice thickness (m),mae,275,0.151215,0.151192,-2.3e-05,unchanged
+gimli,era5,0,"ice thickness, mean seasonal maximum (m)",mean,18,1.177964,1.177964,0.0,unchanged
+gimli,era5,0,maximum ice thickness (m),bias,7,0.202024,0.202024,0.0,unchanged
+gimli,era5,0,maximum ice thickness (m),mae,7,0.205515,0.205515,0.0,unchanged
+gimli,era5,0,"short-wave residual, mean of daily absolute (W m-2)",closure,12079,4.80225,4.80357,0.00132,unchanged
+gimli,era5,0,snow depth on the ice (m),bias,275,-0.120036,-0.120036,0.0,unchanged
+gimli,era5,0,snow depth on the ice (m),mae,275,0.120036,0.120036,0.0,unchanged
+gimli,era5,0,"snow ice, mean seasonal maximum (m)",mean,18,0.0,0.0,0.0,unchanged
+gimli,era5,0,"snow mass residual, largest daily absolute (kg m-2)",closure,12079,0.0,0.0,0.0,unchanged
+gimli,era5,0,"surface energy residual, largest daily absolute (W m-2)",closure,12079,17.2577,17.2577,0.0,unchanged
+gimli,era5,0,"surface energy residual, mean of daily absolute (W m-2)",closure,12079,0.040697,0.036044,-0.004653,unchanged
+gimli,era5,50,"bottom energy residual, largest daily absolute (W m-2)",closure,12102,0.0,0.0,0.0,unchanged
+gimli,era5,50,break-up (days),bias,17,-12.235294,-12.235294,0.0,unchanged
+gimli,era5,50,break-up (days),mae,17,12.235294,12.235294,0.0,unchanged
+gimli,era5,50,"congelation ice, mean seasonal maximum (m)",mean,18,0.888149,0.888149,0.0,unchanged
+gimli,era5,50,"effective break-up, ice < 0.1 m (days)",bias,17,-13.764706,-13.764706,0.0,unchanged
+gimli,era5,50,"effective break-up, ice < 0.1 m (days)",mae,17,13.764706,13.764706,0.0,unchanged
+gimli,era5,50,freeze-up (days),bias,18,-4.277778,-4.277778,0.0,unchanged
+gimli,era5,50,freeze-up (days),mae,18,4.5,4.5,0.0,unchanged
+gimli,era5,50,"ice mass residual, largest daily absolute (kg m-2)",closure,12102,0.0,0.0,0.0,unchanged
+gimli,era5,50,ice thickness (m),bias,275,-0.064753,-0.064753,0.0,unchanged
+gimli,era5,50,ice thickness (m),mae,275,0.134694,0.134694,0.0,unchanged
+gimli,era5,50,"ice thickness, mean seasonal maximum (m)",mean,18,0.979703,0.979703,0.0,unchanged
+gimli,era5,50,maximum ice thickness (m),bias,7,0.010894,0.010894,0.0,unchanged
+gimli,era5,50,maximum ice thickness (m),mae,7,0.148919,0.148919,0.0,unchanged
+gimli,era5,50,"short-wave residual, mean of daily absolute (W m-2)",closure,12102,2.2876,2.2876,0.0,unchanged
+gimli,era5,50,snow depth on the ice (m),bias,275,0.048444,0.048444,0.0,unchanged
+gimli,era5,50,snow depth on the ice (m),mae,275,0.077565,0.077565,0.0,unchanged
+gimli,era5,50,"snow ice, mean seasonal maximum (m)",mean,18,0.093394,0.093394,0.0,unchanged
+gimli,era5,50,"snow mass residual, largest daily absolute (kg m-2)",closure,12102,0.0,0.0,0.0,unchanged
+gimli,era5,50,"surface energy residual, largest daily absolute (W m-2)",closure,12102,18.8709,18.8709,0.0,unchanged
+gimli,era5,50,"surface energy residual, mean of daily absolute (W m-2)",closure,12102,0.030664,0.030664,0.0,unchanged
+gimli,era5,100,"bottom energy residual, largest daily absolute (W m-2)",closure,12281,0.0,0.0,0.0,unchanged
+gimli,era5,100,break-up (days),bias,17,-9.705882,-9.705882,0.0,unchanged
+gimli,era5,100,break-up (days),mae,17,9.705882,9.705882,0.0,unchanged
+gimli,era5,100,"congelation ice, mean seasonal maximum (m)",mean,18,0.78341,0.78341,0.0,unchanged
+gimli,era5,100,"effective break-up, ice < 0.1 m (days)",bias,17,-11.117647,-11.117647,0.0,unchanged
+gimli,era5,100,"effective break-up, ice < 0.1 m (days)",mae,17,11.117647,11.117647,0.0,unchanged
+gimli,era5,100,freeze-up (days),bias,18,-4.277778,-4.277778,0.0,unchanged
+gimli,era5,100,freeze-up (days),mae,18,4.5,4.5,0.0,unchanged
+gimli,era5,100,"ice mass residual, largest daily absolute (kg m-2)",closure,12281,0.0,0.0,0.0,unchanged
+gimli,era5,100,ice thickness (m),bias,275,-0.023531,-0.023531,0.0,unchanged
+gimli,era5,100,ice thickness (m),mae,275,0.135015,0.135015,0.0,unchanged
+gimli,era5,100,"ice thickness, mean seasonal maximum (m)",mean,18,1.07185,1.07185,0.0,unchanged
+gimli,era5,100,maximum ice thickness (m),bias,7,0.138268,0.138268,0.0,unchanged
+gimli,era5,100,maximum ice thickness (m),mae,7,0.177306,0.177306,0.0,unchanged
+gimli,era5,100,"short-wave residual, mean of daily absolute (W m-2)",closure,12281,2.31767,2.31765,-2e-05,unchanged
+gimli,era5,100,snow depth on the ice (m),bias,275,0.069568,0.069568,0.0,unchanged
+gimli,era5,100,snow depth on the ice (m),mae,275,0.088694,0.088694,0.0,unchanged
+gimli,era5,100,"snow ice, mean seasonal maximum (m)",mean,18,0.329563,0.329563,0.0,unchanged
+gimli,era5,100,"snow mass residual, largest daily absolute (kg m-2)",closure,12281,0.0,0.0,0.0,unchanged
+gimli,era5,100,"surface energy residual, largest daily absolute (W m-2)",closure,12281,5.16776,1.47252,-3.69524,improved
+gimli,era5,100,"surface energy residual, mean of daily absolute (W m-2)",closure,12281,0.019888,0.018235,-0.001654,unchanged
+gimli,station,0,"bottom energy residual, largest daily absolute (W m-2)",closure,11973,0.0,0.0,0.0,unchanged
+gimli,station,0,break-up (days),bias,17,-11.941176,-11.941176,0.0,unchanged
+gimli,station,0,break-up (days),mae,17,11.941176,11.941176,0.0,unchanged
+gimli,station,0,"congelation ice, mean seasonal maximum (m)",mean,18,1.158307,1.158297,-1e-05,unchanged
+gimli,station,0,"effective break-up, ice < 0.1 m (days)",bias,17,-13.705882,-13.705882,0.0,unchanged
+gimli,station,0,"effective break-up, ice < 0.1 m (days)",mae,17,13.705882,13.705882,0.0,unchanged
+gimli,station,0,freeze-up (days),bias,18,-1.888889,-1.888889,0.0,unchanged
+gimli,station,0,freeze-up (days),mae,18,3.666667,3.666667,0.0,unchanged
+gimli,station,0,"ice mass residual, largest daily absolute (kg m-2)",closure,11973,0.0,0.0,0.0,unchanged
+gimli,station,0,ice thickness (m),bias,275,0.111765,0.111766,1e-06,unchanged
+gimli,station,0,ice thickness (m),mae,275,0.142744,0.142743,-1e-06,unchanged
+gimli,station,0,"ice thickness, mean seasonal maximum (m)",mean,18,1.157805,1.157805,0.0,unchanged
+gimli,station,0,maximum ice thickness (m),bias,7,0.17617,0.17617,0.0,unchanged
+gimli,station,0,maximum ice thickness (m),mae,7,0.199006,0.199006,0.0,unchanged
+gimli,station,0,"short-wave residual, mean of daily absolute (W m-2)",closure,11973,4.91431,4.90992,-0.00439,unchanged
+gimli,station,0,snow depth on the ice (m),bias,275,-0.120036,-0.120036,0.0,unchanged
+gimli,station,0,snow depth on the ice (m),mae,275,0.120036,0.120036,0.0,unchanged
+gimli,station,0,"snow ice, mean seasonal maximum (m)",mean,18,0.0,0.0,0.0,unchanged
+gimli,station,0,"snow mass residual, largest daily absolute (kg m-2)",closure,11973,0.0,0.0,0.0,unchanged
+gimli,station,0,"surface energy residual, largest daily absolute (W m-2)",closure,11973,17.5027,12.562,-4.9407,improved
+gimli,station,0,"surface energy residual, mean of daily absolute (W m-2)",closure,11973,0.033562,0.023525,-0.010037,improved
+gimli,station,50,"bottom energy residual, largest daily absolute (W m-2)",closure,12097,0.0,0.0,0.0,unchanged
+gimli,station,50,break-up (days),bias,17,-10.176471,-10.176471,0.0,unchanged
+gimli,station,50,break-up (days),mae,17,10.176471,10.176471,0.0,unchanged
+gimli,station,50,"congelation ice, mean seasonal maximum (m)",mean,18,0.870024,0.870024,0.0,unchanged
+gimli,station,50,"effective break-up, ice < 0.1 m (days)",bias,17,-11.647059,-11.647059,0.0,unchanged
+gimli,station,50,"effective break-up, ice < 0.1 m (days)",mae,17,11.647059,11.647059,0.0,unchanged
+gimli,station,50,freeze-up (days),bias,18,-1.888889,-1.888889,0.0,unchanged
+gimli,station,50,freeze-up (days),mae,18,3.666667,3.666667,0.0,unchanged
+gimli,station,50,"ice mass residual, largest daily absolute (kg m-2)",closure,12097,0.0,0.0,0.0,unchanged
+gimli,station,50,ice thickness (m),bias,275,-0.060189,-0.060189,0.0,unchanged
+gimli,station,50,ice thickness (m),mae,275,0.137876,0.137876,0.0,unchanged
+gimli,station,50,"ice thickness, mean seasonal maximum (m)",mean,18,1.000609,1.000609,0.0,unchanged
+gimli,station,50,maximum ice thickness (m),bias,7,0.03998,0.03998,0.0,unchanged
+gimli,station,50,maximum ice thickness (m),mae,7,0.15205,0.15205,0.0,unchanged
+gimli,station,50,"short-wave residual, mean of daily absolute (W m-2)",closure,12097,2.43436,2.43436,0.0,unchanged
+gimli,station,50,snow depth on the ice (m),bias,275,0.049729,0.049729,0.0,unchanged
+gimli,station,50,snow depth on the ice (m),mae,275,0.077567,0.077567,0.0,unchanged
+gimli,station,50,"snow ice, mean seasonal maximum (m)",mean,18,0.141568,0.141568,0.0,unchanged
+gimli,station,50,"snow mass residual, largest daily absolute (kg m-2)",closure,12097,0.0,0.0,0.0,unchanged
+gimli,station,50,"surface energy residual, largest daily absolute (W m-2)",closure,12097,11.0354,11.0354,0.0,unchanged
+gimli,station,50,"surface energy residual, mean of daily absolute (W m-2)",closure,12097,0.018278,0.018278,0.0,unchanged
+gimli,station,100,"bottom energy residual, largest daily absolute (W m-2)",closure,12354,0.0,0.0,0.0,unchanged
+gimli,station,100,break-up (days),bias,17,-6.823529,-6.823529,0.0,unchanged
+gimli,station,100,break-up (days),mae,17,7.176471,7.176471,0.0,unchanged
+gimli,station,100,"congelation ice, mean seasonal maximum (m)",mean,18,0.768215,0.768215,0.0,unchanged
+gimli,station,100,"effective break-up, ice < 0.1 m (days)",bias,17,-8.294118,-8.294118,0.0,unchanged
+gimli,station,100,"effective break-up, ice < 0.1 m (days)",mae,17,8.294118,8.294118,0.0,unchanged
+gimli,station,100,freeze-up (days),bias,18,-1.888889,-1.888889,0.0,unchanged
+gimli,station,100,freeze-up (days),mae,18,3.666667,3.666667,0.0,unchanged
+gimli,station,100,"ice mass residual, largest daily absolute (kg m-2)",closure,12354,0.0,0.0,0.0,unchanged
+gimli,station,100,ice thickness (m),bias,275,-0.004079,-0.004079,0.0,unchanged
+gimli,station,100,ice thickness (m),mae,275,0.137539,0.137539,0.0,unchanged
+gimli,station,100,"ice thickness, mean seasonal maximum (m)",mean,18,1.123059,1.123059,0.0,unchanged
+gimli,station,100,maximum ice thickness (m),bias,7,0.189649,0.189649,0.0,unchanged
+gimli,station,100,maximum ice thickness (m),mae,7,0.19504,0.19504,0.0,unchanged
+gimli,station,100,"short-wave residual, mean of daily absolute (W m-2)",closure,12354,2.49841,2.49841,0.0,unchanged
+gimli,station,100,snow depth on the ice (m),bias,275,0.072995,0.072995,0.0,unchanged
+gimli,station,100,snow depth on the ice (m),mae,275,0.091265,0.091265,0.0,unchanged
+gimli,station,100,"snow ice, mean seasonal maximum (m)",mean,18,0.427127,0.427127,0.0,unchanged
+gimli,station,100,"snow mass residual, largest daily absolute (kg m-2)",closure,12354,0.0,0.0,0.0,unchanged
+gimli,station,100,"surface energy residual, largest daily absolute (W m-2)",closure,12354,1.48408,1.48408,0.0,unchanged
+gimli,station,100,"surface energy residual, mean of daily absolute (W m-2)",closure,12354,0.013988,0.013988,0.0,unchanged
+island_lake,era5,0,"bottom energy residual, largest daily absolute (W m-2)",closure,18973,0.0,0.0,0.0,unchanged
+island_lake,era5,0,break-up (days),bias,19,-5.368421,-5.368421,0.0,unchanged
+island_lake,era5,0,break-up (days),mae,19,6.631579,6.631579,0.0,unchanged
+island_lake,era5,0,"congelation ice, mean seasonal maximum (m)",mean,25,1.400267,1.400242,-2.5e-05,unchanged
+island_lake,era5,0,"effective break-up, ice < 0.1 m (days)",bias,19,-6.842105,-6.842105,0.0,unchanged
+island_lake,era5,0,"effective break-up, ice < 0.1 m (days)",mae,19,7.684211,7.684211,0.0,unchanged
+island_lake,era5,0,freeze-up (days),bias,16,-5.375,-5.375,0.0,unchanged
+island_lake,era5,0,freeze-up (days),mae,16,8.125,8.125,0.0,unchanged
+island_lake,era5,0,"ice mass residual, largest daily absolute (kg m-2)",closure,18973,0.0,0.0,0.0,unchanged
+island_lake,era5,0,ice thickness (m),bias,555,0.358625,0.358497,-0.000128,unchanged
+island_lake,era5,0,ice thickness (m),mae,555,0.36625,0.366164,-8.6e-05,unchanged
+island_lake,era5,0,"ice thickness, mean seasonal maximum (m)",mean,25,1.398446,1.398446,0.0,unchanged
+island_lake,era5,0,maximum ice thickness (m),bias,25,0.483646,0.483646,0.0,unchanged
+island_lake,era5,0,maximum ice thickness (m),mae,25,0.483646,0.483646,0.0,unchanged
+island_lake,era5,0,"short-wave residual, mean of daily absolute (W m-2)",closure,18973,4.67306,4.67384,0.00078,unchanged
+island_lake,era5,0,snow depth on the ice (m),bias,555,-0.157604,-0.157604,0.0,unchanged
+island_lake,era5,0,snow depth on the ice (m),mae,555,0.157604,0.157604,0.0,unchanged
+island_lake,era5,0,"snow ice, mean seasonal maximum (m)",mean,25,0.0,0.0,0.0,unchanged
+island_lake,era5,0,"snow mass residual, largest daily absolute (kg m-2)",closure,18973,0.0,0.0,0.0,unchanged
+island_lake,era5,0,"surface energy residual, largest daily absolute (W m-2)",closure,18973,19.2162,13.7217,-5.4945,improved
+island_lake,era5,0,"surface energy residual, mean of daily absolute (W m-2)",closure,18973,0.047468,0.037879,-0.009589,unchanged
+island_lake,era5,50,"bottom energy residual, largest daily absolute (W m-2)",closure,19003,0.0,0.0,0.0,unchanged
+island_lake,era5,50,break-up (days),bias,19,-5.578947,-5.578947,0.0,unchanged
+island_lake,era5,50,break-up (days),mae,19,6.631579,6.631579,0.0,unchanged
+island_lake,era5,50,"congelation ice, mean seasonal maximum (m)",mean,25,0.971878,0.971878,0.0,unchanged
+island_lake,era5,50,"effective break-up, ice < 0.1 m (days)",bias,19,-7.157895,-7.157895,0.0,unchanged
+island_lake,era5,50,"effective break-up, ice < 0.1 m (days)",mae,19,7.684211,7.684211,0.0,unchanged
+island_lake,era5,50,freeze-up (days),bias,16,-5.375,-5.375,0.0,unchanged
+island_lake,era5,50,freeze-up (days),mae,16,8.125,8.125,0.0,unchanged
+island_lake,era5,50,"ice mass residual, largest daily absolute (kg m-2)",closure,19003,0.0,0.0,0.0,unchanged
+island_lake,era5,50,ice thickness (m),bias,555,0.137228,0.137228,0.0,unchanged
+island_lake,era5,50,ice thickness (m),mae,555,0.164225,0.164225,0.0,unchanged
+island_lake,era5,50,"ice thickness, mean seasonal maximum (m)",mean,25,1.126143,1.126143,0.0,unchanged
+island_lake,era5,50,maximum ice thickness (m),bias,25,0.211343,0.211343,0.0,unchanged
+island_lake,era5,50,maximum ice thickness (m),mae,25,0.22517,0.22517,0.0,unchanged
+island_lake,era5,50,"short-wave residual, mean of daily absolute (W m-2)",closure,19003,2.23696,2.23696,0.0,unchanged
+island_lake,era5,50,snow depth on the ice (m),bias,555,0.010525,0.010525,0.0,unchanged
+island_lake,era5,50,snow depth on the ice (m),mae,555,0.060276,0.060276,0.0,unchanged
+island_lake,era5,50,"snow ice, mean seasonal maximum (m)",mean,25,0.162844,0.162844,0.0,unchanged
+island_lake,era5,50,"snow mass residual, largest daily absolute (kg m-2)",closure,19003,0.0,0.0,0.0,unchanged
+island_lake,era5,50,"surface energy residual, largest daily absolute (W m-2)",closure,19003,13.4187,13.4187,0.0,unchanged
+island_lake,era5,50,"surface energy residual, mean of daily absolute (W m-2)",closure,19003,0.022532,0.022532,0.0,unchanged
+island_lake,era5,100,"bottom energy residual, largest daily absolute (W m-2)",closure,19435,0.0,0.0,0.0,unchanged
+island_lake,era5,100,break-up (days),bias,19,-1.315789,-1.315789,0.0,unchanged
+island_lake,era5,100,break-up (days),mae,19,4.157895,4.157895,0.0,unchanged
+island_lake,era5,100,"congelation ice, mean seasonal maximum (m)",mean,25,0.842205,0.842205,0.0,unchanged
+island_lake,era5,100,"effective break-up, ice < 0.1 m (days)",bias,19,-2.684211,-2.684211,0.0,unchanged
+island_lake,era5,100,"effective break-up, ice < 0.1 m (days)",mae,19,4.578947,4.578947,0.0,unchanged
+island_lake,era5,100,freeze-up (days),bias,16,-5.375,-5.375,0.0,unchanged
+island_lake,era5,100,freeze-up (days),mae,16,8.125,8.125,0.0,unchanged
+island_lake,era5,100,"ice mass residual, largest daily absolute (kg m-2)",closure,19435,0.0,0.0,0.0,unchanged
+island_lake,era5,100,ice thickness (m),bias,555,0.216977,0.216977,0.0,unchanged
+island_lake,era5,100,ice thickness (m),mae,555,0.232139,0.232139,0.0,unchanged
+island_lake,era5,100,"ice thickness, mean seasonal maximum (m)",mean,25,1.263512,1.263512,0.0,unchanged
+island_lake,era5,100,maximum ice thickness (m),bias,25,0.348712,0.348712,0.0,unchanged
+island_lake,era5,100,maximum ice thickness (m),mae,25,0.351854,0.351854,0.0,unchanged
+island_lake,era5,100,"short-wave residual, mean of daily absolute (W m-2)",closure,19435,2.34759,2.34759,0.0,unchanged
+island_lake,era5,100,snow depth on the ice (m),bias,555,0.034614,0.034614,0.0,unchanged
+island_lake,era5,100,snow depth on the ice (m),mae,555,0.069137,0.069137,0.0,unchanged
+island_lake,era5,100,"snow ice, mean seasonal maximum (m)",mean,25,0.485118,0.485118,0.0,unchanged
+island_lake,era5,100,"snow mass residual, largest daily absolute (kg m-2)",closure,19435,0.0,0.0,0.0,unchanged
+island_lake,era5,100,"surface energy residual, largest daily absolute (W m-2)",closure,19435,8.54467,8.54467,0.0,unchanged
+island_lake,era5,100,"surface energy residual, mean of daily absolute (W m-2)",closure,19435,0.017199,0.017199,0.0,unchanged
+island_lake,station,0,"bottom energy residual, largest daily absolute (W m-2)",closure,18951,0.0,0.0,0.0,unchanged
+island_lake,station,0,break-up (days),bias,19,-6.526316,-6.526316,0.0,unchanged
+island_lake,station,0,break-up (days),mae,19,7.578947,7.578947,0.0,unchanged
+island_lake,station,0,"congelation ice, mean seasonal maximum (m)",mean,25,1.414469,1.41445,-1.9e-05,unchanged
+island_lake,station,0,"effective break-up, ice < 0.1 m (days)",bias,19,-7.842105,-7.947368,-0.105263,unchanged
+island_lake,station,0,"effective break-up, ice < 0.1 m (days)",mae,19,8.473684,8.473684,0.0,unchanged
+island_lake,station,0,freeze-up (days),bias,16,-6.5625,-6.5625,0.0,unchanged
+island_lake,station,0,freeze-up (days),mae,16,8.9375,8.9375,0.0,unchanged
+island_lake,station,0,"ice mass residual, largest daily absolute (kg m-2)",closure,18951,0.0,0.0,0.0,unchanged
+island_lake,station,0,ice thickness (m),bias,555,0.367475,0.367387,-8.8e-05,unchanged
+island_lake,station,0,ice thickness (m),mae,555,0.376716,0.376641,-7.5e-05,unchanged
+island_lake,station,0,"ice thickness, mean seasonal maximum (m)",mean,25,1.415332,1.415107,-0.000225,unchanged
+island_lake,station,0,maximum ice thickness (m),bias,25,0.500532,0.500307,-0.000225,unchanged
+island_lake,station,0,maximum ice thickness (m),mae,25,0.500532,0.500307,-0.000225,unchanged
+island_lake,station,0,"short-wave residual, mean of daily absolute (W m-2)",closure,18951,4.62154,4.62303,0.00149,unchanged
+island_lake,station,0,snow depth on the ice (m),bias,555,-0.157604,-0.157604,0.0,unchanged
+island_lake,station,0,snow depth on the ice (m),mae,555,0.157604,0.157604,0.0,unchanged
+island_lake,station,0,"snow ice, mean seasonal maximum (m)",mean,25,0.0,0.0,0.0,unchanged
+island_lake,station,0,"snow mass residual, largest daily absolute (kg m-2)",closure,18951,0.0,0.0,0.0,unchanged
+island_lake,station,0,"surface energy residual, largest daily absolute (W m-2)",closure,18951,13.9238,13.9238,0.0,unchanged
+island_lake,station,0,"surface energy residual, mean of daily absolute (W m-2)",closure,18951,0.034714,0.027743,-0.006971,unchanged
+island_lake,station,50,"bottom energy residual, largest daily absolute (W m-2)",closure,18971,0.0,0.0,0.0,unchanged
+island_lake,station,50,break-up (days),bias,19,-6.631579,-6.631579,0.0,unchanged
+island_lake,station,50,break-up (days),mae,19,7.263158,7.263158,0.0,unchanged
+island_lake,station,50,"congelation ice, mean seasonal maximum (m)",mean,25,0.949939,0.949938,-1e-06,unchanged
+island_lake,station,50,"effective break-up, ice < 0.1 m (days)",bias,19,-8.0,-8.0,0.0,unchanged
+island_lake,station,50,"effective break-up, ice < 0.1 m (days)",mae,19,8.210526,8.210526,0.0,unchanged
+island_lake,station,50,freeze-up (days),bias,16,-6.5625,-6.5625,0.0,unchanged
+island_lake,station,50,freeze-up (days),mae,16,8.9375,8.9375,0.0,unchanged
+island_lake,station,50,"ice mass residual, largest daily absolute (kg m-2)",closure,18971,0.0,0.0,0.0,unchanged
+island_lake,station,50,ice thickness (m),bias,555,0.161086,0.161084,-2e-06,unchanged
+island_lake,station,50,ice thickness (m),mae,555,0.189522,0.189522,0.0,unchanged
+island_lake,station,50,"ice thickness, mean seasonal maximum (m)",mean,25,1.159446,1.159444,-2e-06,unchanged
+island_lake,station,50,maximum ice thickness (m),bias,25,0.244646,0.244644,-2e-06,unchanged
+island_lake,station,50,maximum ice thickness (m),mae,25,0.258784,0.258783,-1e-06,unchanged
+island_lake,station,50,"short-wave residual, mean of daily absolute (W m-2)",closure,18971,2.28949,2.28951,2e-05,unchanged
+island_lake,station,50,snow depth on the ice (m),bias,555,0.012038,0.012038,0.0,unchanged
+island_lake,station,50,snow depth on the ice (m),mae,555,0.056705,0.056705,0.0,unchanged
+island_lake,station,50,"snow ice, mean seasonal maximum (m)",mean,25,0.226259,0.226258,-1e-06,unchanged
+island_lake,station,50,"snow mass residual, largest daily absolute (kg m-2)",closure,18971,0.0,0.0,0.0,unchanged
+island_lake,station,50,"surface energy residual, largest daily absolute (W m-2)",closure,18971,13.9504,13.9504,0.0,unchanged
+island_lake,station,50,"surface energy residual, mean of daily absolute (W m-2)",closure,18971,0.019717,0.019568,-0.000149,unchanged
+island_lake,station,100,"bottom energy residual, largest daily absolute (W m-2)",closure,19486,0.0,0.0,0.0,unchanged
+island_lake,station,100,break-up (days),bias,19,-1.789474,-1.789474,0.0,unchanged
+island_lake,station,100,break-up (days),mae,19,4.947368,4.947368,0.0,unchanged
+island_lake,station,100,"congelation ice, mean seasonal maximum (m)",mean,25,0.821757,0.821755,-2e-06,unchanged
+island_lake,station,100,"effective break-up, ice < 0.1 m (days)",bias,19,-3.157895,-3.157895,0.0,unchanged
+island_lake,station,100,"effective break-up, ice < 0.1 m (days)",mae,19,4.947368,4.947368,0.0,unchanged
+island_lake,station,100,freeze-up (days),bias,16,-6.5625,-6.5625,0.0,unchanged
+island_lake,station,100,freeze-up (days),mae,16,8.9375,8.9375,0.0,unchanged
+island_lake,station,100,"ice mass residual, largest daily absolute (kg m-2)",closure,19486,0.0,0.0,0.0,unchanged
+island_lake,station,100,ice thickness (m),bias,555,0.268917,0.268915,-2e-06,unchanged
+island_lake,station,100,ice thickness (m),mae,555,0.278689,0.278688,-1e-06,unchanged
+island_lake,station,100,"ice thickness, mean seasonal maximum (m)",mean,25,1.329354,1.329352,-2e-06,unchanged
+island_lake,station,100,maximum ice thickness (m),bias,25,0.414554,0.414552,-2e-06,unchanged
+island_lake,station,100,maximum ice thickness (m),mae,25,0.414554,0.414552,-2e-06,unchanged
+island_lake,station,100,"short-wave residual, mean of daily absolute (W m-2)",closure,19486,2.41056,2.41058,2e-05,unchanged
+island_lake,station,100,snow depth on the ice (m),bias,555,0.039067,0.039067,0.0,unchanged
+island_lake,station,100,snow depth on the ice (m),mae,555,0.066481,0.066481,0.0,unchanged
+island_lake,station,100,"snow ice, mean seasonal maximum (m)",mean,25,0.611802,0.611801,-1e-06,unchanged
+island_lake,station,100,"snow mass residual, largest daily absolute (kg m-2)",closure,19486,0.0,0.0,-0.0,unchanged
+island_lake,station,100,"surface energy residual, largest daily absolute (W m-2)",closure,19486,12.8668,12.8668,0.0,unchanged
+island_lake,station,100,"surface energy residual, mean of daily absolute (W m-2)",closure,19486,0.0183,0.018168,-0.000131,unchanged
+lac_des_sables,era5,0,"bottom energy residual, largest daily absolute (W m-2)",closure,8935,0.0,0.0,0.0,unchanged
+lac_des_sables,era5,0,break-up (days),bias,16,-12.25,-12.25,0.0,unchanged
+lac_des_sables,era5,0,break-up (days),mae,16,12.25,12.25,0.0,unchanged
+lac_des_sables,era5,0,"congelation ice, mean seasonal maximum (m)",mean,16,0.821752,0.821752,0.0,unchanged
+lac_des_sables,era5,0,"effective break-up, ice < 0.1 m (days)",bias,16,-14.0,-14.0,0.0,unchanged
+lac_des_sables,era5,0,"effective break-up, ice < 0.1 m (days)",mae,16,14.0,14.0,0.0,unchanged
+lac_des_sables,era5,0,freeze-up (days),bias,15,3.6,3.6,0.0,unchanged
+lac_des_sables,era5,0,freeze-up (days),mae,15,3.866667,3.866667,0.0,unchanged
+lac_des_sables,era5,0,"ice mass residual, largest daily absolute (kg m-2)",closure,8935,0.0,0.0,0.0,unchanged
+lac_des_sables,era5,0,ice thickness (m),bias,248,0.040576,0.040471,-0.000105,unchanged
+lac_des_sables,era5,0,ice thickness (m),mae,248,0.141046,0.141151,0.000105,unchanged
+lac_des_sables,era5,0,"ice thickness, mean seasonal maximum (m)",mean,16,0.816784,0.816784,0.0,unchanged
+lac_des_sables,era5,0,maximum ice thickness (m),bias,10,0.046977,0.046977,0.0,unchanged
+lac_des_sables,era5,0,maximum ice thickness (m),mae,10,0.102076,0.102076,0.0,unchanged
+lac_des_sables,era5,0,"short-wave residual, mean of daily absolute (W m-2)",closure,8935,5.23141,5.23478,0.00337,unchanged
+lac_des_sables,era5,0,snow depth on the ice (m),bias,248,-0.151613,-0.151613,0.0,unchanged
+lac_des_sables,era5,0,snow depth on the ice (m),mae,248,0.151613,0.151613,0.0,unchanged
+lac_des_sables,era5,0,"snow ice, mean seasonal maximum (m)",mean,16,0.0,0.0,0.0,unchanged
+lac_des_sables,era5,0,"snow mass residual, largest daily absolute (kg m-2)",closure,8935,0.0,0.0,0.0,unchanged
+lac_des_sables,era5,0,"surface energy residual, largest daily absolute (W m-2)",closure,8935,20.1501,11.6888,-8.4613,improved
+lac_des_sables,era5,0,"surface energy residual, mean of daily absolute (W m-2)",closure,8935,0.054004,0.032295,-0.021709,improved
+lac_des_sables,era5,50,"bottom energy residual, largest daily absolute (W m-2)",closure,9484,0.0,0.0,-0.0,unchanged
+lac_des_sables,era5,50,break-up (days),bias,16,-4.4375,-4.5,-0.0625,unchanged
+lac_des_sables,era5,50,break-up (days),mae,16,4.8125,4.875,0.0625,unchanged
+lac_des_sables,era5,50,"congelation ice, mean seasonal maximum (m)",mean,16,0.569026,0.568918,-0.000108,unchanged
+lac_des_sables,era5,50,"effective break-up, ice < 0.1 m (days)",bias,16,-6.0625,-6.0625,0.0,unchanged
+lac_des_sables,era5,50,"effective break-up, ice < 0.1 m (days)",mae,16,6.3125,6.3125,0.0,unchanged
+lac_des_sables,era5,50,freeze-up (days),bias,15,3.6,3.6,0.0,unchanged
+lac_des_sables,era5,50,freeze-up (days),mae,15,3.866667,3.866667,0.0,unchanged
+lac_des_sables,era5,50,"ice mass residual, largest daily absolute (kg m-2)",closure,9484,0.0,0.0,-0.0,unchanged
+lac_des_sables,era5,50,ice thickness (m),bias,248,0.079485,0.079401,-8.4e-05,unchanged
+lac_des_sables,era5,50,ice thickness (m),mae,248,0.128263,0.128261,-2e-06,unchanged
+lac_des_sables,era5,50,"ice thickness, mean seasonal maximum (m)",mean,16,0.889968,0.889867,-0.000101,unchanged
+lac_des_sables,era5,50,maximum ice thickness (m),bias,10,0.113887,0.113726,-0.000161,unchanged
+lac_des_sables,era5,50,maximum ice thickness (m),mae,10,0.144573,0.144735,0.000162,unchanged
+lac_des_sables,era5,50,"short-wave residual, mean of daily absolute (W m-2)",closure,9484,2.67515,2.66786,-0.00729,unchanged
+lac_des_sables,era5,50,snow depth on the ice (m),bias,248,-0.025511,-0.025533,-2.2e-05,unchanged
+lac_des_sables,era5,50,snow depth on the ice (m),mae,248,0.073515,0.073502,-1.3e-05,unchanged
+lac_des_sables,era5,50,"snow ice, mean seasonal maximum (m)",mean,16,0.393786,0.393802,1.6e-05,unchanged
+lac_des_sables,era5,50,"snow mass residual, largest daily absolute (kg m-2)",closure,9484,0.0,0.0,0.0,unchanged
+lac_des_sables,era5,50,"surface energy residual, largest daily absolute (W m-2)",closure,9484,24.6318,13.7822,-10.8496,improved
+lac_des_sables,era5,50,"surface energy residual, mean of daily absolute (W m-2)",closure,9484,0.037842,0.026573,-0.011269,improved
+lac_des_sables,era5,100,"bottom energy residual, largest daily absolute (W m-2)",closure,10026,0.0,0.0,0.0,unchanged
+lac_des_sables,era5,100,break-up (days),bias,16,3.0625,3.0625,0.0,unchanged
+lac_des_sables,era5,100,break-up (days),mae,16,5.6875,5.6875,0.0,unchanged
+lac_des_sables,era5,100,"congelation ice, mean seasonal maximum (m)",mean,16,0.473313,0.473273,-4e-05,unchanged
+lac_des_sables,era5,100,"effective break-up, ice < 0.1 m (days)",bias,16,1.6875,1.6875,0.0,unchanged
+lac_des_sables,era5,100,"effective break-up, ice < 0.1 m (days)",mae,16,4.6875,4.6875,0.0,unchanged
+lac_des_sables,era5,100,freeze-up (days),bias,15,3.6,3.6,0.0,unchanged
+lac_des_sables,era5,100,freeze-up (days),mae,15,3.866667,3.866667,0.0,unchanged
+lac_des_sables,era5,100,"ice mass residual, largest daily absolute (kg m-2)",closure,10026,0.0,0.0,0.0,unchanged
+lac_des_sables,era5,100,ice thickness (m),bias,248,0.25541,0.255335,-7.5e-05,unchanged
+lac_des_sables,era5,100,ice thickness (m),mae,248,0.271433,0.271409,-2.4e-05,unchanged
+lac_des_sables,era5,100,"ice thickness, mean seasonal maximum (m)",mean,16,1.163486,1.163415,-7.1e-05,unchanged
+lac_des_sables,era5,100,maximum ice thickness (m),bias,10,0.395405,0.395296,-0.000109,unchanged
+lac_des_sables,era5,100,maximum ice thickness (m),mae,10,0.395405,0.395296,-0.000109,unchanged
+lac_des_sables,era5,100,"short-wave residual, mean of daily absolute (W m-2)",closure,10026,2.78536,2.78544,8e-05,unchanged
+lac_des_sables,era5,100,snow depth on the ice (m),bias,248,0.017212,0.017198,-1.4e-05,unchanged
+lac_des_sables,era5,100,snow depth on the ice (m),mae,248,0.08572,0.085712,-8e-06,unchanged
+lac_des_sables,era5,100,"snow ice, mean seasonal maximum (m)",mean,16,0.912321,0.91234,1.9e-05,unchanged
+lac_des_sables,era5,100,"snow mass residual, largest daily absolute (kg m-2)",closure,10026,0.0,0.0,0.0,unchanged
+lac_des_sables,era5,100,"surface energy residual, largest daily absolute (W m-2)",closure,10026,16.328,1.55128,-14.77672,improved
+lac_des_sables,era5,100,"surface energy residual, mean of daily absolute (W m-2)",closure,10026,0.023156,0.016497,-0.006658,unchanged
+lac_des_sables,station,0,"bottom energy residual, largest daily absolute (W m-2)",closure,8890,0.0,0.0,0.0,unchanged
+lac_des_sables,station,0,break-up (days),bias,16,-11.75,-11.8125,-0.0625,unchanged
+lac_des_sables,station,0,break-up (days),mae,16,11.75,11.8125,0.0625,unchanged
+lac_des_sables,station,0,"congelation ice, mean seasonal maximum (m)",mean,16,0.808267,0.808267,0.0,unchanged
+lac_des_sables,station,0,"effective break-up, ice < 0.1 m (days)",bias,16,-13.625,-13.625,0.0,unchanged
+lac_des_sables,station,0,"effective break-up, ice < 0.1 m (days)",mae,16,13.625,13.625,0.0,unchanged
+lac_des_sables,station,0,freeze-up (days),bias,15,4.8,4.8,0.0,unchanged
+lac_des_sables,station,0,freeze-up (days),mae,15,5.2,5.2,0.0,unchanged
+lac_des_sables,station,0,"ice mass residual, largest daily absolute (kg m-2)",closure,8890,0.0,0.0,0.0,unchanged
+lac_des_sables,station,0,ice thickness (m),bias,248,0.033942,0.033806,-0.000136,unchanged
+lac_des_sables,station,0,ice thickness (m),mae,248,0.135317,0.135453,0.000136,unchanged
+lac_des_sables,station,0,"ice thickness, mean seasonal maximum (m)",mean,16,0.806092,0.806092,0.0,unchanged
+lac_des_sables,station,0,maximum ice thickness (m),bias,10,0.043295,0.043295,0.0,unchanged
+lac_des_sables,station,0,maximum ice thickness (m),mae,10,0.10294,0.10294,0.0,unchanged
+lac_des_sables,station,0,"short-wave residual, mean of daily absolute (W m-2)",closure,8890,5.28849,5.28345,-0.00504,unchanged
+lac_des_sables,station,0,snow depth on the ice (m),bias,248,-0.151613,-0.151613,0.0,unchanged
+lac_des_sables,station,0,snow depth on the ice (m),mae,248,0.151613,0.151613,0.0,unchanged
+lac_des_sables,station,0,"snow ice, mean seasonal maximum (m)",mean,16,0.0,0.0,0.0,unchanged
+lac_des_sables,station,0,"snow mass residual, largest daily absolute (kg m-2)",closure,8890,0.0,0.0,0.0,unchanged
+lac_des_sables,station,0,"surface energy residual, largest daily absolute (W m-2)",closure,8890,11.9594,11.9588,-0.0006,unchanged
+lac_des_sables,station,0,"surface energy residual, mean of daily absolute (W m-2)",closure,8890,0.04022,0.026732,-0.013487,improved
+lac_des_sables,station,50,"bottom energy residual, largest daily absolute (W m-2)",closure,9616,0.0,0.0,0.0,unchanged
+lac_des_sables,station,50,break-up (days),bias,16,-1.5,-1.5,0.0,unchanged
+lac_des_sables,station,50,break-up (days),mae,16,3.625,3.625,0.0,unchanged
+lac_des_sables,station,50,"congelation ice, mean seasonal maximum (m)",mean,16,0.530983,0.530983,0.0,unchanged
+lac_des_sables,station,50,"effective break-up, ice < 0.1 m (days)",bias,16,-3.0625,-3.0625,0.0,unchanged
+lac_des_sables,station,50,"effective break-up, ice < 0.1 m (days)",mae,16,4.3125,4.3125,0.0,unchanged
+lac_des_sables,station,50,freeze-up (days),bias,15,4.8,4.8,0.0,unchanged
+lac_des_sables,station,50,freeze-up (days),mae,15,5.2,5.2,0.0,unchanged
+lac_des_sables,station,50,"ice mass residual, largest daily absolute (kg m-2)",closure,9616,0.0,0.0,0.0,unchanged
+lac_des_sables,station,50,ice thickness (m),bias,248,0.11187,0.11187,0.0,unchanged
+lac_des_sables,station,50,ice thickness (m),mae,248,0.156927,0.156927,0.0,unchanged
+lac_des_sables,station,50,"ice thickness, mean seasonal maximum (m)",mean,16,0.939533,0.939533,0.0,unchanged
+lac_des_sables,station,50,maximum ice thickness (m),bias,10,0.167035,0.167035,0.0,unchanged
+lac_des_sables,station,50,maximum ice thickness (m),mae,10,0.192585,0.192585,0.0,unchanged
+lac_des_sables,station,50,"short-wave residual, mean of daily absolute (W m-2)",closure,9616,2.67325,2.67325,0.0,unchanged
+lac_des_sables,station,50,snow depth on the ice (m),bias,248,-0.016675,-0.016675,0.0,unchanged
+lac_des_sables,station,50,snow depth on the ice (m),mae,248,0.074554,0.074554,0.0,unchanged
+lac_des_sables,station,50,"snow ice, mean seasonal maximum (m)",mean,16,0.503889,0.503889,0.0,unchanged
+lac_des_sables,station,50,"snow mass residual, largest daily absolute (kg m-2)",closure,9616,0.0,0.0,0.0,unchanged
+lac_des_sables,station,50,"surface energy residual, largest daily absolute (W m-2)",closure,9616,22.1879,22.1879,0.0,unchanged
+lac_des_sables,station,50,"surface energy residual, mean of daily absolute (W m-2)",closure,9616,0.025456,0.025456,0.0,unchanged
+lac_des_sables,station,100,"bottom energy residual, largest daily absolute (W m-2)",closure,10232,0.0,0.0,0.0,unchanged
+lac_des_sables,station,100,break-up (days),bias,16,7.3125,7.3125,0.0,unchanged
+lac_des_sables,station,100,break-up (days),mae,16,9.0625,9.0625,0.0,unchanged
+lac_des_sables,station,100,"congelation ice, mean seasonal maximum (m)",mean,16,0.424136,0.42407,-6.6e-05,unchanged
+lac_des_sables,station,100,"effective break-up, ice < 0.1 m (days)",bias,16,5.9375,5.9375,0.0,unchanged
+lac_des_sables,station,100,"effective break-up, ice < 0.1 m (days)",mae,16,8.1875,8.1875,0.0,unchanged
+lac_des_sables,station,100,freeze-up (days),bias,15,4.8,4.8,0.0,unchanged
+lac_des_sables,station,100,freeze-up (days),mae,15,5.2,5.2,0.0,unchanged
+lac_des_sables,station,100,"ice mass residual, largest daily absolute (kg m-2)",closure,10232,0.0,0.0,0.0,unchanged
+lac_des_sables,station,100,ice thickness (m),bias,248,0.329173,0.329099,-7.4e-05,unchanged
+lac_des_sables,station,100,ice thickness (m),mae,248,0.346891,0.346882,-9e-06,unchanged
+lac_des_sables,station,100,"ice thickness, mean seasonal maximum (m)",mean,16,1.281737,1.281676,-6.1e-05,unchanged
+lac_des_sables,station,100,maximum ice thickness (m),bias,10,0.522684,0.522585,-9.9e-05,unchanged
+lac_des_sables,station,100,maximum ice thickness (m),mae,10,0.522684,0.522585,-9.9e-05,unchanged
+lac_des_sables,station,100,"short-wave residual, mean of daily absolute (W m-2)",closure,10232,2.96854,2.968,-0.00054,unchanged
+lac_des_sables,station,100,snow depth on the ice (m),bias,248,0.035546,0.035528,-1.8e-05,unchanged
+lac_des_sables,station,100,snow depth on the ice (m),mae,248,0.095255,0.095244,-1.1e-05,unchanged
+lac_des_sables,station,100,"snow ice, mean seasonal maximum (m)",mean,16,1.138722,1.138734,1.2e-05,unchanged
+lac_des_sables,station,100,"snow mass residual, largest daily absolute (kg m-2)",closure,10232,0.0,0.0,0.0,unchanged
+lac_des_sables,station,100,"surface energy residual, largest daily absolute (W m-2)",closure,10232,32.751,17.2761,-15.4749,improved
+lac_des_sables,station,100,"surface energy residual, mean of daily absolute (W m-2)",closure,10232,0.045506,0.032416,-0.01309,improved
+yellowknife,era5,0,"bottom energy residual, largest daily absolute (W m-2)",closure,31368,0.0,0.0,0.0,unchanged
+yellowknife,era5,0,break-up (days),bias,12,6.25,6.25,0.0,unchanged
+yellowknife,era5,0,break-up (days),mae,12,6.25,6.25,0.0,unchanged
+yellowknife,era5,0,"congelation ice, mean seasonal maximum (m)",mean,36,1.776474,1.776461,-1.3e-05,unchanged
+yellowknife,era5,0,"effective break-up, ice < 0.1 m (days)",bias,12,4.916667,4.916667,0.0,unchanged
+yellowknife,era5,0,"effective break-up, ice < 0.1 m (days)",mae,12,4.916667,4.916667,0.0,unchanged
+yellowknife,era5,0,freeze-up (days),bias,11,4.909091,4.909091,0.0,unchanged
+yellowknife,era5,0,freeze-up (days),mae,11,6.363636,6.363636,0.0,unchanged
+yellowknife,era5,0,"ice mass residual, largest daily absolute (kg m-2)",closure,31368,0.0,0.0,-0.0,unchanged
+yellowknife,era5,0,ice thickness (m),bias,756,0.40313,0.403079,-5.1e-05,unchanged
+yellowknife,era5,0,ice thickness (m),mae,756,0.415256,0.415219,-3.7e-05,unchanged
+yellowknife,era5,0,"ice thickness, mean seasonal maximum (m)",mean,36,1.771419,1.771348,-7.1e-05,unchanged
+yellowknife,era5,0,maximum ice thickness (m),bias,30,0.537703,0.537703,0.0,unchanged
+yellowknife,era5,0,maximum ice thickness (m),mae,30,0.537703,0.537703,0.0,unchanged
+yellowknife,era5,0,"short-wave residual, mean of daily absolute (W m-2)",closure,31368,4.17619,4.17749,0.0013,unchanged
+yellowknife,era5,0,snow depth on the ice (m),bias,756,-0.163664,-0.163664,0.0,unchanged
+yellowknife,era5,0,snow depth on the ice (m),mae,756,0.163664,0.163664,0.0,unchanged
+yellowknife,era5,0,"snow ice, mean seasonal maximum (m)",mean,36,0.0,0.0,0.0,unchanged
+yellowknife,era5,0,"snow mass residual, largest daily absolute (kg m-2)",closure,31368,0.0,0.0,0.0,unchanged
+yellowknife,era5,0,"surface energy residual, largest daily absolute (W m-2)",closure,31368,13.9752,13.9752,0.0,unchanged
+yellowknife,era5,0,"surface energy residual, mean of daily absolute (W m-2)",closure,31368,0.033548,0.029175,-0.004373,unchanged
+yellowknife,era5,50,"bottom energy residual, largest daily absolute (W m-2)",closure,30667,0.0,0.0,0.0,unchanged
+yellowknife,era5,50,break-up (days),bias,12,1.75,1.75,0.0,unchanged
+yellowknife,era5,50,break-up (days),mae,12,2.416667,2.416667,0.0,unchanged
+yellowknife,era5,50,"congelation ice, mean seasonal maximum (m)",mean,36,1.263618,1.263618,0.0,unchanged
+yellowknife,era5,50,"effective break-up, ice < 0.1 m (days)",bias,12,0.666667,0.666667,0.0,unchanged
+yellowknife,era5,50,"effective break-up, ice < 0.1 m (days)",mae,12,2.333333,2.333333,0.0,unchanged
+yellowknife,era5,50,freeze-up (days),bias,11,4.909091,4.909091,0.0,unchanged
+yellowknife,era5,50,freeze-up (days),mae,11,6.363636,6.363636,0.0,unchanged
+yellowknife,era5,50,"ice mass residual, largest daily absolute (kg m-2)",closure,30667,0.0,0.0,0.0,unchanged
+yellowknife,era5,50,ice thickness (m),bias,756,0.073863,0.073863,0.0,unchanged
+yellowknife,era5,50,ice thickness (m),mae,756,0.127,0.127,0.0,unchanged
+yellowknife,era5,50,"ice thickness, mean seasonal maximum (m)",mean,36,1.323056,1.323056,0.0,unchanged
+yellowknife,era5,50,maximum ice thickness (m),bias,30,0.088499,0.088499,0.0,unchanged
+yellowknife,era5,50,maximum ice thickness (m),mae,30,0.149705,0.149705,0.0,unchanged
+yellowknife,era5,50,"short-wave residual, mean of daily absolute (W m-2)",closure,30667,2.08051,2.08051,0.0,unchanged
+yellowknife,era5,50,snow depth on the ice (m),bias,756,0.028922,0.028922,0.0,unchanged
+yellowknife,era5,50,snow depth on the ice (m),mae,756,0.059824,0.059824,0.0,unchanged
+yellowknife,era5,50,"snow ice, mean seasonal maximum (m)",mean,36,0.056339,0.056339,0.0,unchanged
+yellowknife,era5,50,"snow mass residual, largest daily absolute (kg m-2)",closure,30667,0.0,0.0,0.0,unchanged
+yellowknife,era5,50,"surface energy residual, largest daily absolute (W m-2)",closure,30667,18.7229,18.7229,0.0,unchanged
+yellowknife,era5,50,"surface energy residual, mean of daily absolute (W m-2)",closure,30667,0.024712,0.024712,0.0,unchanged
+yellowknife,era5,100,"bottom energy residual, largest daily absolute (W m-2)",closure,30929,0.0,0.0,0.0,unchanged
+yellowknife,era5,100,break-up (days),bias,12,3.75,3.75,0.0,unchanged
+yellowknife,era5,100,break-up (days),mae,12,3.916667,3.916667,0.0,unchanged
+yellowknife,era5,100,"congelation ice, mean seasonal maximum (m)",mean,36,1.11525,1.115248,-2e-06,unchanged
+yellowknife,era5,100,"effective break-up, ice < 0.1 m (days)",bias,12,2.5,2.5,0.0,unchanged
+yellowknife,era5,100,"effective break-up, ice < 0.1 m (days)",mae,12,3.0,3.0,0.0,unchanged
+yellowknife,era5,100,freeze-up (days),bias,11,4.909091,4.909091,0.0,unchanged
+yellowknife,era5,100,freeze-up (days),mae,11,6.363636,6.363636,0.0,unchanged
+yellowknife,era5,100,"ice mass residual, largest daily absolute (kg m-2)",closure,30929,0.0,0.0,0.0,unchanged
+yellowknife,era5,100,ice thickness (m),bias,756,0.10201,0.10201,0.0,unchanged
+yellowknife,era5,100,ice thickness (m),mae,756,0.146288,0.146287,-1e-06,unchanged
+yellowknife,era5,100,"ice thickness, mean seasonal maximum (m)",mean,36,1.388488,1.388488,0.0,unchanged
+yellowknife,era5,100,maximum ice thickness (m),bias,30,0.156028,0.156028,0.0,unchanged
+yellowknife,era5,100,maximum ice thickness (m),mae,30,0.185248,0.185248,0.0,unchanged
+yellowknife,era5,100,"short-wave residual, mean of daily absolute (W m-2)",closure,30929,2.12121,2.12135,0.00014,unchanged
+yellowknife,era5,100,snow depth on the ice (m),bias,756,0.055437,0.055437,0.0,unchanged
+yellowknife,era5,100,snow depth on the ice (m),mae,756,0.074258,0.074258,0.0,unchanged
+yellowknife,era5,100,"snow ice, mean seasonal maximum (m)",mean,36,0.293217,0.293217,0.0,unchanged
+yellowknife,era5,100,"snow mass residual, largest daily absolute (kg m-2)",closure,30929,0.0,0.0,0.0,unchanged
+yellowknife,era5,100,"surface energy residual, largest daily absolute (W m-2)",closure,30929,24.6331,24.6331,0.0,unchanged
+yellowknife,era5,100,"surface energy residual, mean of daily absolute (W m-2)",closure,30929,0.021806,0.021175,-0.000631,unchanged
+yellowknife,station,0,"bottom energy residual, largest daily absolute (W m-2)",closure,31639,0.0,0.0,0.0,unchanged
+yellowknife,station,0,break-up (days),bias,12,7.333333,7.333333,0.0,unchanged
+yellowknife,station,0,break-up (days),mae,12,7.333333,7.333333,0.0,unchanged
+yellowknife,station,0,"congelation ice, mean seasonal maximum (m)",mean,36,1.788281,1.78827,-1.1e-05,unchanged
+yellowknife,station,0,"effective break-up, ice < 0.1 m (days)",bias,12,6.333333,6.333333,0.0,unchanged
+yellowknife,station,0,"effective break-up, ice < 0.1 m (days)",mae,12,6.333333,6.333333,0.0,unchanged
+yellowknife,station,0,freeze-up (days),bias,11,2.272727,2.272727,0.0,unchanged
+yellowknife,station,0,freeze-up (days),mae,11,5.0,5.0,0.0,unchanged
+yellowknife,station,0,"ice mass residual, largest daily absolute (kg m-2)",closure,31639,0.0,0.0,-0.0,unchanged
+yellowknife,station,0,ice thickness (m),bias,756,0.42472,0.424662,-5.8e-05,unchanged
+yellowknife,station,0,ice thickness (m),mae,756,0.431738,0.43168,-5.8e-05,unchanged
+yellowknife,station,0,"ice thickness, mean seasonal maximum (m)",mean,36,1.78526,1.78526,0.0,unchanged
+yellowknife,station,0,maximum ice thickness (m),bias,30,0.553621,0.553621,0.0,unchanged
+yellowknife,station,0,maximum ice thickness (m),mae,30,0.553621,0.553621,0.0,unchanged
+yellowknife,station,0,"short-wave residual, mean of daily absolute (W m-2)",closure,31639,4.28842,4.289,0.00058,unchanged
+yellowknife,station,0,snow depth on the ice (m),bias,756,-0.163664,-0.163664,0.0,unchanged
+yellowknife,station,0,snow depth on the ice (m),mae,756,0.163664,0.163664,0.0,unchanged
+yellowknife,station,0,"snow ice, mean seasonal maximum (m)",mean,36,0.0,0.0,0.0,unchanged
+yellowknife,station,0,"snow mass residual, largest daily absolute (kg m-2)",closure,31639,0.0,0.0,0.0,unchanged
+yellowknife,station,0,"surface energy residual, largest daily absolute (W m-2)",closure,31639,13.2507,13.2507,0.0,unchanged
+yellowknife,station,0,"surface energy residual, mean of daily absolute (W m-2)",closure,31639,0.031225,0.028152,-0.003073,unchanged
+yellowknife,station,50,"bottom energy residual, largest daily absolute (W m-2)",closure,31016,0.0,0.0,0.0,unchanged
+yellowknife,station,50,break-up (days),bias,12,3.583333,3.583333,0.0,unchanged
+yellowknife,station,50,break-up (days),mae,12,3.75,3.75,0.0,unchanged
+yellowknife,station,50,"congelation ice, mean seasonal maximum (m)",mean,36,1.209895,1.209895,0.0,unchanged
+yellowknife,station,50,"effective break-up, ice < 0.1 m (days)",bias,12,2.166667,2.166667,0.0,unchanged
+yellowknife,station,50,"effective break-up, ice < 0.1 m (days)",mae,12,3.0,3.0,0.0,unchanged
+yellowknife,station,50,freeze-up (days),bias,11,2.181818,2.181818,0.0,unchanged
+yellowknife,station,50,freeze-up (days),mae,11,5.090909,5.090909,0.0,unchanged
+yellowknife,station,50,"ice mass residual, largest daily absolute (kg m-2)",closure,31016,0.0,0.0,0.0,unchanged
+yellowknife,station,50,ice thickness (m),bias,756,0.095167,0.095167,0.0,unchanged
+yellowknife,station,50,ice thickness (m),mae,756,0.140328,0.140328,0.0,unchanged
+yellowknife,station,50,"ice thickness, mean seasonal maximum (m)",mean,36,1.34689,1.34689,0.0,unchanged
+yellowknife,station,50,maximum ice thickness (m),bias,30,0.115937,0.115937,0.0,unchanged
+yellowknife,station,50,maximum ice thickness (m),mae,30,0.164,0.164,0.0,unchanged
+yellowknife,station,50,"short-wave residual, mean of daily absolute (W m-2)",closure,31016,2.0847,2.0847,0.0,unchanged
+yellowknife,station,50,snow depth on the ice (m),bias,756,0.044928,0.044928,0.0,unchanged
+yellowknife,station,50,snow depth on the ice (m),mae,756,0.067035,0.067035,0.0,unchanged
+yellowknife,station,50,"snow ice, mean seasonal maximum (m)",mean,36,0.139427,0.139427,0.0,unchanged
+yellowknife,station,50,"snow mass residual, largest daily absolute (kg m-2)",closure,31016,0.0,0.0,0.0,unchanged
+yellowknife,station,50,"surface energy residual, largest daily absolute (W m-2)",closure,31016,14.6904,14.6904,0.0,unchanged
+yellowknife,station,50,"surface energy residual, mean of daily absolute (W m-2)",closure,31016,0.017381,0.017381,0.0,unchanged
+yellowknife,station,100,"bottom energy residual, largest daily absolute (W m-2)",closure,31434,0.0,0.0,0.0,unchanged
+yellowknife,station,100,break-up (days),bias,12,6.5,6.5,0.0,unchanged
+yellowknife,station,100,break-up (days),mae,12,6.5,6.5,0.0,unchanged
+yellowknife,station,100,"congelation ice, mean seasonal maximum (m)",mean,36,1.060888,1.060888,0.0,unchanged
+yellowknife,station,100,"effective break-up, ice < 0.1 m (days)",bias,12,5.416667,5.416667,0.0,unchanged
+yellowknife,station,100,"effective break-up, ice < 0.1 m (days)",mae,12,5.416667,5.416667,0.0,unchanged
+yellowknife,station,100,freeze-up (days),bias,11,1.636364,1.636364,0.0,unchanged
+yellowknife,station,100,freeze-up (days),mae,11,5.636364,5.636364,0.0,unchanged
+yellowknife,station,100,"ice mass residual, largest daily absolute (kg m-2)",closure,31434,0.0,0.0,0.0,unchanged
+yellowknife,station,100,ice thickness (m),bias,756,0.170371,0.170371,0.0,unchanged
+yellowknife,station,100,ice thickness (m),mae,756,0.196352,0.196352,0.0,unchanged
+yellowknife,station,100,"ice thickness, mean seasonal maximum (m)",mean,36,1.471597,1.471597,0.0,unchanged
+yellowknife,station,100,maximum ice thickness (m),bias,30,0.242566,0.242566,0.0,unchanged
+yellowknife,station,100,maximum ice thickness (m),mae,30,0.253583,0.253583,0.0,unchanged
+yellowknife,station,100,"short-wave residual, mean of daily absolute (W m-2)",closure,31434,2.17721,2.17721,0.0,unchanged
+yellowknife,station,100,snow depth on the ice (m),bias,756,0.071386,0.071386,0.0,unchanged
+yellowknife,station,100,snow depth on the ice (m),mae,756,0.084307,0.084307,0.0,unchanged
+yellowknife,station,100,"snow ice, mean seasonal maximum (m)",mean,36,0.461791,0.461791,0.0,unchanged
+yellowknife,station,100,"snow mass residual, largest daily absolute (kg m-2)",closure,31434,0.0,0.0,0.0,unchanged
+yellowknife,station,100,"surface energy residual, largest daily absolute (W m-2)",closure,31434,15.5814,15.5814,0.0,unchanged
+yellowknife,station,100,"surface energy residual, mean of daily absolute (W m-2)",closure,31434,0.016698,0.016698,0.0,unchanged

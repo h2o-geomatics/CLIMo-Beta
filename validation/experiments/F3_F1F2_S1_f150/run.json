@@ -1,0 +1,39 @@
+{
+  "name": "F3_F1F2_S1_f150",
+  "options": {
+    "newton_step": "limited",
+    "surface_solver": "fixed",
+    "newton_acceptance": "fixed",
+    "snow_density_scheme": "bulk_relaxation",
+    "snow_density_fresh": 150
+  },
+  "commit": "30f75fb (with uncommitted changes)",
+  "finished": "2026-10-30 19:49 UTC",
+  "runtime_s": 56.173420906066895,
+  "model_runs": 72,
+  "cases": 36,
+  "forcing_files": 12,
+  "jobs": null,
+  "settings": {
+    "snow_percentages": [
+      0,
+      50,
+      100
+    ],
+    "mixing_depth": 10.0,
+    "breakup_threshold_m": 0.1,
+    "tolerance": {
+      "m": 0.005,
+      "days": 0.5
+    },
+    "closure_relative_tolerance": 0.01
+  },
+  "warnings": [
+    "Closure is worse in 8 case-checks (surface energy residual, largest daily absolute (W m-2))."
+  ],
+  "checks": [
+    "Baseline against the committed validation results (validation/results/metrics.csv, 3 decimals): 432 of 432 values equal.",
+    "Baseline against the stored E0 baseline: identical."
+  ],
+  "differences_from_committed_results": []
+}

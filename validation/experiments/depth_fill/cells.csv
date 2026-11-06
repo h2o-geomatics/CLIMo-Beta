@@ -1,0 +1,43 @@
+lake,resolution_deg,cells,method,reference_mean_m,mean_m,bias_m,rmse_m,r,depth_rmse_m
+Superior,0.25,196,GLOBathy,35.761,30.234,-5.527,8.934,0.79,67.867
+Superior,0.25,196,"GLOBathy, no published depth",35.761,32.097,-3.665,6.786,0.813,76.114
+Superior,0.25,196,uniform,35.761,40.0,4.239,8.362,,71.38
+Superior,0.1,1093,GLOBathy,36.093,30.98,-5.113,9.744,0.786,72.525
+Superior,0.1,1093,"GLOBathy, no published depth",36.093,32.531,-3.562,7.899,0.806,83.825
+Superior,0.1,1093,uniform,36.093,40.0,3.907,8.886,,76.178
+Michigan,0.25,132,GLOBathy,30.631,28.308,-2.323,6.08,0.877,46.074
+Michigan,0.25,132,"GLOBathy, no published depth",30.631,29.756,-0.875,5.487,0.869,55.074
+Michigan,0.25,132,uniform,30.631,40.0,9.369,13.89,,57.323
+Michigan,0.1,724,GLOBathy,31.49,29.371,-2.119,6.885,0.876,51.571
+Michigan,0.1,724,"GLOBathy, no published depth",31.49,30.587,-0.903,6.38,0.871,61.417
+Michigan,0.1,724,uniform,31.49,40.0,8.51,14.365,,60.893
+Ontario,0.25,49,GLOBathy,30.673,29.839,-0.835,3.075,0.957,23.599
+Ontario,0.25,49,"GLOBathy, no published depth",30.673,30.205,-0.468,2.98,0.954,24.653
+Ontario,0.25,49,uniform,30.673,40.0,9.327,12.959,,51.286
+Ontario,0.1,256,GLOBathy,30.381,29.72,-0.661,3.79,0.957,31.487
+Ontario,0.1,256,"GLOBathy, no published depth",30.381,30.027,-0.354,3.709,0.956,33.259
+Ontario,0.1,256,uniform,30.381,40.0,9.619,15.434,,59.304
+Huron,0.25,148,GLOBathy,27.314,22.143,-5.171,9.421,0.83,32.016
+Huron,0.25,148,"GLOBathy, no published depth",27.314,23.247,-4.067,8.741,0.831,35.084
+Huron,0.25,148,uniform,27.314,40.0,12.686,17.652,,39.702
+Huron,0.1,804,GLOBathy,28.359,23.379,-4.98,10.18,0.827,35.927
+Huron,0.1,804,"GLOBathy, no published depth",28.359,24.367,-3.993,9.577,0.831,39.38
+Huron,0.1,804,uniform,28.359,40.0,11.641,17.754,,42.635
+Erie,0.25,61,GLOBathy,15.98,16.07,0.091,9.113,0.606,11.461
+Erie,0.25,61,"GLOBathy, no published depth",15.98,22.703,6.723,10.887,0.691,25.503
+Erie,0.25,61,uniform,15.98,19.4,3.42,8.252,,8.927
+Erie,0.1,322,GLOBathy,16.438,17.388,0.95,10.461,0.62,13.239
+Erie,0.1,322,"GLOBathy, no published depth",16.438,23.974,7.536,12.653,0.713,29.442
+Erie,0.1,322,uniform,16.438,19.4,2.962,8.937,,9.767
+Great Bear,0.25,144,GLOBathy,27.247,30.126,2.879,6.863,0.81,58.143
+Great Bear,0.25,144,"GLOBathy, no published depth",27.247,29.284,2.037,6.436,0.821,47.178
+Great Bear,0.25,144,uniform,27.247,40.0,12.753,16.524,,42.118
+Great Bear,0.1,745,GLOBathy,27.655,29.508,1.853,7.365,0.841,68.372
+Great Bear,0.1,745,"GLOBathy, no published depth",27.655,28.756,1.101,7.07,0.852,56.019
+Great Bear,0.1,745,uniform,27.655,40.0,12.345,17.795,,48.147
+Great Slave,0.25,67,GLOBathy,19.911,33.32,13.409,16.488,0.624,173.212
+Great Slave,0.25,67,"GLOBathy, no published depth",19.911,31.554,11.643,14.979,0.639,119.7
+Great Slave,0.25,67,uniform,19.911,40.0,20.089,23.523,,40.265
+Great Slave,0.1,363,GLOBathy,21.174,32.696,11.522,16.464,0.55,191.911
+Great Slave,0.1,363,"GLOBathy, no published depth",21.174,31.185,10.011,15.473,0.575,132.922
+Great Slave,0.1,363,uniform,21.174,40.0,18.826,23.17,,39.766

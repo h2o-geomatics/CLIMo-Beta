@@ -62,16 +62,26 @@ Results are in **Documents\CLIMo\results**, as CSV files you can open in any spr
 
 ## The command line
 
-`climo.exe`, in the same folder, takes the same commands as the [documentation](docs/how_it_runs.md). Open the
-Command Prompt in the program's folder:
+`climo.exe`, in the same folder, takes the commands the [documentation](docs/how_it_runs.md) shows as `climo ...`.
+Typing `climo` or `climo.exe` is the same.
+
+1. Open the program's folder in File Explorer, click the address bar, type `cmd` and press Enter. The Command
+   Prompt opens in that folder.
+2. Type the commands there:
 
 ```bat
 climo --help
+climo gui
 climo data --lake-name "Prosperous Lake" --start 2015-01-01 --end 2016-12-31 --out-dir results/prosperous
 climo run --forcing results/prosperous --start 2015 --end 2016 --mixing-depth 10 --snow-percentage 0 50 100
 ```
 
-Double-clicking `climo.exe` only flashes a window: it is meant to be started from the Command Prompt.
+`climo gui` opens the same window as `CLIMo-GUI.exe`, and keeps the Command Prompt open beside it.
+
+- **In PowerShell** or Windows Terminal set to PowerShell, type `.\climo` instead of `climo`.
+- **From another folder,** give the whole path to `climo.exe`, in quotes if it has spaces, such as
+  `"D:\My programs\CLIMo\climo.exe" --help`.
+- Double-clicking `climo.exe` only flashes a window: it is meant to be started from the Command Prompt.
 
 ## Where things are
 

@@ -1,0 +1,29 @@
+column,depth_m,freeze_up,break_up,duration_d,max_ice_m,peak_surface_C
+Great Bear centre,2,2015-10-23,2016-06-08,230,1.37,16.8
+Great Bear centre,5,2015-10-24,2016-06-08,229,1.367,15.9
+Great Bear centre,10,2015-11-03,2016-06-08,219,1.358,14.5
+Great Bear centre,15,2015-11-12,2016-06-08,210,1.343,13.5
+Great Bear centre,20,2015-11-18,2016-06-07,203,1.327,12.3
+Great Bear centre,25,2015-11-22,2016-06-07,199,1.314,11.4
+Great Bear centre,30,2015-11-29,2016-06-06,191,1.297,10.7
+Great Bear centre,40,2015-12-07,2016-06-06,183,1.287,9.2
+Great Bear centre,50,2015-12-12,2016-06-08,180,1.368,7.9
+Great Bear centre,60,2015-12-17,2016-06-09,176,1.401,6.9
+Great Bear centre,80,2015-12-22,2016-06-08,170,1.345,5.6
+Great Bear centre,100,2015-12-26,2016-06-09,167,1.369,4.6
+Great Bear centre,150,2016-01-04,2016-06-07,156,1.303,3.3
+Great Bear centre,200,2016-01-09,2016-06-05,149,1.251,2.6
+Great Bear Keith Arm,2,2015-10-24,2016-06-05,226,1.385,18.1
+Great Bear Keith Arm,5,2015-10-30,2016-06-05,220,1.383,17.1
+Great Bear Keith Arm,10,2015-11-04,2016-06-05,215,1.369,15.7
+Great Bear Keith Arm,15,2015-11-12,2016-06-04,206,1.349,14.6
+Great Bear Keith Arm,20,2015-11-18,2016-06-04,200,1.332,13.3
+Great Bear Keith Arm,25,2015-11-23,2016-06-03,194,1.307,12.2
+Great Bear Keith Arm,30,2015-11-30,2016-06-03,187,1.286,11.1
+Great Bear Keith Arm,40,2015-12-09,2016-06-02,177,1.259,9.5
+Great Bear Keith Arm,50,2015-12-16,2016-06-03,171,1.286,8.2
+Great Bear Keith Arm,60,2015-12-20,2016-06-02,166,1.24,7.2
+Great Bear Keith Arm,80,2015-12-26,2016-06-02,160,1.237,5.7
+Great Bear Keith Arm,100,2015-12-31,2016-05-31,153,1.174,4.8
+Great Bear Keith Arm,150,2016-01-11,2016-05-28,139,1.092,3.4
+Great Bear Keith Arm,200,2016-01-15,2016-05-27,134,1.067,2.6

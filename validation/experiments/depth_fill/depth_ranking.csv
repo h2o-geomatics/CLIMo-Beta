@@ -1,0 +1,8 @@
+lake,cells,rank_r_capped,rank_r_depth,reference_by_quartile_m,globathy_by_quartile_m,reference_shallow_cells,of_which_found,called_shallow_wrongly
+Superior,196,0.92,0.83,27 36 40 40,14 28 39 40,6,5,23
+Michigan,132,0.91,0.83,18 27 37 40,11 25 37 40,12,9,15
+Ontario,49,0.97,0.91,19 28 37 40,16 29 36 40,4,4,2
+Huron,148,0.86,0.8,14 23 33 40,5 14 30 40,30,27,34
+Erie,61,0.73,0.74,8 15 20 22,4 10 17 34,28,27,7
+Great Bear,144,0.88,0.84,15 24 32 39,17 29 34 40,30,12,1
+Great Slave,67,0.73,0.71,11 15 18 35,23 32 38 40,33,0,0

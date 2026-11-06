@@ -1,0 +1,37 @@
+{
+  "name": "E3_A3_A2",
+  "options": {
+    "melt_albedo_transition": "linear",
+    "melt_albedo_transition_ice": "linear",
+    "ice_type_albedo": "surface_threshold"
+  },
+  "commit": "df274d2 (with uncommitted changes)",
+  "finished": "2026-10-30 03:08 UTC",
+  "runtime_s": 46.24455547332764,
+  "model_runs": 72,
+  "cases": 36,
+  "forcing_files": 12,
+  "jobs": null,
+  "settings": {
+    "snow_percentages": [
+      0,
+      50,
+      100
+    ],
+    "mixing_depth": 10.0,
+    "breakup_threshold_m": 0.1,
+    "tolerance": {
+      "m": 0.005,
+      "days": 0.5
+    },
+    "closure_relative_tolerance": 0.01
+  },
+  "warnings": [
+    "Closure is worse in 22 case-checks (short-wave residual, mean of daily absolute (W m-2), surface energy residual, largest daily absolute (W m-2))."
+  ],
+  "checks": [
+    "Baseline against the committed validation results (validation/results/metrics.csv, 3 decimals): 432 of 432 values equal.",
+    "Baseline against the stored E0 baseline: identical."
+  ],
+  "differences_from_committed_results": []
+}

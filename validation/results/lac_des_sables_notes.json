@@ -1,0 +1,80 @@
+{
+  "site": {
+    "name": "Lac des Sables, Sainte-Agathe-des-Monts (Quebec)",
+    "lat": 46.05,
+    "lon": -74.28,
+    "itp_id": "WOH",
+    "itp_sheet": null,
+    "nsidc_code": "WRS279",
+    "start": 1976,
+    "end": 1992
+  },
+  "settings": {
+    "snow_percentages": [
+      0,
+      50,
+      100
+    ],
+    "rho_snow_cold": 330.0,
+    "mixing_depth": 10.0,
+    "mixing_depth_sensitivity": [
+      5.0,
+      20.0
+    ],
+    "breakup_threshold_m": 0.1
+  },
+  "forcing": {
+    "station": [
+      "AirTemp: station 7036762 STE AGATHE DES MONTS (0.26 km), 174 days filled from ERA5",
+      "RelHum: station 7036762 STE AGATHE DES MONTS (0.26 km), 174 days filled from ERA5",
+      "WindSpd: station 7036762 STE AGATHE DES MONTS (0.26 km), 174 days filled from ERA5",
+      "Cloud: ERA5",
+      "Snow: station CAN07036762 STE AGATHE DES MONTS (0.25 km), 205 days filled from ERA5"
+    ],
+    "era5": [
+      "AirTemp: ERA5",
+      "RelHum: ERA5",
+      "WindSpd: ERA5",
+      "Cloud: ERA5",
+      "Snow: ERA5-Land"
+    ]
+  },
+  "era5_cell": {
+    "latitude": 46.0,
+    "longitude": -74.25,
+    "resolution_deg": 0.25,
+    "distance_km": 6.02
+  },
+  "flake_cell": {
+    "latitude": 46.0,
+    "longitude": -74.25,
+    "lake_cover": 0.039,
+    "box_lake_cover": {
+      "46.5, -74.75": 0.06,
+      "46.5, -74.5": 0.05,
+      "46.5, -74.25": 0.06,
+      "46.5, -74": 0.06,
+      "46.5, -73.75": 0.06,
+      "46.25, -74.75": 0.08,
+      "46.25, -74.5": 0.06,
+      "46.25, -74.25": 0.07,
+      "46.25, -74": 0.04,
+      "46.25, -73.75": 0.03,
+      "46, -74.75": 0.06,
+      "46, -74.5": 0.04,
+      "46, -74.25": 0.04,
+      "46, -74": 0.03,
+      "46, -73.75": 0.02,
+      "45.75, -74.75": 0.05,
+      "45.75, -74.5": 0.04,
+      "45.75, -74.25": 0.03,
+      "45.75, -74": 0.02,
+      "45.75, -73.75": 0.05,
+      "45.5, -74.75": 0.03,
+      "45.5, -74.5": 0.02,
+      "45.5, -74.25": 0.05,
+      "45.5, -74": 0.21,
+      "45.5, -73.75": 0.24
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "E1_A1_h0.02",
+  "options": {
+    "thin_snow_albedo": "exponential",
+    "thin_snow_albedo_depth": 0.02
+  },
+  "commit": "7f6521c (with uncommitted changes)",
+  "finished": "2026-10-30 01:40 UTC",
+  "runtime_s": 46.01733183860779,
+  "model_runs": 72,
+  "cases": 36,
+  "forcing_files": 12,
+  "jobs": null,
+  "settings": {
+    "snow_percentages": [
+      0,
+      50,
+      100
+    ],
+    "mixing_depth": 10.0,
+    "breakup_threshold_m": 0.1,
+    "tolerance": {
+      "m": 0.005,
+      "days": 0.5
+    },
+    "closure_relative_tolerance": 0.01
+  },
+  "warnings": [
+    "Break-up improves while winter ice thickness degrades: the specification says not to accept a change for a better ice-off alone.",
+    "Closure is worse in 3 case-checks (surface energy residual, largest daily absolute (W m-2))."
+  ],
+  "checks": [
+    "Baseline against the committed validation results (validation/results/metrics.csv, 3 decimals): 432 of 432 values equal.",
+    "Baseline against the stored E0 baseline: identical."
+  ],
+  "differences_from_committed_results": []
+}

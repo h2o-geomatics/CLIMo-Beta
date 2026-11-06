@@ -1,0 +1,80 @@
+{
+  "site": {
+    "name": "Island Lake (Manitoba)",
+    "lat": 53.85,
+    "lon": -94.65,
+    "itp_id": "YIV",
+    "itp_sheet": null,
+    "nsidc_code": "WRS265",
+    "start": 1973,
+    "end": 1998
+  },
+  "settings": {
+    "snow_percentages": [
+      0,
+      50,
+      100
+    ],
+    "rho_snow_cold": 330.0,
+    "mixing_depth": 10.0,
+    "mixing_depth_sensitivity": [
+      5.0,
+      20.0
+    ],
+    "breakup_threshold_m": 0.1
+  },
+  "forcing": {
+    "station": [
+      "AirTemp: station 5061376 ISLAND LAKE A (0.0 km), 3 days filled from ERA5",
+      "RelHum: station 5061376 ISLAND LAKE A (0.0 km), 4 days filled from ERA5",
+      "WindSpd: station 5061376 ISLAND LAKE A (0.0 km), 0 days filled from ERA5",
+      "Cloud: ERA5",
+      "Snow: station CAN05061376 ISLAND LAKE A (0.0 km), 133 days filled from ERA5"
+    ],
+    "era5": [
+      "AirTemp: ERA5",
+      "RelHum: ERA5",
+      "WindSpd: ERA5",
+      "Cloud: ERA5",
+      "Snow: ERA5-Land"
+    ]
+  },
+  "era5_cell": {
+    "latitude": 53.75,
+    "longitude": -94.75,
+    "resolution_deg": 0.25,
+    "distance_km": 12.91
+  },
+  "flake_cell": {
+    "latitude": 53.75,
+    "longitude": -94.75,
+    "lake_cover": 0.324,
+    "box_lake_cover": {
+      "54.25, -95.25": 0.18,
+      "54.25, -95": 0.19,
+      "54.25, -94.75": 0.24,
+      "54.25, -94.5": 0.2,
+      "54.25, -94.25": 0.16,
+      "54, -95.25": 0.24,
+      "54, -95": 0.24,
+      "54, -94.75": 0.24,
+      "54, -94.5": 0.3,
+      "54, -94.25": 0.24,
+      "53.75, -95.25": 0.2,
+      "53.75, -95": 0.3,
+      "53.75, -94.75": 0.32,
+      "53.75, -94.5": 0.42,
+      "53.75, -94.25": 0.33,
+      "53.5, -95.25": 0.07,
+      "53.5, -95": 0.06,
+      "53.5, -94.75": 0.04,
+      "53.5, -94.5": 0.03,
+      "53.5, -94.25": 0.03,
+      "53.25, -95.25": 0.02,
+      "53.25, -95": 0.01,
+      "53.25, -94.75": 0.02,
+      "53.25, -94.5": 0.02,
+      "53.25, -94.25": 0.03
+    }
+  }
+}

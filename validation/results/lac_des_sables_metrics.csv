@@ -1,0 +1,113 @@
+site,model,snow_percentage,quantity,n,mae,bias
+lac_des_sables,CLIMo station,0.0,ice thickness (m),248,0.135,0.033
+lac_des_sables,CLIMo station,0.0,maximum ice thickness (m),10,0.102,0.042
+lac_des_sables,CLIMo station,0.0,freeze-up (days),15,5.2,4.8
+lac_des_sables,CLIMo station,0.0,break-up (days),16,11.812,-11.812
+lac_des_sables,CLIMo station,0.0,"effective break-up, ice < 0.1 m (days)",16,13.625,-13.625
+lac_des_sables,CLIMo station,0.0,snow depth on the ice (m),248,0.152,-0.152
+lac_des_sables,CLIMo station,50.0,ice thickness (m),248,0.156,0.11
+lac_des_sables,CLIMo station,50.0,maximum ice thickness (m),10,0.191,0.165
+lac_des_sables,CLIMo station,50.0,freeze-up (days),15,5.2,4.8
+lac_des_sables,CLIMo station,50.0,break-up (days),16,3.75,-1.625
+lac_des_sables,CLIMo station,50.0,"effective break-up, ice < 0.1 m (days)",16,4.5,-3.25
+lac_des_sables,CLIMo station,50.0,snow depth on the ice (m),248,0.074,-0.017
+lac_des_sables,CLIMo station,100.0,ice thickness (m),248,0.346,0.328
+lac_des_sables,CLIMo station,100.0,maximum ice thickness (m),10,0.52,0.52
+lac_des_sables,CLIMo station,100.0,freeze-up (days),15,5.2,4.8
+lac_des_sables,CLIMo station,100.0,break-up (days),16,9.0,7.125
+lac_des_sables,CLIMo station,100.0,"effective break-up, ice < 0.1 m (days)",16,8.062,5.812
+lac_des_sables,CLIMo station,100.0,snow depth on the ice (m),248,0.095,0.035
+lac_des_sables,"CLIMo station, mixing depth 5 m",0.0,ice thickness (m),248,0.15,0.078
+lac_des_sables,"CLIMo station, mixing depth 5 m",0.0,maximum ice thickness (m),10,0.119,0.076
+lac_des_sables,"CLIMo station, mixing depth 5 m",0.0,freeze-up (days),15,7.333,-6.8
+lac_des_sables,"CLIMo station, mixing depth 5 m",0.0,break-up (days),16,10.875,-10.875
+lac_des_sables,"CLIMo station, mixing depth 5 m",0.0,"effective break-up, ice < 0.1 m (days)",16,12.75,-12.75
+lac_des_sables,"CLIMo station, mixing depth 5 m",0.0,snow depth on the ice (m),248,0.152,-0.152
+lac_des_sables,"CLIMo station, mixing depth 5 m",50.0,ice thickness (m),248,0.188,0.166
+lac_des_sables,"CLIMo station, mixing depth 5 m",50.0,maximum ice thickness (m),10,0.224,0.208
+lac_des_sables,"CLIMo station, mixing depth 5 m",50.0,freeze-up (days),15,7.533,-7.0
+lac_des_sables,"CLIMo station, mixing depth 5 m",50.0,break-up (days),16,3.688,-0.312
+lac_des_sables,"CLIMo station, mixing depth 5 m",50.0,"effective break-up, ice < 0.1 m (days)",16,3.812,-1.812
+lac_des_sables,"CLIMo station, mixing depth 5 m",50.0,snow depth on the ice (m),248,0.075,-0.003
+lac_des_sables,"CLIMo station, mixing depth 5 m",100.0,ice thickness (m),248,0.422,0.42
+lac_des_sables,"CLIMo station, mixing depth 5 m",100.0,maximum ice thickness (m),10,0.593,0.593
+lac_des_sables,"CLIMo station, mixing depth 5 m",100.0,freeze-up (days),15,7.533,-7.0
+lac_des_sables,"CLIMo station, mixing depth 5 m",100.0,break-up (days),16,10.5,9.0
+lac_des_sables,"CLIMo station, mixing depth 5 m",100.0,"effective break-up, ice < 0.1 m (days)",16,9.5,7.625
+lac_des_sables,"CLIMo station, mixing depth 5 m",100.0,snow depth on the ice (m),248,0.101,0.058
+lac_des_sables,"CLIMo station, mixing depth 20 m",0.0,ice thickness (m),248,0.168,-0.121
+lac_des_sables,"CLIMo station, mixing depth 20 m",0.0,maximum ice thickness (m),10,0.102,-0.071
+lac_des_sables,"CLIMo station, mixing depth 20 m",0.0,freeze-up (days),15,26.067,26.067
+lac_des_sables,"CLIMo station, mixing depth 20 m",0.0,break-up (days),16,15.312,-15.312
+lac_des_sables,"CLIMo station, mixing depth 20 m",0.0,"effective break-up, ice < 0.1 m (days)",16,17.312,-17.312
+lac_des_sables,"CLIMo station, mixing depth 20 m",0.0,snow depth on the ice (m),248,0.152,-0.152
+lac_des_sables,"CLIMo station, mixing depth 20 m",50.0,ice thickness (m),248,0.146,-0.061
+lac_des_sables,"CLIMo station, mixing depth 20 m",50.0,maximum ice thickness (m),10,0.12,0.03
+lac_des_sables,"CLIMo station, mixing depth 20 m",50.0,freeze-up (days),15,26.067,26.067
+lac_des_sables,"CLIMo station, mixing depth 20 m",50.0,break-up (days),16,6.312,-5.562
+lac_des_sables,"CLIMo station, mixing depth 20 m",50.0,"effective break-up, ice < 0.1 m (days)",16,7.812,-7.188
+lac_des_sables,"CLIMo station, mixing depth 20 m",50.0,snow depth on the ice (m),248,0.085,-0.057
+lac_des_sables,"CLIMo station, mixing depth 20 m",100.0,ice thickness (m),248,0.236,0.09
+lac_des_sables,"CLIMo station, mixing depth 20 m",100.0,maximum ice thickness (m),10,0.318,0.313
+lac_des_sables,"CLIMo station, mixing depth 20 m",100.0,freeze-up (days),15,26.067,26.067
+lac_des_sables,"CLIMo station, mixing depth 20 m",100.0,break-up (days),16,5.688,2.312
+lac_des_sables,"CLIMo station, mixing depth 20 m",100.0,"effective break-up, ice < 0.1 m (days)",16,5.25,0.625
+lac_des_sables,"CLIMo station, mixing depth 20 m",100.0,snow depth on the ice (m),248,0.091,-0.022
+lac_des_sables,CLIMo ERA5,0.0,ice thickness (m),248,0.141,0.04
+lac_des_sables,CLIMo ERA5,0.0,maximum ice thickness (m),10,0.101,0.046
+lac_des_sables,CLIMo ERA5,0.0,freeze-up (days),15,3.867,3.6
+lac_des_sables,CLIMo ERA5,0.0,break-up (days),16,12.25,-12.25
+lac_des_sables,CLIMo ERA5,0.0,"effective break-up, ice < 0.1 m (days)",16,14.125,-14.125
+lac_des_sables,CLIMo ERA5,0.0,snow depth on the ice (m),248,0.152,-0.152
+lac_des_sables,CLIMo ERA5,50.0,ice thickness (m),248,0.127,0.078
+lac_des_sables,CLIMo ERA5,50.0,maximum ice thickness (m),10,0.143,0.112
+lac_des_sables,CLIMo ERA5,50.0,freeze-up (days),15,3.867,3.6
+lac_des_sables,CLIMo ERA5,50.0,break-up (days),16,4.875,-4.5
+lac_des_sables,CLIMo ERA5,50.0,"effective break-up, ice < 0.1 m (days)",16,6.438,-6.312
+lac_des_sables,CLIMo ERA5,50.0,snow depth on the ice (m),248,0.073,-0.026
+lac_des_sables,CLIMo ERA5,100.0,ice thickness (m),248,0.27,0.254
+lac_des_sables,CLIMo ERA5,100.0,maximum ice thickness (m),10,0.393,0.393
+lac_des_sables,CLIMo ERA5,100.0,freeze-up (days),15,3.867,3.6
+lac_des_sables,CLIMo ERA5,100.0,break-up (days),16,5.688,3.062
+lac_des_sables,CLIMo ERA5,100.0,"effective break-up, ice < 0.1 m (days)",16,4.688,1.688
+lac_des_sables,CLIMo ERA5,100.0,snow depth on the ice (m),248,0.086,0.017
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",0.0,ice thickness (m),248,0.156,0.082
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",0.0,maximum ice thickness (m),10,0.119,0.078
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",0.0,freeze-up (days),15,6.933,-6.4
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",0.0,break-up (days),16,11.438,-11.438
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",0.0,"effective break-up, ice < 0.1 m (days)",16,13.25,-13.25
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",0.0,snow depth on the ice (m),248,0.152,-0.152
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",50.0,ice thickness (m),248,0.152,0.124
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",50.0,maximum ice thickness (m),10,0.163,0.149
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",50.0,freeze-up (days),15,6.933,-6.4
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",50.0,break-up (days),16,4.062,-3.312
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",50.0,"effective break-up, ice < 0.1 m (days)",16,5.25,-5.0
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",50.0,snow depth on the ice (m),248,0.073,-0.015
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",100.0,ice thickness (m),248,0.332,0.328
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",100.0,maximum ice thickness (m),10,0.453,0.453
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",100.0,freeze-up (days),15,7.333,-6.8
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",100.0,break-up (days),16,6.75,4.625
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",100.0,"effective break-up, ice < 0.1 m (days)",16,5.875,3.25
+lac_des_sables,"CLIMo ERA5, mixing depth 5 m",100.0,snow depth on the ice (m),248,0.089,0.035
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",0.0,ice thickness (m),248,0.161,-0.107
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",0.0,maximum ice thickness (m),10,0.096,-0.064
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",0.0,freeze-up (days),15,23.867,23.867
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",0.0,break-up (days),16,15.25,-15.25
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",0.0,"effective break-up, ice < 0.1 m (days)",16,17.375,-17.375
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",0.0,snow depth on the ice (m),248,0.152,-0.152
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",50.0,ice thickness (m),248,0.135,-0.076
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",50.0,maximum ice thickness (m),10,0.101,-0.012
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",50.0,freeze-up (days),15,23.867,23.867
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",50.0,break-up (days),16,8.188,-8.188
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",50.0,"effective break-up, ice < 0.1 m (days)",16,10.125,-10.125
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",50.0,snow depth on the ice (m),248,0.084,-0.062
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",100.0,ice thickness (m),248,0.19,0.044
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",100.0,maximum ice thickness (m),10,0.217,0.206
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",100.0,freeze-up (days),15,23.867,23.867
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",100.0,break-up (days),16,4.062,-1.188
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",100.0,"effective break-up, ice < 0.1 m (days)",16,4.5,-2.875
+lac_des_sables,"CLIMo ERA5, mixing depth 20 m",100.0,snow depth on the ice (m),248,0.086,-0.033
+lac_des_sables,ERA5 FLake,,ice thickness (m),248,0.244,0.213
+lac_des_sables,ERA5 FLake,,maximum ice thickness (m),10,0.241,0.241
+lac_des_sables,ERA5 FLake,,freeze-up (days),15,15.067,-15.067
+lac_des_sables,ERA5 FLake,,break-up (days),16,3.25,-1.5

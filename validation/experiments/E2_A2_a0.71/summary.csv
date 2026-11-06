@@ -1,0 +1,43 @@
+scope,quantity,statistic,cases,improved,degraded,unchanged,changed,n/a,mean_difference,max_abs_difference
+all cases,ice thickness (m),bias,36,3,14,19,0,0,0.005627,0.017799
+all cases,ice thickness (m),mae,36,1,7,28,0,0,0.001965,0.012273
+all cases,maximum ice thickness (m),bias,36,0,3,33,0,0,0.001023,0.006816
+all cases,maximum ice thickness (m),mae,36,0,2,34,0,0,0.000664,0.006435
+all cases,freeze-up (days),bias,36,1,0,35,0,0,-0.015152,0.545455
+all cases,freeze-up (days),mae,36,0,1,35,0,0,0.015152,0.545455
+all cases,break-up (days),bias,36,14,8,14,0,0,2.767217,9.9375
+all cases,break-up (days),mae,36,13,8,15,0,0,0.063169,8.4375
+all cases,"effective break-up, ice < 0.1 m (days)",bias,36,15,7,14,0,0,2.812568,10.0625
+all cases,"effective break-up, ice < 0.1 m (days)",mae,36,14,8,14,0,0,-0.216033,8.3125
+all cases,snow depth on the ice (m),bias,36,0,0,36,0,0,0.000359,0.001795
+all cases,snow depth on the ice (m),mae,36,0,0,36,0,0,0.000134,0.000868
+all cases,"ice thickness, mean seasonal maximum (m)",mean,36,0,0,34,2,0,0.00092,0.006464
+all cases,"snow ice, mean seasonal maximum (m)",mean,36,0,0,36,0,0,5e-06,0.002518
+all cases,"congelation ice, mean seasonal maximum (m)",mean,36,0,0,36,0,0,0.001236,0.00416
+all cases,"surface energy residual, mean of daily absolute (W m-2)",closure,36,12,0,24,0,0,-0.007075,0.027725
+all cases,"surface energy residual, largest daily absolute (W m-2)",closure,36,4,8,24,0,0,-0.020194,2.80975
+all cases,"bottom energy residual, largest daily absolute (W m-2)",closure,36,0,0,36,0,0,0.0,0.0
+all cases,"short-wave residual, mean of daily absolute (W m-2)",closure,36,21,0,15,0,0,-0.060658,0.276831
+all cases,"ice mass residual, largest daily absolute (kg m-2)",closure,36,0,0,36,0,0,0.0,0.0
+all cases,"snow mass residual, largest daily absolute (kg m-2)",closure,36,0,0,36,0,0,-0.0,0.0
+matching snow,ice thickness (m),bias,12,1,6,5,0,0,0.007353,0.017799
+matching snow,ice thickness (m),mae,12,0,3,9,0,0,0.002376,0.00897
+matching snow,maximum ice thickness (m),bias,12,0,1,11,0,0,0.001301,0.006816
+matching snow,maximum ice thickness (m),mae,12,0,0,12,0,0,0.000505,0.002231
+matching snow,freeze-up (days),bias,12,0,0,12,0,0,0.0,0.0
+matching snow,freeze-up (days),mae,12,0,0,12,0,0,0.0,0.0
+matching snow,break-up (days),bias,12,7,2,3,0,0,2.556215,6.9375
+matching snow,break-up (days),mae,12,6,2,4,0,0,-0.496273,3.6875
+matching snow,"effective break-up, ice < 0.1 m (days)",bias,12,7,2,3,0,0,2.620417,7.25
+matching snow,"effective break-up, ice < 0.1 m (days)",mae,12,7,2,3,0,0,-0.985975,2.777778
+matching snow,snow depth on the ice (m),bias,12,0,0,12,0,0,0.000468,0.001619
+matching snow,snow depth on the ice (m),mae,12,0,0,12,0,0,0.000136,0.000631
+matching snow,"ice thickness, mean seasonal maximum (m)",mean,12,0,0,11,1,0,0.001159,0.005056
+matching snow,"snow ice, mean seasonal maximum (m)",mean,12,0,0,12,0,0,-0.000188,0.000739
+matching snow,"congelation ice, mean seasonal maximum (m)",mean,12,0,0,12,0,0,0.001399,0.003722
+matching snow,"surface energy residual, mean of daily absolute (W m-2)",closure,12,6,0,6,0,0,-0.010159,0.023025
+matching snow,"surface energy residual, largest daily absolute (W m-2)",closure,12,2,2,8,0,0,-0.279061,2.80975
+matching snow,"bottom energy residual, largest daily absolute (W m-2)",closure,12,0,0,12,0,0,0.0,0.0
+matching snow,"short-wave residual, mean of daily absolute (W m-2)",closure,12,8,0,4,0,0,-0.058059,0.214665
+matching snow,"ice mass residual, largest daily absolute (kg m-2)",closure,12,0,0,12,0,0,0.0,0.0
+matching snow,"snow mass residual, largest daily absolute (kg m-2)",closure,12,0,0,12,0,0,-0.0,0.0

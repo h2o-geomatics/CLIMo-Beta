@@ -1,0 +1,80 @@
+{
+  "site": {
+    "name": "Yellowknife, Back Bay (Great Slave Lake)",
+    "lat": 62.45,
+    "lon": -114.37,
+    "itp_id": "YZF",
+    "itp_sheet": "Yellowknife",
+    "nsidc_code": "WRS201",
+    "start": 1980,
+    "end": 2016
+  },
+  "settings": {
+    "snow_percentages": [
+      0,
+      50,
+      100
+    ],
+    "rho_snow_cold": 330.0,
+    "mixing_depth": 10.0,
+    "mixing_depth_sensitivity": [
+      5.0,
+      20.0
+    ],
+    "breakup_threshold_m": 0.1
+  },
+  "forcing": {
+    "station": [
+      "AirTemp: station 719360-99999 YELLOWKNIFE (3.88 km), 365 days filled from ERA5",
+      "RelHum: station 719360-99999 YELLOWKNIFE (3.88 km), 368 days filled from ERA5",
+      "WindSpd: station 719360-99999 YELLOWKNIFE (3.88 km), 365 days filled from ERA5",
+      "Cloud: station 719360-99999 YELLOWKNIFE (3.88 km), 406 days filled from ERA5",
+      "Snow: station CAN02204100 YELLOWKNIFE A (3.88 km), 1619 days filled from ERA5"
+    ],
+    "era5": [
+      "AirTemp: ERA5",
+      "RelHum: ERA5",
+      "WindSpd: ERA5",
+      "Cloud: ERA5",
+      "Snow: ERA5-Land"
+    ]
+  },
+  "era5_cell": {
+    "latitude": 62.5,
+    "longitude": -114.25,
+    "resolution_deg": 0.25,
+    "distance_km": 8.3
+  },
+  "flake_cell": {
+    "latitude": 62.5,
+    "longitude": -114.25,
+    "lake_cover": 0.204,
+    "box_lake_cover": {
+      "63, -114.75": 0.05,
+      "63, -114.5": 0.08,
+      "63, -114.25": 0.09,
+      "63, -114": 0.1,
+      "63, -113.75": 0.11,
+      "62.75, -114.75": 0.05,
+      "62.75, -114.5": 0.09,
+      "62.75, -114.25": 0.14,
+      "62.75, -114": 0.13,
+      "62.75, -113.75": 0.11,
+      "62.5, -114.75": 0.17,
+      "62.5, -114.5": 0.17,
+      "62.5, -114.25": 0.2,
+      "62.5, -114": 0.2,
+      "62.5, -113.75": 0.19,
+      "62.25, -114.75": 0.96,
+      "62.25, -114.5": 0.87,
+      "62.25, -114.25": 0.78,
+      "62.25, -114": 0.54,
+      "62.25, -113.75": 0.24,
+      "62, -114.75": 0.6,
+      "62, -114.5": 0.72,
+      "62, -114.25": 0.92,
+      "62, -114": 0.93,
+      "62, -113.75": 0.87
+    }
+  }
+}

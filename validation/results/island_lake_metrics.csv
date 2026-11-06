@@ -1,0 +1,113 @@
+site,model,snow_percentage,quantity,n,mae,bias
+island_lake,CLIMo station,0.0,ice thickness (m),555,0.376,0.367
+island_lake,CLIMo station,0.0,maximum ice thickness (m),25,0.5,0.5
+island_lake,CLIMo station,0.0,freeze-up (days),16,8.938,-6.562
+island_lake,CLIMo station,0.0,break-up (days),19,7.579,-6.526
+island_lake,CLIMo station,0.0,"effective break-up, ice < 0.1 m (days)",19,8.474,-7.947
+island_lake,CLIMo station,0.0,snow depth on the ice (m),555,0.158,-0.158
+island_lake,CLIMo station,50.0,ice thickness (m),555,0.189,0.16
+island_lake,CLIMo station,50.0,maximum ice thickness (m),25,0.257,0.243
+island_lake,CLIMo station,50.0,freeze-up (days),16,8.938,-6.562
+island_lake,CLIMo station,50.0,break-up (days),19,7.316,-6.684
+island_lake,CLIMo station,50.0,"effective break-up, ice < 0.1 m (days)",19,8.263,-8.053
+island_lake,CLIMo station,50.0,snow depth on the ice (m),555,0.057,0.012
+island_lake,CLIMo station,100.0,ice thickness (m),555,0.277,0.267
+island_lake,CLIMo station,100.0,maximum ice thickness (m),25,0.413,0.413
+island_lake,CLIMo station,100.0,freeze-up (days),16,8.938,-6.562
+island_lake,CLIMo station,100.0,break-up (days),19,4.947,-1.789
+island_lake,CLIMo station,100.0,"effective break-up, ice < 0.1 m (days)",19,5.053,-3.263
+island_lake,CLIMo station,100.0,snow depth on the ice (m),555,0.066,0.039
+island_lake,"CLIMo station, mixing depth 5 m",0.0,ice thickness (m),555,0.406,0.398
+island_lake,"CLIMo station, mixing depth 5 m",0.0,maximum ice thickness (m),25,0.522,0.522
+island_lake,"CLIMo station, mixing depth 5 m",0.0,freeze-up (days),16,14.438,-14.188
+island_lake,"CLIMo station, mixing depth 5 m",0.0,break-up (days),19,7.526,-6.158
+island_lake,"CLIMo station, mixing depth 5 m",0.0,"effective break-up, ice < 0.1 m (days)",19,8.263,-7.526
+island_lake,"CLIMo station, mixing depth 5 m",0.0,snow depth on the ice (m),555,0.158,-0.158
+island_lake,"CLIMo station, mixing depth 5 m",50.0,ice thickness (m),555,0.207,0.181
+island_lake,"CLIMo station, mixing depth 5 m",50.0,maximum ice thickness (m),25,0.272,0.258
+island_lake,"CLIMo station, mixing depth 5 m",50.0,freeze-up (days),16,14.438,-14.188
+island_lake,"CLIMo station, mixing depth 5 m",50.0,break-up (days),19,7.105,-6.368
+island_lake,"CLIMo station, mixing depth 5 m",50.0,"effective break-up, ice < 0.1 m (days)",19,7.842,-7.737
+island_lake,"CLIMo station, mixing depth 5 m",50.0,snow depth on the ice (m),555,0.058,0.019
+island_lake,"CLIMo station, mixing depth 5 m",100.0,ice thickness (m),555,0.309,0.304
+island_lake,"CLIMo station, mixing depth 5 m",100.0,maximum ice thickness (m),25,0.441,0.441
+island_lake,"CLIMo station, mixing depth 5 m",100.0,freeze-up (days),16,14.438,-14.188
+island_lake,"CLIMo station, mixing depth 5 m",100.0,break-up (days),19,5.053,-1.263
+island_lake,"CLIMo station, mixing depth 5 m",100.0,"effective break-up, ice < 0.1 m (days)",19,4.947,-2.526
+island_lake,"CLIMo station, mixing depth 5 m",100.0,snow depth on the ice (m),555,0.071,0.048
+island_lake,"CLIMo station, mixing depth 20 m",0.0,ice thickness (m),555,0.31,0.249
+island_lake,"CLIMo station, mixing depth 20 m",0.0,maximum ice thickness (m),25,0.419,0.419
+island_lake,"CLIMo station, mixing depth 20 m",0.0,freeze-up (days),16,12.062,11.312
+island_lake,"CLIMo station, mixing depth 20 m",0.0,break-up (days),19,8.737,-8.316
+island_lake,"CLIMo station, mixing depth 20 m",0.0,"effective break-up, ice < 0.1 m (days)",19,9.789,-9.684
+island_lake,"CLIMo station, mixing depth 20 m",0.0,snow depth on the ice (m),555,0.158,-0.158
+island_lake,"CLIMo station, mixing depth 20 m",50.0,ice thickness (m),555,0.173,0.082
+island_lake,"CLIMo station, mixing depth 20 m",50.0,maximum ice thickness (m),25,0.214,0.196
+island_lake,"CLIMo station, mixing depth 20 m",50.0,freeze-up (days),16,12.0,11.25
+island_lake,"CLIMo station, mixing depth 20 m",50.0,break-up (days),19,8.053,-7.632
+island_lake,"CLIMo station, mixing depth 20 m",50.0,"effective break-up, ice < 0.1 m (days)",19,9.158,-8.947
+island_lake,"CLIMo station, mixing depth 20 m",50.0,snow depth on the ice (m),555,0.061,-0.011
+island_lake,"CLIMo station, mixing depth 20 m",100.0,ice thickness (m),555,0.228,0.158
+island_lake,"CLIMo station, mixing depth 20 m",100.0,maximum ice thickness (m),25,0.334,0.334
+island_lake,"CLIMo station, mixing depth 20 m",100.0,freeze-up (days),16,11.938,11.188
+island_lake,"CLIMo station, mixing depth 20 m",100.0,break-up (days),19,5.0,-3.632
+island_lake,"CLIMo station, mixing depth 20 m",100.0,"effective break-up, ice < 0.1 m (days)",19,5.842,-5.105
+island_lake,"CLIMo station, mixing depth 20 m",100.0,snow depth on the ice (m),555,0.065,0.011
+island_lake,CLIMo ERA5,0.0,ice thickness (m),555,0.366,0.358
+island_lake,CLIMo ERA5,0.0,maximum ice thickness (m),25,0.483,0.483
+island_lake,CLIMo ERA5,0.0,freeze-up (days),16,8.125,-5.375
+island_lake,CLIMo ERA5,0.0,break-up (days),19,6.632,-5.368
+island_lake,CLIMo ERA5,0.0,"effective break-up, ice < 0.1 m (days)",19,7.684,-6.842
+island_lake,CLIMo ERA5,0.0,snow depth on the ice (m),555,0.158,-0.158
+island_lake,CLIMo ERA5,50.0,ice thickness (m),555,0.163,0.135
+island_lake,CLIMo ERA5,50.0,maximum ice thickness (m),25,0.223,0.209
+island_lake,CLIMo ERA5,50.0,freeze-up (days),16,8.125,-5.375
+island_lake,CLIMo ERA5,50.0,break-up (days),19,6.632,-5.579
+island_lake,CLIMo ERA5,50.0,"effective break-up, ice < 0.1 m (days)",19,7.632,-7.211
+island_lake,CLIMo ERA5,50.0,snow depth on the ice (m),555,0.06,0.01
+island_lake,CLIMo ERA5,100.0,ice thickness (m),555,0.231,0.215
+island_lake,CLIMo ERA5,100.0,maximum ice thickness (m),25,0.35,0.346
+island_lake,CLIMo ERA5,100.0,freeze-up (days),16,8.125,-5.375
+island_lake,CLIMo ERA5,100.0,break-up (days),19,4.158,-1.421
+island_lake,CLIMo ERA5,100.0,"effective break-up, ice < 0.1 m (days)",19,4.684,-2.789
+island_lake,CLIMo ERA5,100.0,snow depth on the ice (m),555,0.069,0.034
+island_lake,"CLIMo ERA5, mixing depth 5 m",0.0,ice thickness (m),555,0.394,0.388
+island_lake,"CLIMo ERA5, mixing depth 5 m",0.0,maximum ice thickness (m),25,0.504,0.504
+island_lake,"CLIMo ERA5, mixing depth 5 m",0.0,freeze-up (days),16,13.375,-13.125
+island_lake,"CLIMo ERA5, mixing depth 5 m",0.0,break-up (days),19,6.368,-4.789
+island_lake,"CLIMo ERA5, mixing depth 5 m",0.0,"effective break-up, ice < 0.1 m (days)",19,7.421,-6.368
+island_lake,"CLIMo ERA5, mixing depth 5 m",0.0,snow depth on the ice (m),555,0.158,-0.158
+island_lake,"CLIMo ERA5, mixing depth 5 m",50.0,ice thickness (m),555,0.176,0.15
+island_lake,"CLIMo ERA5, mixing depth 5 m",50.0,maximum ice thickness (m),25,0.234,0.218
+island_lake,"CLIMo ERA5, mixing depth 5 m",50.0,freeze-up (days),16,13.375,-13.125
+island_lake,"CLIMo ERA5, mixing depth 5 m",50.0,break-up (days),19,6.632,-5.579
+island_lake,"CLIMo ERA5, mixing depth 5 m",50.0,"effective break-up, ice < 0.1 m (days)",19,7.632,-7.105
+island_lake,"CLIMo ERA5, mixing depth 5 m",50.0,snow depth on the ice (m),555,0.061,0.017
+island_lake,"CLIMo ERA5, mixing depth 5 m",100.0,ice thickness (m),555,0.257,0.247
+island_lake,"CLIMo ERA5, mixing depth 5 m",100.0,maximum ice thickness (m),25,0.373,0.37
+island_lake,"CLIMo ERA5, mixing depth 5 m",100.0,freeze-up (days),16,13.375,-13.125
+island_lake,"CLIMo ERA5, mixing depth 5 m",100.0,break-up (days),19,4.158,-0.895
+island_lake,"CLIMo ERA5, mixing depth 5 m",100.0,"effective break-up, ice < 0.1 m (days)",19,4.421,-2.211
+island_lake,"CLIMo ERA5, mixing depth 5 m",100.0,snow depth on the ice (m),555,0.071,0.042
+island_lake,"CLIMo ERA5, mixing depth 20 m",0.0,ice thickness (m),555,0.306,0.25
+island_lake,"CLIMo ERA5, mixing depth 20 m",0.0,maximum ice thickness (m),25,0.41,0.41
+island_lake,"CLIMo ERA5, mixing depth 20 m",0.0,freeze-up (days),16,11.938,11.438
+island_lake,"CLIMo ERA5, mixing depth 20 m",0.0,break-up (days),19,7.842,-7.0
+island_lake,"CLIMo ERA5, mixing depth 20 m",0.0,"effective break-up, ice < 0.1 m (days)",19,9.053,-8.526
+island_lake,"CLIMo ERA5, mixing depth 20 m",0.0,snow depth on the ice (m),555,0.158,-0.158
+island_lake,"CLIMo ERA5, mixing depth 20 m",50.0,ice thickness (m),555,0.158,0.073
+island_lake,"CLIMo ERA5, mixing depth 20 m",50.0,maximum ice thickness (m),25,0.192,0.174
+island_lake,"CLIMo ERA5, mixing depth 20 m",50.0,freeze-up (days),16,11.938,11.438
+island_lake,"CLIMo ERA5, mixing depth 20 m",50.0,break-up (days),19,7.211,-6.474
+island_lake,"CLIMo ERA5, mixing depth 20 m",50.0,"effective break-up, ice < 0.1 m (days)",19,8.263,-8.053
+island_lake,"CLIMo ERA5, mixing depth 20 m",50.0,snow depth on the ice (m),555,0.064,-0.011
+island_lake,"CLIMo ERA5, mixing depth 20 m",100.0,ice thickness (m),555,0.197,0.125
+island_lake,"CLIMo ERA5, mixing depth 20 m",100.0,maximum ice thickness (m),25,0.289,0.284
+island_lake,"CLIMo ERA5, mixing depth 20 m",100.0,freeze-up (days),16,11.938,11.438
+island_lake,"CLIMo ERA5, mixing depth 20 m",100.0,break-up (days),19,4.474,-2.789
+island_lake,"CLIMo ERA5, mixing depth 20 m",100.0,"effective break-up, ice < 0.1 m (days)",19,5.474,-4.211
+island_lake,"CLIMo ERA5, mixing depth 20 m",100.0,snow depth on the ice (m),555,0.069,0.011
+island_lake,ERA5 FLake,,ice thickness (m),555,0.406,0.404
+island_lake,ERA5 FLake,,maximum ice thickness (m),25,0.484,0.484
+island_lake,ERA5 FLake,,freeze-up (days),16,13.938,-13.688
+island_lake,ERA5 FLake,,break-up (days),19,8.053,7.737

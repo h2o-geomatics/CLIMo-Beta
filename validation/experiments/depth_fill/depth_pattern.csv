@@ -1,0 +1,11 @@
+lake,cells,depths,mean_depth_m,freeze_up_day,freeze_up_sd_d,freeze_up_bias_d,freeze_up_mae_d,freeze_up_r,break_up_sd_d,break_up_mae_d,max_ice_sd_m,max_ice_mae_m
+Great Bear,167,chart,24.905,322.377,15.519,0.0,0.0,1.0,4.921,0.0,0.074,0.0
+Great Bear,167,GLOBathy,27.101,324.431,17.749,2.054,6.689,0.851,5.063,0.473,0.075,0.02
+Great Bear,167,"one value, 40 m",40.0,338.748,7.048,16.371,16.371,0.434,4.756,1.15,0.041,0.047
+Great Bear,167,"one value, the chart's mean",24.905,324.659,4.825,2.281,12.269,0.451,5.022,0.91,0.056,0.037
+Great Bear,167,"GLOBathy, shuffled",27.101,325.06,16.901,2.683,16.934,0.139,5.035,1.192,0.066,0.048
+Great Slave,76,chart,18.823,328.092,17.961,0.0,0.0,1.0,2.327,0.0,0.048,0.0
+Great Slave,76,GLOBathy,30.444,345.987,15.137,17.895,20.132,0.456,3.053,1.421,0.039,0.049
+Great Slave,76,"one value, 40 m",40.0,358.039,4.099,29.947,29.947,-0.415,3.833,1.868,0.057,0.069
+Great Slave,76,"one value, the chart's mean",18.823,329.579,3.415,1.487,17.197,-0.234,2.99,1.092,0.022,0.042
+Great Slave,76,"GLOBathy, shuffled",30.444,346.592,14.569,18.5,26.526,-0.169,3.279,1.592,0.04,0.059

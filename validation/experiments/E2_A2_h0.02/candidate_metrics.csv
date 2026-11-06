@@ -1,0 +1,541 @@
+site,forcing,snow_percentage,quantity,statistic,n,value
+baker_lake,era5,0,ice thickness (m),mae,1022,0.093035
+baker_lake,era5,0,ice thickness (m),bias,1022,0.058669
+baker_lake,era5,0,maximum ice thickness (m),mae,33,0.100363
+baker_lake,era5,0,maximum ice thickness (m),bias,33,0.05508
+baker_lake,era5,0,freeze-up (days),mae,10,9.3
+baker_lake,era5,0,freeze-up (days),bias,10,-8.3
+baker_lake,era5,0,break-up (days),mae,9,6.888889
+baker_lake,era5,0,break-up (days),bias,9,2.666667
+baker_lake,era5,0,"effective break-up, ice < 0.1 m (days)",mae,9,7.0
+baker_lake,era5,0,"effective break-up, ice < 0.1 m (days)",bias,9,1.666667
+baker_lake,era5,0,snow depth on the ice (m),mae,1022,0.038503
+baker_lake,era5,0,snow depth on the ice (m),bias,1022,-0.038503
+baker_lake,era5,50,ice thickness (m),mae,1022,0.395659
+baker_lake,era5,50,ice thickness (m),bias,1022,-0.386995
+baker_lake,era5,50,maximum ice thickness (m),mae,33,0.528111
+baker_lake,era5,50,maximum ice thickness (m),bias,33,-0.528111
+baker_lake,era5,50,freeze-up (days),mae,10,9.3
+baker_lake,era5,50,freeze-up (days),bias,10,-8.3
+baker_lake,era5,50,break-up (days),mae,9,9.0
+baker_lake,era5,50,break-up (days),bias,9,-3.666667
+baker_lake,era5,50,"effective break-up, ice < 0.1 m (days)",mae,9,9.888889
+baker_lake,era5,50,"effective break-up, ice < 0.1 m (days)",bias,9,-4.777778
+baker_lake,era5,50,snow depth on the ice (m),mae,1022,0.195796
+baker_lake,era5,50,snow depth on the ice (m),bias,1022,0.194338
+baker_lake,era5,100,ice thickness (m),mae,1022,0.344426
+baker_lake,era5,100,ice thickness (m),bias,1022,-0.331263
+baker_lake,era5,100,maximum ice thickness (m),mae,33,0.387509
+baker_lake,era5,100,maximum ice thickness (m),bias,33,-0.387509
+baker_lake,era5,100,freeze-up (days),mae,10,9.3
+baker_lake,era5,100,freeze-up (days),bias,10,-8.3
+baker_lake,era5,100,break-up (days),mae,9,7.111111
+baker_lake,era5,100,break-up (days),bias,9,2.0
+baker_lake,era5,100,"effective break-up, ice < 0.1 m (days)",mae,9,7.555556
+baker_lake,era5,100,"effective break-up, ice < 0.1 m (days)",bias,9,0.888889
+baker_lake,era5,100,snow depth on the ice (m),mae,1022,0.227993
+baker_lake,era5,100,snow depth on the ice (m),bias,1022,0.227045
+baker_lake,era5,0,"ice thickness, mean seasonal maximum (m)",mean,40,2.226651
+baker_lake,era5,0,"snow ice, mean seasonal maximum (m)",mean,40,0.0
+baker_lake,era5,0,"congelation ice, mean seasonal maximum (m)",mean,40,2.235666
+baker_lake,era5,50,"ice thickness, mean seasonal maximum (m)",mean,40,1.632466
+baker_lake,era5,50,"snow ice, mean seasonal maximum (m)",mean,40,0.148179
+baker_lake,era5,50,"congelation ice, mean seasonal maximum (m)",mean,40,1.489229
+baker_lake,era5,100,"ice thickness, mean seasonal maximum (m)",mean,40,1.774235
+baker_lake,era5,100,"snow ice, mean seasonal maximum (m)",mean,40,0.529156
+baker_lake,era5,100,"congelation ice, mean seasonal maximum (m)",mean,40,1.303211
+baker_lake,station,0,ice thickness (m),mae,1022,0.100398
+baker_lake,station,0,ice thickness (m),bias,1022,0.066468
+baker_lake,station,0,maximum ice thickness (m),mae,33,0.118892
+baker_lake,station,0,maximum ice thickness (m),bias,33,0.059777
+baker_lake,station,0,freeze-up (days),mae,10,9.3
+baker_lake,station,0,freeze-up (days),bias,10,-8.3
+baker_lake,station,0,break-up (days),mae,9,5.333333
+baker_lake,station,0,break-up (days),bias,9,3.111111
+baker_lake,station,0,"effective break-up, ice < 0.1 m (days)",mae,9,5.555556
+baker_lake,station,0,"effective break-up, ice < 0.1 m (days)",bias,9,1.777778
+baker_lake,station,0,snow depth on the ice (m),mae,1022,0.038503
+baker_lake,station,0,snow depth on the ice (m),bias,1022,-0.038503
+baker_lake,station,50,ice thickness (m),mae,1022,0.362639
+baker_lake,station,50,ice thickness (m),bias,1022,-0.352294
+baker_lake,station,50,maximum ice thickness (m),mae,33,0.491874
+baker_lake,station,50,maximum ice thickness (m),bias,33,-0.491874
+baker_lake,station,50,freeze-up (days),mae,10,9.3
+baker_lake,station,50,freeze-up (days),bias,10,-8.3
+baker_lake,station,50,break-up (days),mae,9,7.888889
+baker_lake,station,50,break-up (days),bias,9,-5.0
+baker_lake,station,50,"effective break-up, ice < 0.1 m (days)",mae,9,8.555556
+baker_lake,station,50,"effective break-up, ice < 0.1 m (days)",bias,9,-6.111111
+baker_lake,station,50,snow depth on the ice (m),mae,1022,0.169652
+baker_lake,station,50,snow depth on the ice (m),bias,1022,0.167726
+baker_lake,station,100,ice thickness (m),mae,1022,0.356338
+baker_lake,station,100,ice thickness (m),bias,1022,-0.34245
+baker_lake,station,100,maximum ice thickness (m),mae,33,0.444122
+baker_lake,station,100,maximum ice thickness (m),bias,33,-0.444122
+baker_lake,station,100,freeze-up (days),mae,10,9.3
+baker_lake,station,100,freeze-up (days),bias,10,-8.3
+baker_lake,station,100,break-up (days),mae,9,5.888889
+baker_lake,station,100,break-up (days),bias,9,-1.0
+baker_lake,station,100,"effective break-up, ice < 0.1 m (days)",mae,9,6.333333
+baker_lake,station,100,"effective break-up, ice < 0.1 m (days)",bias,9,-2.111111
+baker_lake,station,100,snow depth on the ice (m),mae,1022,0.215559
+baker_lake,station,100,snow depth on the ice (m),bias,1022,0.214364
+baker_lake,station,0,"ice thickness, mean seasonal maximum (m)",mean,40,2.233281
+baker_lake,station,0,"snow ice, mean seasonal maximum (m)",mean,40,0.0
+baker_lake,station,0,"congelation ice, mean seasonal maximum (m)",mean,40,2.24108
+baker_lake,station,50,"ice thickness, mean seasonal maximum (m)",mean,40,1.66974
+baker_lake,station,50,"snow ice, mean seasonal maximum (m)",mean,40,0.0788
+baker_lake,station,50,"congelation ice, mean seasonal maximum (m)",mean,40,1.591731
+baker_lake,station,100,"ice thickness, mean seasonal maximum (m)",mean,40,1.718517
+baker_lake,station,100,"snow ice, mean seasonal maximum (m)",mean,40,0.360159
+baker_lake,station,100,"congelation ice, mean seasonal maximum (m)",mean,40,1.39709
+big_trout_lake,era5,0,ice thickness (m),mae,489,0.239132
+big_trout_lake,era5,0,ice thickness (m),bias,489,0.187144
+big_trout_lake,era5,0,maximum ice thickness (m),mae,18,0.268978
+big_trout_lake,era5,0,maximum ice thickness (m),bias,18,0.268978
+big_trout_lake,era5,0,freeze-up (days),mae,18,2.944444
+big_trout_lake,era5,0,freeze-up (days),bias,18,0.277778
+big_trout_lake,era5,0,break-up (days),mae,18,11.5
+big_trout_lake,era5,0,break-up (days),bias,18,-11.5
+big_trout_lake,era5,0,"effective break-up, ice < 0.1 m (days)",mae,18,13.0
+big_trout_lake,era5,0,"effective break-up, ice < 0.1 m (days)",bias,18,-13.0
+big_trout_lake,era5,0,snow depth on the ice (m),mae,488,0.140635
+big_trout_lake,era5,0,snow depth on the ice (m),bias,488,-0.140635
+big_trout_lake,era5,50,ice thickness (m),mae,489,0.113223
+big_trout_lake,era5,50,ice thickness (m),bias,489,-0.02535
+big_trout_lake,era5,50,maximum ice thickness (m),mae,18,0.099861
+big_trout_lake,era5,50,maximum ice thickness (m),bias,18,-0.016856
+big_trout_lake,era5,50,freeze-up (days),mae,18,2.944444
+big_trout_lake,era5,50,freeze-up (days),bias,18,0.277778
+big_trout_lake,era5,50,break-up (days),mae,18,9.555556
+big_trout_lake,era5,50,break-up (days),bias,18,-9.222222
+big_trout_lake,era5,50,"effective break-up, ice < 0.1 m (days)",mae,18,10.722222
+big_trout_lake,era5,50,"effective break-up, ice < 0.1 m (days)",bias,18,-10.611111
+big_trout_lake,era5,50,snow depth on the ice (m),mae,488,0.055075
+big_trout_lake,era5,50,snow depth on the ice (m),bias,488,0.022149
+big_trout_lake,era5,100,ice thickness (m),mae,489,0.14808
+big_trout_lake,era5,100,ice thickness (m),bias,489,0.063716
+big_trout_lake,era5,100,maximum ice thickness (m),mae,18,0.182593
+big_trout_lake,era5,100,maximum ice thickness (m),bias,18,0.138881
+big_trout_lake,era5,100,freeze-up (days),mae,18,2.944444
+big_trout_lake,era5,100,freeze-up (days),bias,18,0.277778
+big_trout_lake,era5,100,break-up (days),mae,18,5.055556
+big_trout_lake,era5,100,break-up (days),bias,18,-1.388889
+big_trout_lake,era5,100,"effective break-up, ice < 0.1 m (days)",mae,18,5.666667
+big_trout_lake,era5,100,"effective break-up, ice < 0.1 m (days)",bias,18,-2.666667
+big_trout_lake,era5,100,snow depth on the ice (m),mae,488,0.068365
+big_trout_lake,era5,100,snow depth on the ice (m),bias,488,0.045781
+big_trout_lake,era5,0,"ice thickness, mean seasonal maximum (m)",mean,19,1.460874
+big_trout_lake,era5,0,"snow ice, mean seasonal maximum (m)",mean,19,0.0
+big_trout_lake,era5,0,"congelation ice, mean seasonal maximum (m)",mean,19,1.465497
+big_trout_lake,era5,50,"ice thickness, mean seasonal maximum (m)",mean,19,1.173675
+big_trout_lake,era5,50,"snow ice, mean seasonal maximum (m)",mean,19,0.179807
+big_trout_lake,era5,50,"congelation ice, mean seasonal maximum (m)",mean,19,1.000812
+big_trout_lake,era5,100,"ice thickness, mean seasonal maximum (m)",mean,19,1.331213
+big_trout_lake,era5,100,"snow ice, mean seasonal maximum (m)",mean,19,0.523796
+big_trout_lake,era5,100,"congelation ice, mean seasonal maximum (m)",mean,19,0.867115
+big_trout_lake,station,0,ice thickness (m),mae,489,0.262611
+big_trout_lake,station,0,ice thickness (m),bias,489,0.230836
+big_trout_lake,station,0,maximum ice thickness (m),mae,18,0.312594
+big_trout_lake,station,0,maximum ice thickness (m),bias,18,0.312594
+big_trout_lake,station,0,freeze-up (days),mae,18,4.833333
+big_trout_lake,station,0,freeze-up (days),bias,18,-3.611111
+big_trout_lake,station,0,break-up (days),mae,18,10.777778
+big_trout_lake,station,0,break-up (days),bias,18,-10.555556
+big_trout_lake,station,0,"effective break-up, ice < 0.1 m (days)",mae,18,11.777778
+big_trout_lake,station,0,"effective break-up, ice < 0.1 m (days)",bias,18,-11.777778
+big_trout_lake,station,0,snow depth on the ice (m),mae,488,0.140635
+big_trout_lake,station,0,snow depth on the ice (m),bias,488,-0.140635
+big_trout_lake,station,50,ice thickness (m),mae,489,0.114483
+big_trout_lake,station,50,ice thickness (m),bias,489,0.015735
+big_trout_lake,station,50,maximum ice thickness (m),mae,18,0.106584
+big_trout_lake,station,50,maximum ice thickness (m),bias,18,0.024961
+big_trout_lake,station,50,freeze-up (days),mae,18,4.833333
+big_trout_lake,station,50,freeze-up (days),bias,18,-3.611111
+big_trout_lake,station,50,break-up (days),mae,18,9.388889
+big_trout_lake,station,50,break-up (days),bias,18,-8.055556
+big_trout_lake,station,50,"effective break-up, ice < 0.1 m (days)",mae,18,10.277778
+big_trout_lake,station,50,"effective break-up, ice < 0.1 m (days)",bias,18,-9.388889
+big_trout_lake,station,50,snow depth on the ice (m),mae,488,0.056751
+big_trout_lake,station,50,snow depth on the ice (m),bias,488,0.030014
+big_trout_lake,station,100,ice thickness (m),mae,489,0.17022
+big_trout_lake,station,100,ice thickness (m),bias,489,0.118619
+big_trout_lake,station,100,maximum ice thickness (m),mae,18,0.219085
+big_trout_lake,station,100,maximum ice thickness (m),bias,18,0.199067
+big_trout_lake,station,100,freeze-up (days),mae,18,4.833333
+big_trout_lake,station,100,freeze-up (days),bias,18,-3.611111
+big_trout_lake,station,100,break-up (days),mae,18,5.666667
+big_trout_lake,station,100,break-up (days),bias,18,-0.666667
+big_trout_lake,station,100,"effective break-up, ice < 0.1 m (days)",mae,18,6.333333
+big_trout_lake,station,100,"effective break-up, ice < 0.1 m (days)",bias,18,-2.0
+big_trout_lake,station,100,snow depth on the ice (m),mae,488,0.073091
+big_trout_lake,station,100,snow depth on the ice (m),bias,488,0.056468
+big_trout_lake,station,0,"ice thickness, mean seasonal maximum (m)",mean,19,1.505064
+big_trout_lake,station,0,"snow ice, mean seasonal maximum (m)",mean,19,0.0
+big_trout_lake,station,0,"congelation ice, mean seasonal maximum (m)",mean,19,1.509822
+big_trout_lake,station,50,"ice thickness, mean seasonal maximum (m)",mean,19,1.213794
+big_trout_lake,station,50,"snow ice, mean seasonal maximum (m)",mean,19,0.235742
+big_trout_lake,station,50,"congelation ice, mean seasonal maximum (m)",mean,19,0.998398
+big_trout_lake,station,100,"ice thickness, mean seasonal maximum (m)",mean,19,1.387089
+big_trout_lake,station,100,"snow ice, mean seasonal maximum (m)",mean,19,0.645221
+big_trout_lake,station,100,"congelation ice, mean seasonal maximum (m)",mean,19,0.846215
+gimli,era5,0,ice thickness (m),mae,275,0.150664
+gimli,era5,0,ice thickness (m),bias,275,0.131976
+gimli,era5,0,maximum ice thickness (m),mae,7,0.204898
+gimli,era5,0,maximum ice thickness (m),bias,7,0.200579
+gimli,era5,0,freeze-up (days),mae,18,4.5
+gimli,era5,0,freeze-up (days),bias,18,-4.277778
+gimli,era5,0,break-up (days),mae,17,12.647059
+gimli,era5,0,break-up (days),bias,17,-12.647059
+gimli,era5,0,"effective break-up, ice < 0.1 m (days)",mae,17,14.235294
+gimli,era5,0,"effective break-up, ice < 0.1 m (days)",bias,17,-14.235294
+gimli,era5,0,snow depth on the ice (m),mae,275,0.120036
+gimli,era5,0,snow depth on the ice (m),bias,275,-0.120036
+gimli,era5,50,ice thickness (m),mae,275,0.135326
+gimli,era5,50,ice thickness (m),bias,275,-0.066139
+gimli,era5,50,maximum ice thickness (m),mae,7,0.152425
+gimli,era5,50,maximum ice thickness (m),bias,7,0.006024
+gimli,era5,50,freeze-up (days),mae,18,4.5
+gimli,era5,50,freeze-up (days),bias,18,-4.277778
+gimli,era5,50,break-up (days),mae,17,10.588235
+gimli,era5,50,break-up (days),bias,17,-10.588235
+gimli,era5,50,"effective break-up, ice < 0.1 m (days)",mae,17,11.941176
+gimli,era5,50,"effective break-up, ice < 0.1 m (days)",bias,17,-11.941176
+gimli,era5,50,snow depth on the ice (m),mae,275,0.077105
+gimli,era5,50,snow depth on the ice (m),bias,275,0.047839
+gimli,era5,100,ice thickness (m),mae,275,0.135716
+gimli,era5,100,ice thickness (m),bias,275,-0.023062
+gimli,era5,100,maximum ice thickness (m),mae,7,0.177573
+gimli,era5,100,maximum ice thickness (m),bias,7,0.13771
+gimli,era5,100,freeze-up (days),mae,18,4.5
+gimli,era5,100,freeze-up (days),bias,18,-4.277778
+gimli,era5,100,break-up (days),mae,17,5.647059
+gimli,era5,100,break-up (days),bias,17,-5.411765
+gimli,era5,100,"effective break-up, ice < 0.1 m (days)",mae,17,6.764706
+gimli,era5,100,"effective break-up, ice < 0.1 m (days)",bias,17,-6.764706
+gimli,era5,100,snow depth on the ice (m),mae,275,0.08845
+gimli,era5,100,snow depth on the ice (m),bias,275,0.069427
+gimli,era5,0,"ice thickness, mean seasonal maximum (m)",mean,18,1.176678
+gimli,era5,0,"snow ice, mean seasonal maximum (m)",mean,18,0.0
+gimli,era5,0,"congelation ice, mean seasonal maximum (m)",mean,18,1.178853
+gimli,era5,50,"ice thickness, mean seasonal maximum (m)",mean,18,0.976142
+gimli,era5,50,"snow ice, mean seasonal maximum (m)",mean,18,0.092654
+gimli,era5,50,"congelation ice, mean seasonal maximum (m)",mean,18,0.885546
+gimli,era5,100,"ice thickness, mean seasonal maximum (m)",mean,18,1.070643
+gimli,era5,100,"snow ice, mean seasonal maximum (m)",mean,18,0.328987
+gimli,era5,100,"congelation ice, mean seasonal maximum (m)",mean,18,0.782993
+gimli,station,0,ice thickness (m),mae,275,0.14249
+gimli,station,0,ice thickness (m),bias,275,0.110994
+gimli,station,0,maximum ice thickness (m),mae,7,0.198701
+gimli,station,0,maximum ice thickness (m),bias,7,0.175156
+gimli,station,0,freeze-up (days),mae,18,3.666667
+gimli,station,0,freeze-up (days),bias,18,-1.888889
+gimli,station,0,break-up (days),mae,17,11.941176
+gimli,station,0,break-up (days),bias,17,-11.941176
+gimli,station,0,"effective break-up, ice < 0.1 m (days)",mae,17,13.705882
+gimli,station,0,"effective break-up, ice < 0.1 m (days)",bias,17,-13.705882
+gimli,station,0,snow depth on the ice (m),mae,275,0.120036
+gimli,station,0,snow depth on the ice (m),bias,275,-0.120036
+gimli,station,50,ice thickness (m),mae,275,0.138705
+gimli,station,50,ice thickness (m),bias,275,-0.059597
+gimli,station,50,maximum ice thickness (m),mae,7,0.149308
+gimli,station,50,maximum ice thickness (m),bias,7,0.042119
+gimli,station,50,freeze-up (days),mae,18,3.666667
+gimli,station,50,freeze-up (days),bias,18,-1.888889
+gimli,station,50,break-up (days),mae,17,7.647059
+gimli,station,50,break-up (days),bias,17,-7.529412
+gimli,station,50,"effective break-up, ice < 0.1 m (days)",mae,17,9.117647
+gimli,station,50,"effective break-up, ice < 0.1 m (days)",bias,17,-9.117647
+gimli,station,50,snow depth on the ice (m),mae,275,0.077492
+gimli,station,50,snow depth on the ice (m),bias,275,0.049728
+gimli,station,100,ice thickness (m),mae,275,0.138404
+gimli,station,100,ice thickness (m),bias,275,-0.003314
+gimli,station,100,maximum ice thickness (m),mae,7,0.195492
+gimli,station,100,maximum ice thickness (m),bias,7,0.191782
+gimli,station,100,freeze-up (days),mae,18,3.666667
+gimli,station,100,freeze-up (days),bias,18,-1.888889
+gimli,station,100,break-up (days),mae,17,3.470588
+gimli,station,100,break-up (days),bias,17,-0.411765
+gimli,station,100,"effective break-up, ice < 0.1 m (days)",mae,17,3.823529
+gimli,station,100,"effective break-up, ice < 0.1 m (days)",bias,17,-1.823529
+gimli,station,100,snow depth on the ice (m),mae,275,0.091253
+gimli,station,100,snow depth on the ice (m),bias,275,0.073341
+gimli,station,0,"ice thickness, mean seasonal maximum (m)",mean,18,1.156796
+gimli,station,0,"snow ice, mean seasonal maximum (m)",mean,18,0.0
+gimli,station,0,"congelation ice, mean seasonal maximum (m)",mean,18,1.157265
+gimli,station,50,"ice thickness, mean seasonal maximum (m)",mean,18,1.00034
+gimli,station,50,"snow ice, mean seasonal maximum (m)",mean,18,0.141242
+gimli,station,50,"congelation ice, mean seasonal maximum (m)",mean,18,0.870014
+gimli,station,100,"ice thickness, mean seasonal maximum (m)",mean,18,1.123018
+gimli,station,100,"snow ice, mean seasonal maximum (m)",mean,18,0.428438
+gimli,station,100,"congelation ice, mean seasonal maximum (m)",mean,18,0.768986
+island_lake,era5,0,ice thickness (m),mae,555,0.365565
+island_lake,era5,0,ice thickness (m),bias,555,0.357883
+island_lake,era5,0,maximum ice thickness (m),mae,25,0.482741
+island_lake,era5,0,maximum ice thickness (m),bias,25,0.482741
+island_lake,era5,0,freeze-up (days),mae,16,8.125
+island_lake,era5,0,freeze-up (days),bias,16,-5.375
+island_lake,era5,0,break-up (days),mae,19,6.631579
+island_lake,era5,0,break-up (days),bias,19,-5.368421
+island_lake,era5,0,"effective break-up, ice < 0.1 m (days)",mae,19,7.684211
+island_lake,era5,0,"effective break-up, ice < 0.1 m (days)",bias,19,-6.842105
+island_lake,era5,0,snow depth on the ice (m),mae,555,0.157604
+island_lake,era5,0,snow depth on the ice (m),bias,555,-0.157604
+island_lake,era5,50,ice thickness (m),mae,555,0.171353
+island_lake,era5,50,ice thickness (m),bias,555,0.147833
+island_lake,era5,50,maximum ice thickness (m),mae,25,0.224758
+island_lake,era5,50,maximum ice thickness (m),bias,25,0.210334
+island_lake,era5,50,freeze-up (days),mae,16,8.125
+island_lake,era5,50,freeze-up (days),bias,16,-5.375
+island_lake,era5,50,break-up (days),mae,19,4.842105
+island_lake,era5,50,break-up (days),bias,19,-2.105263
+island_lake,era5,50,"effective break-up, ice < 0.1 m (days)",mae,19,5.473684
+island_lake,era5,50,"effective break-up, ice < 0.1 m (days)",bias,19,-3.473684
+island_lake,era5,50,snow depth on the ice (m),mae,555,0.060166
+island_lake,era5,50,snow depth on the ice (m),bias,555,0.010517
+island_lake,era5,100,ice thickness (m),mae,555,0.241869
+island_lake,era5,100,ice thickness (m),bias,555,0.228441
+island_lake,era5,100,maximum ice thickness (m),mae,25,0.351553
+island_lake,era5,100,maximum ice thickness (m),bias,25,0.348261
+island_lake,era5,100,freeze-up (days),mae,16,8.125
+island_lake,era5,100,freeze-up (days),bias,16,-5.375
+island_lake,era5,100,break-up (days),mae,19,6.473684
+island_lake,era5,100,break-up (days),bias,19,5.315789
+island_lake,era5,100,"effective break-up, ice < 0.1 m (days)",mae,19,5.631579
+island_lake,era5,100,"effective break-up, ice < 0.1 m (days)",bias,19,3.842105
+island_lake,era5,100,snow depth on the ice (m),mae,555,0.069202
+island_lake,era5,100,snow depth on the ice (m),bias,555,0.035119
+island_lake,era5,0,"ice thickness, mean seasonal maximum (m)",mean,25,1.397541
+island_lake,era5,0,"snow ice, mean seasonal maximum (m)",mean,25,0.0
+island_lake,era5,0,"congelation ice, mean seasonal maximum (m)",mean,25,1.399338
+island_lake,era5,50,"ice thickness, mean seasonal maximum (m)",mean,25,1.125134
+island_lake,era5,50,"snow ice, mean seasonal maximum (m)",mean,25,0.162122
+island_lake,era5,50,"congelation ice, mean seasonal maximum (m)",mean,25,0.971278
+island_lake,era5,100,"ice thickness, mean seasonal maximum (m)",mean,25,1.263061
+island_lake,era5,100,"snow ice, mean seasonal maximum (m)",mean,25,0.4833
+island_lake,era5,100,"congelation ice, mean seasonal maximum (m)",mean,25,0.842421
+island_lake,station,0,ice thickness (m),mae,555,0.375945
+island_lake,station,0,ice thickness (m),bias,555,0.366627
+island_lake,station,0,maximum ice thickness (m),mae,25,0.499541
+island_lake,station,0,maximum ice thickness (m),bias,25,0.499541
+island_lake,station,0,freeze-up (days),mae,16,8.9375
+island_lake,station,0,freeze-up (days),bias,16,-6.5625
+island_lake,station,0,break-up (days),mae,19,7.578947
+island_lake,station,0,break-up (days),bias,19,-6.526316
+island_lake,station,0,"effective break-up, ice < 0.1 m (days)",mae,19,8.473684
+island_lake,station,0,"effective break-up, ice < 0.1 m (days)",bias,19,-7.947368
+island_lake,station,0,snow depth on the ice (m),mae,555,0.157604
+island_lake,station,0,snow depth on the ice (m),bias,555,-0.157604
+island_lake,station,50,ice thickness (m),mae,555,0.198257
+island_lake,station,50,ice thickness (m),bias,555,0.175054
+island_lake,station,50,maximum ice thickness (m),mae,25,0.258921
+island_lake,station,50,maximum ice thickness (m),bias,25,0.244442
+island_lake,station,50,freeze-up (days),mae,16,8.9375
+island_lake,station,50,freeze-up (days),bias,16,-6.5625
+island_lake,station,50,break-up (days),mae,19,5.842105
+island_lake,station,50,break-up (days),bias,19,-2.578947
+island_lake,station,50,"effective break-up, ice < 0.1 m (days)",mae,19,5.947368
+island_lake,station,50,"effective break-up, ice < 0.1 m (days)",bias,19,-3.947368
+island_lake,station,50,snow depth on the ice (m),mae,555,0.056632
+island_lake,station,50,snow depth on the ice (m),bias,555,0.012322
+island_lake,station,100,ice thickness (m),mae,555,0.290723
+island_lake,station,100,ice thickness (m),bias,555,0.281992
+island_lake,station,100,maximum ice thickness (m),mae,25,0.415278
+island_lake,station,100,maximum ice thickness (m),bias,25,0.415278
+island_lake,station,100,freeze-up (days),mae,16,8.9375
+island_lake,station,100,freeze-up (days),bias,16,-6.5625
+island_lake,station,100,break-up (days),mae,19,6.894737
+island_lake,station,100,break-up (days),bias,19,5.210526
+island_lake,station,100,"effective break-up, ice < 0.1 m (days)",mae,19,6.421053
+island_lake,station,100,"effective break-up, ice < 0.1 m (days)",bias,19,3.894737
+island_lake,station,100,snow depth on the ice (m),mae,555,0.066695
+island_lake,station,100,snow depth on the ice (m),bias,555,0.03981
+island_lake,station,0,"ice thickness, mean seasonal maximum (m)",mean,25,1.414341
+island_lake,station,0,"snow ice, mean seasonal maximum (m)",mean,25,0.0
+island_lake,station,0,"congelation ice, mean seasonal maximum (m)",mean,25,1.413443
+island_lake,station,50,"ice thickness, mean seasonal maximum (m)",mean,25,1.159242
+island_lake,station,50,"snow ice, mean seasonal maximum (m)",mean,25,0.225879
+island_lake,station,50,"congelation ice, mean seasonal maximum (m)",mean,25,0.951252
+island_lake,station,100,"ice thickness, mean seasonal maximum (m)",mean,25,1.330078
+island_lake,station,100,"snow ice, mean seasonal maximum (m)",mean,25,0.609673
+island_lake,station,100,"congelation ice, mean seasonal maximum (m)",mean,25,0.82345
+lac_des_sables,era5,0,ice thickness (m),mae,248,0.14087
+lac_des_sables,era5,0,ice thickness (m),bias,248,0.039662
+lac_des_sables,era5,0,maximum ice thickness (m),mae,10,0.101473
+lac_des_sables,era5,0,maximum ice thickness (m),bias,10,0.045794
+lac_des_sables,era5,0,freeze-up (days),mae,15,3.866667
+lac_des_sables,era5,0,freeze-up (days),bias,15,3.6
+lac_des_sables,era5,0,break-up (days),mae,16,12.25
+lac_des_sables,era5,0,break-up (days),bias,16,-12.25
+lac_des_sables,era5,0,"effective break-up, ice < 0.1 m (days)",mae,16,14.125
+lac_des_sables,era5,0,"effective break-up, ice < 0.1 m (days)",bias,16,-14.125
+lac_des_sables,era5,0,snow depth on the ice (m),mae,248,0.151613
+lac_des_sables,era5,0,snow depth on the ice (m),bias,248,-0.151613
+lac_des_sables,era5,50,ice thickness (m),mae,248,0.132305
+lac_des_sables,era5,50,ice thickness (m),bias,248,0.09984
+lac_des_sables,era5,50,maximum ice thickness (m),mae,10,0.14349
+lac_des_sables,era5,50,maximum ice thickness (m),bias,10,0.118707
+lac_des_sables,era5,50,freeze-up (days),mae,15,3.866667
+lac_des_sables,era5,50,freeze-up (days),bias,15,3.6
+lac_des_sables,era5,50,break-up (days),mae,16,4.9375
+lac_des_sables,era5,50,break-up (days),bias,16,2.3125
+lac_des_sables,era5,50,"effective break-up, ice < 0.1 m (days)",mae,16,4.125
+lac_des_sables,era5,50,"effective break-up, ice < 0.1 m (days)",bias,16,0.625
+lac_des_sables,era5,50,snow depth on the ice (m),mae,248,0.073818
+lac_des_sables,era5,50,snow depth on the ice (m),bias,248,-0.023373
+lac_des_sables,era5,100,ice thickness (m),mae,248,0.283483
+lac_des_sables,era5,100,ice thickness (m),bias,248,0.274504
+lac_des_sables,era5,100,maximum ice thickness (m),mae,10,0.403615
+lac_des_sables,era5,100,maximum ice thickness (m),bias,10,0.403615
+lac_des_sables,era5,100,freeze-up (days),mae,15,3.866667
+lac_des_sables,era5,100,freeze-up (days),bias,15,3.6
+lac_des_sables,era5,100,break-up (days),mae,16,12.75
+lac_des_sables,era5,100,break-up (days),bias,16,12.5
+lac_des_sables,era5,100,"effective break-up, ice < 0.1 m (days)",mae,16,11.8125
+lac_des_sables,era5,100,"effective break-up, ice < 0.1 m (days)",bias,16,11.0625
+lac_des_sables,era5,100,snow depth on the ice (m),mae,248,0.086913
+lac_des_sables,era5,100,snow depth on the ice (m),bias,248,0.019554
+lac_des_sables,era5,0,"ice thickness, mean seasonal maximum (m)",mean,16,0.815591
+lac_des_sables,era5,0,"snow ice, mean seasonal maximum (m)",mean,16,0.0
+lac_des_sables,era5,0,"congelation ice, mean seasonal maximum (m)",mean,16,0.820547
+lac_des_sables,era5,50,"ice thickness, mean seasonal maximum (m)",mean,16,0.894356
+lac_des_sables,era5,50,"snow ice, mean seasonal maximum (m)",mean,16,0.393004
+lac_des_sables,era5,50,"congelation ice, mean seasonal maximum (m)",mean,16,0.574129
+lac_des_sables,era5,100,"ice thickness, mean seasonal maximum (m)",mean,16,1.170402
+lac_des_sables,era5,100,"snow ice, mean seasonal maximum (m)",mean,16,0.911948
+lac_des_sables,era5,100,"congelation ice, mean seasonal maximum (m)",mean,16,0.478491
+lac_des_sables,station,0,ice thickness (m),mae,248,0.135072
+lac_des_sables,station,0,ice thickness (m),bias,248,0.033026
+lac_des_sables,station,0,maximum ice thickness (m),mae,10,0.102415
+lac_des_sables,station,0,maximum ice thickness (m),bias,10,0.042071
+lac_des_sables,station,0,freeze-up (days),mae,15,5.2
+lac_des_sables,station,0,freeze-up (days),bias,15,4.8
+lac_des_sables,station,0,break-up (days),mae,16,11.8125
+lac_des_sables,station,0,break-up (days),bias,16,-11.8125
+lac_des_sables,station,0,"effective break-up, ice < 0.1 m (days)",mae,16,13.625
+lac_des_sables,station,0,"effective break-up, ice < 0.1 m (days)",bias,16,-13.625
+lac_des_sables,station,0,snow depth on the ice (m),mae,248,0.151613
+lac_des_sables,station,0,snow depth on the ice (m),bias,248,-0.151613
+lac_des_sables,station,50,ice thickness (m),mae,248,0.167077
+lac_des_sables,station,50,ice thickness (m),bias,248,0.131452
+lac_des_sables,station,50,maximum ice thickness (m),mae,10,0.194281
+lac_des_sables,station,50,maximum ice thickness (m),bias,10,0.174262
+lac_des_sables,station,50,freeze-up (days),mae,15,5.2
+lac_des_sables,station,50,freeze-up (days),bias,15,4.8
+lac_des_sables,station,50,break-up (days),mae,16,8.0
+lac_des_sables,station,50,break-up (days),bias,16,6.0
+lac_des_sables,station,50,"effective break-up, ice < 0.1 m (days)",mae,16,6.875
+lac_des_sables,station,50,"effective break-up, ice < 0.1 m (days)",bias,16,4.5
+lac_des_sables,station,50,snow depth on the ice (m),mae,248,0.074908
+lac_des_sables,station,50,snow depth on the ice (m),bias,248,-0.014969
+lac_des_sables,station,100,ice thickness (m),mae,248,0.3608
+lac_des_sables,station,100,ice thickness (m),bias,248,0.348862
+lac_des_sables,station,100,maximum ice thickness (m),mae,10,0.53255
+lac_des_sables,station,100,maximum ice thickness (m),bias,10,0.53255
+lac_des_sables,station,100,freeze-up (days),mae,15,5.2
+lac_des_sables,station,100,freeze-up (days),bias,15,4.8
+lac_des_sables,station,100,break-up (days),mae,16,18.0625
+lac_des_sables,station,100,break-up (days),bias,16,17.8125
+lac_des_sables,station,100,"effective break-up, ice < 0.1 m (days)",mae,16,16.8125
+lac_des_sables,station,100,"effective break-up, ice < 0.1 m (days)",bias,16,16.3125
+lac_des_sables,station,100,snow depth on the ice (m),mae,248,0.096189
+lac_des_sables,station,100,snow depth on the ice (m),bias,248,0.037628
+lac_des_sables,station,0,"ice thickness, mean seasonal maximum (m)",mean,16,0.804922
+lac_des_sables,station,0,"snow ice, mean seasonal maximum (m)",mean,16,0.0
+lac_des_sables,station,0,"congelation ice, mean seasonal maximum (m)",mean,16,0.807093
+lac_des_sables,station,50,"ice thickness, mean seasonal maximum (m)",mean,16,0.946172
+lac_des_sables,station,50,"snow ice, mean seasonal maximum (m)",mean,16,0.502892
+lac_des_sables,station,50,"congelation ice, mean seasonal maximum (m)",mean,16,0.536119
+lac_des_sables,station,100,"ice thickness, mean seasonal maximum (m)",mean,16,1.290645
+lac_des_sables,station,100,"snow ice, mean seasonal maximum (m)",mean,16,1.138094
+lac_des_sables,station,100,"congelation ice, mean seasonal maximum (m)",mean,16,0.430899
+yellowknife,era5,0,ice thickness (m),mae,756,0.414567
+yellowknife,era5,0,ice thickness (m),bias,756,0.402372
+yellowknife,era5,0,maximum ice thickness (m),mae,30,0.536841
+yellowknife,era5,0,maximum ice thickness (m),bias,30,0.536841
+yellowknife,era5,0,freeze-up (days),mae,11,6.363636
+yellowknife,era5,0,freeze-up (days),bias,11,4.909091
+yellowknife,era5,0,break-up (days),mae,12,6.25
+yellowknife,era5,0,break-up (days),bias,12,6.25
+yellowknife,era5,0,"effective break-up, ice < 0.1 m (days)",mae,12,4.916667
+yellowknife,era5,0,"effective break-up, ice < 0.1 m (days)",bias,12,4.75
+yellowknife,era5,0,snow depth on the ice (m),mae,756,0.163664
+yellowknife,era5,0,snow depth on the ice (m),bias,756,-0.163664
+yellowknife,era5,50,ice thickness (m),mae,756,0.126096
+yellowknife,era5,50,ice thickness (m),bias,756,0.07486
+yellowknife,era5,50,maximum ice thickness (m),mae,30,0.148778
+yellowknife,era5,50,maximum ice thickness (m),bias,30,0.086746
+yellowknife,era5,50,freeze-up (days),mae,11,6.363636
+yellowknife,era5,50,freeze-up (days),bias,11,4.909091
+yellowknife,era5,50,break-up (days),mae,12,3.0
+yellowknife,era5,50,break-up (days),bias,12,2.5
+yellowknife,era5,50,"effective break-up, ice < 0.1 m (days)",mae,12,2.666667
+yellowknife,era5,50,"effective break-up, ice < 0.1 m (days)",bias,12,1.333333
+yellowknife,era5,50,snow depth on the ice (m),mae,756,0.059636
+yellowknife,era5,50,snow depth on the ice (m),bias,756,0.028606
+yellowknife,era5,100,ice thickness (m),mae,756,0.148063
+yellowknife,era5,100,ice thickness (m),bias,756,0.108682
+yellowknife,era5,100,maximum ice thickness (m),mae,30,0.184519
+yellowknife,era5,100,maximum ice thickness (m),bias,30,0.15478
+yellowknife,era5,100,freeze-up (days),mae,11,6.363636
+yellowknife,era5,100,freeze-up (days),bias,11,4.909091
+yellowknife,era5,100,break-up (days),mae,12,6.666667
+yellowknife,era5,100,break-up (days),bias,12,6.666667
+yellowknife,era5,100,"effective break-up, ice < 0.1 m (days)",mae,12,5.5
+yellowknife,era5,100,"effective break-up, ice < 0.1 m (days)",bias,12,5.5
+yellowknife,era5,100,snow depth on the ice (m),mae,756,0.074201
+yellowknife,era5,100,snow depth on the ice (m),bias,756,0.055319
+yellowknife,era5,0,"ice thickness, mean seasonal maximum (m)",mean,36,1.770555
+yellowknife,era5,0,"snow ice, mean seasonal maximum (m)",mean,36,0.0
+yellowknife,era5,0,"congelation ice, mean seasonal maximum (m)",mean,36,1.775573
+yellowknife,era5,50,"ice thickness, mean seasonal maximum (m)",mean,36,1.321421
+yellowknife,era5,50,"snow ice, mean seasonal maximum (m)",mean,36,0.05649
+yellowknife,era5,50,"congelation ice, mean seasonal maximum (m)",mean,36,1.262257
+yellowknife,era5,100,"ice thickness, mean seasonal maximum (m)",mean,36,1.387262
+yellowknife,era5,100,"snow ice, mean seasonal maximum (m)",mean,36,0.293087
+yellowknife,era5,100,"congelation ice, mean seasonal maximum (m)",mean,36,1.115836
+yellowknife,station,0,ice thickness (m),mae,756,0.431087
+yellowknife,station,0,ice thickness (m),bias,756,0.42403
+yellowknife,station,0,maximum ice thickness (m),mae,30,0.552747
+yellowknife,station,0,maximum ice thickness (m),bias,30,0.552747
+yellowknife,station,0,freeze-up (days),mae,11,5.0
+yellowknife,station,0,freeze-up (days),bias,11,2.272727
+yellowknife,station,0,break-up (days),mae,12,7.333333
+yellowknife,station,0,break-up (days),bias,12,7.333333
+yellowknife,station,0,"effective break-up, ice < 0.1 m (days)",mae,12,6.333333
+yellowknife,station,0,"effective break-up, ice < 0.1 m (days)",bias,12,6.333333
+yellowknife,station,0,snow depth on the ice (m),mae,756,0.163664
+yellowknife,station,0,snow depth on the ice (m),bias,756,-0.163664
+yellowknife,station,50,ice thickness (m),mae,756,0.141753
+yellowknife,station,50,ice thickness (m),bias,756,0.100621
+yellowknife,station,50,maximum ice thickness (m),mae,30,0.163203
+yellowknife,station,50,maximum ice thickness (m),bias,30,0.115117
+yellowknife,station,50,freeze-up (days),mae,11,5.090909
+yellowknife,station,50,freeze-up (days),bias,11,2.181818
+yellowknife,station,50,break-up (days),mae,12,5.75
+yellowknife,station,50,break-up (days),bias,12,5.75
+yellowknife,station,50,"effective break-up, ice < 0.1 m (days)",mae,12,4.666667
+yellowknife,station,50,"effective break-up, ice < 0.1 m (days)",bias,12,4.5
+yellowknife,station,50,snow depth on the ice (m),mae,756,0.066963
+yellowknife,station,50,snow depth on the ice (m),bias,756,0.044857
+yellowknife,station,100,ice thickness (m),mae,756,0.199327
+yellowknife,station,100,ice thickness (m),bias,756,0.176578
+yellowknife,station,100,maximum ice thickness (m),mae,30,0.253507
+yellowknife,station,100,maximum ice thickness (m),bias,30,0.242394
+yellowknife,station,100,freeze-up (days),mae,11,5.636364
+yellowknife,station,100,freeze-up (days),bias,11,1.636364
+yellowknife,station,100,break-up (days),mae,12,11.25
+yellowknife,station,100,break-up (days),bias,12,11.25
+yellowknife,station,100,"effective break-up, ice < 0.1 m (days)",mae,12,9.916667
+yellowknife,station,100,"effective break-up, ice < 0.1 m (days)",bias,12,9.916667
+yellowknife,station,100,snow depth on the ice (m),mae,756,0.084229
+yellowknife,station,100,snow depth on the ice (m),bias,756,0.071431
+yellowknife,station,0,"ice thickness, mean seasonal maximum (m)",mean,36,1.784392
+yellowknife,station,0,"snow ice, mean seasonal maximum (m)",mean,36,0.0
+yellowknife,station,0,"congelation ice, mean seasonal maximum (m)",mean,36,1.787414
+yellowknife,station,50,"ice thickness, mean seasonal maximum (m)",mean,36,1.346109
+yellowknife,station,50,"snow ice, mean seasonal maximum (m)",mean,36,0.139551
+yellowknife,station,50,"congelation ice, mean seasonal maximum (m)",mean,36,1.210602
+yellowknife,station,100,"ice thickness, mean seasonal maximum (m)",mean,36,1.471254
+yellowknife,station,100,"snow ice, mean seasonal maximum (m)",mean,36,0.461918
+yellowknife,station,100,"congelation ice, mean seasonal maximum (m)",mean,36,1.062471

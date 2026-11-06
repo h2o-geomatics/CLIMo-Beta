@@ -1,0 +1,80 @@
+{
+  "site": {
+    "name": "Baker Lake (Nunavut)",
+    "lat": 64.3,
+    "lon": -96.08,
+    "itp_id": "YBK",
+    "itp_sheet": "Baker Lake",
+    "nsidc_code": "WRS203",
+    "start": 1980,
+    "end": 2020
+  },
+  "settings": {
+    "snow_percentages": [
+      0,
+      50,
+      100
+    ],
+    "rho_snow_cold": 330.0,
+    "mixing_depth": 10.0,
+    "mixing_depth_sensitivity": [
+      5.0,
+      20.0
+    ],
+    "breakup_threshold_m": 0.1
+  },
+  "forcing": {
+    "station": [
+      "AirTemp: station 719260-99999 BAKER LAKE (0.15 km), 693 days filled from ERA5",
+      "RelHum: station 719260-99999 BAKER LAKE (0.15 km), 719 days filled from ERA5",
+      "WindSpd: station 719260-99999 BAKER LAKE (0.15 km), 687 days filled from ERA5",
+      "Cloud: station 719260-99999 BAKER LAKE (0.15 km), 1180 days filled from ERA5",
+      "Snow: station CAN02300500 BAKER LAKE A (0.16 km), 2859 days filled from ERA5"
+    ],
+    "era5": [
+      "AirTemp: ERA5",
+      "RelHum: ERA5",
+      "WindSpd: ERA5",
+      "Cloud: ERA5",
+      "Snow: ERA5-Land"
+    ]
+  },
+  "era5_cell": {
+    "latitude": 64.25,
+    "longitude": -96.0,
+    "resolution_deg": 0.25,
+    "distance_km": 6.77
+  },
+  "flake_cell": {
+    "latitude": 64.25,
+    "longitude": -96.0,
+    "lake_cover": 0.377,
+    "box_lake_cover": {
+      "64.75, -96.5": 0.03,
+      "64.75, -96.25": 0.02,
+      "64.75, -96": 0.06,
+      "64.75, -95.75": 0.13,
+      "64.75, -95.5": 0.13,
+      "64.5, -96.5": 0.07,
+      "64.5, -96.25": 0.09,
+      "64.5, -96": 0.06,
+      "64.5, -95.75": 0.03,
+      "64.5, -95.5": 0.02,
+      "64.25, -96.5": 0.18,
+      "64.25, -96.25": 0.22,
+      "64.25, -96": 0.38,
+      "64.25, -95.75": 0.61,
+      "64.25, -95.5": 0.68,
+      "64, -96.5": 0.3,
+      "64, -96.25": 0.18,
+      "64, -96": 0.13,
+      "64, -95.75": 0.22,
+      "64, -95.5": 0.23,
+      "63.75, -96.5": 0.22,
+      "63.75, -96.25": 0.2,
+      "63.75, -96": 0.09,
+      "63.75, -95.75": 0.09,
+      "63.75, -95.5": 0.09
+    }
+  }
+}
